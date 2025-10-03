@@ -8,6 +8,18 @@ permalink: /PRoP/home
 
 Navigate to the parts of the Compendium below.
 
+<details>
+<summary>Rules of Court</summary>
+Civil Procedure<br>
+Special Proceedings<br>
+Criminal Procedure<br>
+Evidence<br>
+Legal Ethics<br>
+Judicial Ethics<br>
+</details>
+
+<br><br><br>
+
 ---
 Jurisdiction Statutes (Test)
 ---
