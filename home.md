@@ -4,30 +4,24 @@ title: PRoP
 permalink: /PRoP/home
 ---
 ## Philippine Rules of Procedure
-### This is a collection of various rules: the Rules of Court, rules on special writs, and other rules of procedure, as amended, along with remedial case law.
+#### This is a collection of various rules: the Rules of Court, rules on special writs, and other rules of procedure, as amended, along with remedial case law.
 
 Navigate to the parts of the Compendium below.
-<br><br><br>
+<br><br>
 
-### History of the Rules
-### Jurisdiction Statutes
+### <a href="./hst">History of the Rules</a><br>
+### <a href="./jrd">Jurisdiction Statutes</a><br>
 
-### Rules of Court
-<details open>
-<summary>Click to expand</summary>
-
+### Rules of Court and Ethics
 <a href="./cvp">Civil Procedure</a><br>
-
-Special Proceedings<br>
-Criminal Procedure<br>
-Evidence<br>
-Legal Ethics<br>
-Judicial Ethics<br>
-</details>
+<a href="./spp">Special Proceedings</a><br>
+<a href="./crp">Criminal Procedure</a><br>
+<a href="./evd">Evidence</a><br>
+<a href="./lge">Legal Ethics</a><br>
+<a href="./jde">Judicial Ethics</a><br>
 
 ### Special Rules
-<details><summary>Click to expand</summary>
-</details>
+
 
 <summary></summary>
 

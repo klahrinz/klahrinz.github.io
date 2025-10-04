@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: PRoP/about/
+permalink: about/
 ---
 
 #About
