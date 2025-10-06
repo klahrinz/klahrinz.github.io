@@ -1,0 +1,67 @@
+<style>
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+.sidenav a {
+  padding: 4px 4px 4px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 20px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+</style>
+
+<!-- ### <a href="./hst">History of the Rules</a><br>
+### <a href="./jrd">Jurisdiction Statutes</a><br>
+
+### Rules of Court and Ethics
+<a href="./cvp">Civil Procedure</a><br>
+<a href="./spp">Special Proceedings</a><br>
+<a href="./crp">Criminal Procedure</a><br>
+<a href="./evd">Evidence</a><br>
+<a href="./lge">Legal Ethics</a><br>
+<a href="./jde">Judicial Ethics</a><br>
+
+### Special Rules -->
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#">History of the Rules</a>
+  <a href="#">Jurisdiction Statutes</a>
+  <a href="#">Rules of Court and Ethics</a>
+  <a href="#">Special Rules</a>
+</div>
+
+<span style="font-size:20px;cursor:pointer" onclick="openNav()">&#9776; </span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>

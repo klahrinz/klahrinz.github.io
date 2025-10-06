@@ -3,11 +3,12 @@ layout: page
 title: PRoP
 permalink: /PRoP/home
 ---
+<!-- There's a comment here so it doesn't include the title in the top bar. -->
 ## Philippine Rules of Procedure
 #### This is a collection of various rules: the Rules of Court, rules on special writs, and other rules of procedure, as amended, along with remedial case law.
 
 Navigate to the parts of the Compendium below.
-<br><br>
+<br>
 
 ### <a href="./hst">History of the Rules</a><br>
 ### <a href="./jrd">Jurisdiction Statutes</a><br>
@@ -22,9 +23,6 @@ Navigate to the parts of the Compendium below.
 
 ### Special Rules
 
-
 <summary></summary>
 
-
-<br><br><br>
 
