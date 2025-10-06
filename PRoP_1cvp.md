@@ -4,14 +4,6 @@ permalink: PRoP/cvp/
 ---
 <!-- There's a comment here so it doesn't include the title in the top bar. -->
 
-<ul class="no-bullets">
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-</ul>
-
-
-
 # RULES OF CIVIL PROCEDURE
 #### RULE 1 GENERAL PROVISIONS
 *Section 1. Title of the Rules.*
