@@ -3,4 +3,7 @@
 ---
 
 @import "minima";
-@import "cusom1";
+ul {
+  list-style-type: none;   /* remove default bullets */
+  padding-left: 0em;
+}
