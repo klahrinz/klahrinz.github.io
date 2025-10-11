@@ -6,8 +6,9 @@ layout: home
 ---
 <!-- There's a comment here so it doesn't include the title in the top bar. -->
 
-# Posts
+# <span style="font-variant:small-caps;">Project Lexotheca</span>
 
+## The <span style="font-variant:small-caps;">Constitution</span>
 ## Philippine Rules of Procedure
 ### <a href="PRoP/hst">History of the Rules</a><br>
 ### <a href="PRoP/jrd">Jurisdiction Statutes</a><br>
