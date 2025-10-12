@@ -12,40 +12,21 @@ For case-law section-level headings:
 <ins>*<span style=" color:rgba(50, 100, 65, 1);">PLF v. DEF, G.R. No. ###### (YYYY Mmm DD) (Decision/Resolution – Nth Division/En Banc, Ponente)</span>*</ins>
 
 For non-Title, non-Subtitle, non-regular headers:
-Non-Regular Header 1
-<p style="text-align:center; font-size: 18px; font-weight: bold;">  </p>
-
-Non-Regular Header 2
+Heading for RPC Book
 <p style="text-align:center; font-size: 20px; font-weight: bold;">  </p>
 
+Non-Regular Heading 1/RPC Title/RPC Chapter/RPC Section
+<p style="text-align:center; font-size: 18px; font-weight: bold;">  </p>
+
+Non-Regular Heading 2 / Rules / RPC Articles
+<p style="text-align:center; font-size: 16px; font-weight: bold;">  </p>
+
 Fromat notes:
-F-R notes
-F-R double up spaces
-[wildcard = false]
-^p
-^p^p
-
-F-R Section to italicize sections
-[wildcard = true]
-(Section [0-9]*>.*)^13
-*\1*^p
-
-F-R Rule to boldez rules
-[wildcard = true]
-(RULE *)^13
-**\1**^p
-
-F-R paragraph numbering to include color
-[wildcard = true]
-(\[¶[0-9]\] )
-<span style="color:Gray">\1</span>
-
 // issue 1 [Resolved]
 something very wrong:
 line 1:
 
 line 2:
-
 
 print 1 is a gray [¶1]
 but print 2 is just the line of code
