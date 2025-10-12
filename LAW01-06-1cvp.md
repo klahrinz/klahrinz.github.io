@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: PRoP/cvp/
+title: Civil Procedure
+permalink: cvp
 ---
 <!-- There's a comment here so it doesn't include the title in the top bar. 
 

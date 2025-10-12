@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: PRoP/crp/
+title: Criminal Proceedings
+permalink: crp
 ---
 <!-- There's a comment here so it doesn't include the title in the top bar. -->
 
@@ -254,7 +255,7 @@ The record of the preliminary investigation, whether conducted by a judge or a p
 
 If the complaint is filed directly with the prosecutor involving an offense punishable by imprisonment of less than four (4) years, two (2) months and one (1) day, the procedure outlined in section 3(a) of this Rule shall be observed. The prosecutor shall act on the complaint based on the affidavits and other supporting documents submitted by the complainant within ten (10) days from its filing.
 
-- (b) *If filed with the Municipal Trial Court.*
+ - (b) *If filed with the Municipal Trial Court.*
 
  If the complaint or information is filed with the Municipal Trial Court or Municipal Circuit Trial Court for an offense covered by this section, the procedure in section 3(a) of this Rule shall be observed. If within ten (10) days after the filing of the complaint or information, the judge finds no probable cause after personally evaluating the evidence, or after personally examining in writing and under oath the complainant and his witnesses in the form of searching questions and answers, he shall dismiss the same. He may, how ever, require the submission of additional evidence, within ten (10) days from notice, to determine further the existence of probable cause. If the judge still finds no probable cause despite the additional evidence, he shall, within ten (10) days from its submission or expiration of said period, dismiss the case. When he finds probable cause, he shall issue a warrant of arrest, or a commitment order if the accused had already been arrested, and hold him for trial. However, if the judge is satisfied that there is no necessity for placing the accused under custody, he may issue summons instead of a warrant of arrest.
 

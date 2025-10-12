@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: PRoP/evd/
+title: Evidence
+permalink: evd
 ---
 <!-- There's a comment here so it doesn't include the title in the top bar. -->
 # RULES ON EVIDENCE
@@ -830,7 +831,7 @@ An extrajudicial confession made by an accused shall not be sufficient ground fo
 **Section 4. Circumstantial evidence, when sufficient.**
 
 Circumstantial evidence is sufficient for conviction if:
-
+    
  - (a) There is more than one (1) circumstance;
 
  - (b) The facts from which the inferences are derived are proven; and

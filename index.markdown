@@ -6,19 +6,24 @@ layout: home
 ---
 <!-- There's a comment here so it doesn't include the title in the top bar. -->
 
+Test
+
 # <span style="font-variant:small-caps;">Project Lexotheca</span>
 
-## The <span style="font-variant:small-caps;">Constitution</span>
+## <a href=cns> The <span style="font-variant:small-caps;">Constitution</span></a>
 ## Philippine Rules of Procedure
-### <a href="PRoP/hst">History of the Rules</a><br>
-### <a href="PRoP/jrd">Jurisdiction Statutes</a><br>
+- <a href="PRoP/hst">History of the Rules</a><br>
+- <a href="PRoP/jrd">Jurisdiction Statutes</a><br>
+- Rules of Court and Ethics
+    - <a href=cvp>Civil Procedure</a><br>
+    - <a href=spp>Special Proceedings</a><br>
+    - <a href=crp>Criminal Procedure</a><br>
+    - <a href=evd>Evidence</a><br>
+    - <a href=lge>Legal Ethics</a><br>
+    - <a href=jde>Judicial Ethics</a><br>
+- Special Rules
 
-### Rules of Court and Ethics
-<a href="PRoP/cvp">Civil Procedure</a><br>
-<a href="PRoP/spp">Special Proceedings</a><br>
-<a href="PRoP/crp">Criminal Procedure</a><br>
-<a href="PRoP/evd">Evidence</a><br>
-<a href="PRoP/lge">Legal Ethics</a><br>
-<a href="PRoP/jde">Judicial Ethics</a><br>
-
-### Special Rules
+## Philippine Criminal Law
+- <a href=rpc1>Revised Penal Code Book 1</a><br>
+- <a href=rpc2>Revised Penal Code Book 2</a><br>
+- Special Penal Laws
