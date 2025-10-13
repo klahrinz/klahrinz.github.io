@@ -287,7 +287,7 @@ Accessories are those who, having knowledge of the commission of the crime, and 
 
 ###### <span style="color:blue;">(For context, the third preambulatory clause reads: <b>WHEREAS, under existing law, a fence can be prosecuted only as an accessory after the fact and punished lightly</b>.)</span>
 
-- **PD 1612 Section 2. Definition of Terms.**
+- **PD 1612 §2. Definition of Terms.**
 
     The following terms shall mean as follows:
 
@@ -295,7 +295,7 @@ Accessories are those who, having knowledge of the commission of the crime, and 
 
     - (b) "Fence" includes any person, firm, association corporation or partnership or other organization who/which commits the act of fencing.
 
-- **PD 1612 Section 7. Repealing Clause.**
+- **PD 1612 §7. Repealing Clause.**
 
     All laws or parts thereof, which are inconsistent with the provisions of this Decree are hereby repealed or modified accordingly.
 
@@ -349,7 +349,7 @@ The penalties which may be imposed, according to this Code, and their different 
 
     <span style="color:blue;"> This is currently prohibited by RA 9346: </span>
 
-- **RA 6346 Section 1.**
+- **RA 6346 §1.**
     The imposition of the penalty of death is hereby prohibited. ...
 
 <p style="font-size: 14px; font-weight: bold; font-style: italic;"> Afflictive penalties: </p>
@@ -3161,24 +3161,24 @@ Except as is provided in the next preceding article, the present Penal Code, the
 
 The provisions of the Acts which are mentioned here-under are also repealed, namely:
 
-Act 666, sections 6 and 18.
+- Act 666, Sections 6 and 18.
 
-Act 1508, sections 9, 10, 11, and 12.
+- Act 1508, Sections 9, 10, 11, and 12.
 
-Act 1524, section 4.
+- Act 1524, Section 4.
 
-Act 1533, sections 1, 2, and 6.
+- Act 1533, Sections 1, 2, and 6.
 
-Act 1697, sections 3 and 4.
+- Act 1697, Sections 3 and 4.
 
-Act 1757, sections 1, 2, 3, 4, 5, 6, 7 (first clause), 11, and 12.
+- Act 1757, Sections 1, 2, 3, 4, 5, 6, 7 (first clause), 11, and 12.
 
-Act 2381, sections 2, 3, 4, 5, 6, 8, and 9.
+- Act 2381, Sections 2, 3, 4, 5, 6, 8, and 9.
 
-Act 2711, sections 102, 2670, 2671, and 2672.
+- Act 2711, Sections 102, 2670, 2671, and 2672.
 
-Act 3247, sections 1, 2, 3, and 5; and
+- Act 3247, Sections 1, 2, 3, and 5; and
 
-General Orders, No. 58, series of 1900, section 106.
+- General Orders, No. 58, series of 1900, Section 106.
 
-And all laws and parts of laws which are contrary to the provisions of this Code are hereby repealed.
+- And all laws and parts of laws which are contrary to the provisions of this Code are hereby repealed.

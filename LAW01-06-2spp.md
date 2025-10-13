@@ -11,7 +11,7 @@ permalink: spp
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 72 Subject Matter and Applicability of General Rules</p>
 
-**Section 1. Subject matter of special proceedings.**
+**§1. Subject matter of special proceedings.**
 
 Rules of special proceedings are provided for in the following cases:
 
@@ -43,7 +43,7 @@ Rules of special proceedings are provided for in the following cases:
 
 - (n) Cancellation of correction of entries in the civil registry.
 
-**Section 2. Applicability of rules of civil actions.**
+**§2. Applicability of rules of civil actions.**
 
 In the absence of special provisions, the rules provided for in ordinary actions shall be, as far as practicable, applicable in special proceedings.
 
@@ -51,79 +51,79 @@ In the absence of special provisions, the rules provided for in ordinary actions
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 73 Venue and Process</p>
 
-**Section 1. Where estate of deceased persons settled.**
+**§1. Where estate of deceased persons settled.**
 
 If the decedents is an inhabitant of the Philippines at the time of his death, whether a citizen or an alien, his will shall be proved, or letters of administration granted, and his estate settled, in the Court of First Instance in the province in which he resides at the time of his death, and if he is an inhabitant of a foreign country, the Court of First Instance of any province in which he had estate. The court first taking cognizance of the settlement of the estate of a decedent, shall exercise jurisdiction to the exclusion of all other courts. The jurisdiction assumed by a court, so far as it depends on the place of residence of the decedent, or of the location of his estate, shall not be contested in a suit or proceeding, except in an appeal from that court, in the original case, or when the want of jurisdiction appears on the record.
 
-**Section 2. Where estate settled upon dissolution of marriage.**
+**§2. Where estate settled upon dissolution of marriage.**
 
 When the marriage is dissolved by the death of the husband or wife, the community property shall be inventoried, administered, and liquidated, and the debts thereof paid, in the testate or intestate proceedings of the deceased spouse. If both spouses have died, the conjugal partnership shall be liquidated in the testate or intestate proceedings of either.
 
-**Section 3. Process.**
+**§3. Process.**
 
 In the exercise of probate jurisdiction, Courts of First Instance may issue warrants and process necessary to compel the attendance of witnesses or to carry into effect their orders and judgments, and all other powers granted them by law. If a person does not perform an order or judgment rendered by a court in the exercise of its probate jurisdiction, it may issue a warrant for the apprehension and imprisonment of such person until he performs such order or judgment, or is released.
 
-**Section 4. Presumption of death.**
+**§4. Presumption of death.**
 
 For purposes of settlement of his estate, a person shall be presumed dead if absent and unheard from for the periods fixed in the Civil Code. But if such person proves to be alive, he shall be entitled to the balance of his estate after payment of all his debts. The balance may be recovered by motion in the same proceeding.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 74 Summary Settlement of Estate</p>
 
-**Section 1. Extrajudicial settlement by agreement between heirs.**
+**§1. Extrajudicial settlement by agreement between heirs.**
 
-If the decedent left no will and no debts and the heirs are all of age, or the minors are represented by their judicial or legal representatives duly authorized for the purpose, the parties may without securing letters of administration, divide the estate among themselves as they see fit by means of a public instrument filed in the office of the register of deeds, and should they disagree, they may do so in an ordinary action of partition. If there is only one heir, he may adjudicate to himself the entire estate by means of an affidavit filled in the office of the register of deeds. The parties to an extrajudicial settlement, whether by public instrument or by stipulation in a pending action for partition, or the sole heir who adjudicates the entire estate to himself by means of an affidavit shall file, simultaneously with and as a condition precedent to the filing of the public instrument, or stipulation in the action for partition, or of the affidavit in the office of the register of deeds, a bond with the said register of deeds, in an amount equivalent to the value of the personal property involved as certified to under oath by the parties concerned and conditioned upon the payment of any just claim that may be filed under section 4 of this rule. It shall be presumed that the decedent left no debts if no creditor files a petition for letters of administration within two (2) years after the death of the decedent.
+If the decedent left no will and no debts and the heirs are all of age, or the minors are represented by their judicial or legal representatives duly authorized for the purpose, the parties may without securing letters of administration, divide the estate among themselves as they see fit by means of a public instrument filed in the office of the register of deeds, and should they disagree, they may do so in an ordinary action of partition. If there is only one heir, he may adjudicate to himself the entire estate by means of an affidavit filled in the office of the register of deeds. The parties to an extrajudicial settlement, whether by public instrument or by stipulation in a pending action for partition, or the sole heir who adjudicates the entire estate to himself by means of an affidavit shall file, simultaneously with and as a condition precedent to the filing of the public instrument, or stipulation in the action for partition, or of the affidavit in the office of the register of deeds, a bond with the said register of deeds, in an amount equivalent to the value of the personal property involved as certified to under oath by the parties concerned and conditioned upon the payment of any just claim that may be filed under §4 of this rule. It shall be presumed that the decedent left no debts if no creditor files a petition for letters of administration within two (2) years after the death of the decedent.
 
 The fact of the extrajudicial settlement or administration shall be published in a newspaper of general circulation in the manner provided in the nest succeeding section; but no extrajudicial settlement shall be binding upon any person who has not participated therein or had no notice thereof.
 
-**Section 2. Summary settlement of estate of small value.**
+**§2. Summary settlement of estate of small value.**
 
 Whenever the gross value of the estate of a deceased person, whether he died testate or intestate, does not exceed ten thousand pesos, and that fact is made to appear to the Court of First Instance having jurisdiction of the estate by the petition of an interested person and upon hearing, which shall be held not less than one (1) month nor more than three (3) months from the date of the last publication of a notice which shall be published once a week for three (3) consecutive weeks in a newspaper of general circulation in the province, and after such other notice to interest persons as the court may direct, the court may proceed summarily, without the appointment of an executor or administrator, and without delay, to grant, if proper, allowance of the will, if any there be, to determine who are the persons legally entitled to participate in the estate, and to apportion and divide it among them after the payment of such debts of the estate as the court shall then find to be due; and such persons, in their own right, if they are of lawful age and legal capacity, or by their
 
 guardians or trustees legally appointed and qualified, if otherwise, shall thereupon be entitled to receive and enter into the possession of the portions of the estate so awarded to them respectively. The court shall make such order as may be just respecting the costs of the proceedings, and all orders and judgments made or rendered in the course thereof shall be recorded in the office of the clerk, and the order of partition or award, if it involves real estate, shall be recorded in the proper register's office.
 
-**Section 3. Bond to be filed by distributees.**
+**§3. Bond to be filed by distributees.**
 
 The court, before allowing a partition in accordance with the provisions of the preceding section, my require the distributees, if property other than real is to be distributed, to file a bond in an amount to be fixed by court, conditioned for the payment of any just claim which may be filed under the next succeeding section.
 
-**Section 4. Liability of distributees and estate.**
+**§4. Liability of distributees and estate.**
 
 If it shall appear at any time within two (2) years after the settlement and distribution of an estate in accordance with the provisions of either of the first two sections of this rule, that an heir or other person has been unduly deprived of his lawful participation in the estate, such heir or such other person may compel the settlement of the estate in the courts in the manner hereinafter provided for the purpose of satisfying such lawful participation. And if within the same time of two (2) years, it shall appear that there are debts outstanding against the estate which have not been paid, or that an heir or other person has been unduly deprived of his lawful participation payable in money, the court having jurisdiction of the estate may, by order for that purpose, after hearing, settle the amount of such debts or lawful participation and order how much and in what manner each distributee shall contribute in the payment thereof, and may issue execution, if circumstances require, against the bond provided in the preceding section or against the real estate belonging to the deceased, or both. Such bond and such real estate shall remain charged with a liability to creditors, heirs, or other persons for the full period of two (2) years after such distribution, notwithstanding any transfers of real estate that may have been made.
 
-**Section 5. Period for claim of minor or incapacitated person.**
+**§5. Period for claim of minor or incapacitated person.**
 
 If on the date of the expiration of the period of two (2) years prescribed in the preceding section the person authorized to file a claim is a minor or mentally incapacitated, or is in prison or outside the Philippines, he may present his claim within one (1) year after such disability is removed.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 75 Production of Will. Allowance of Will Necessary</p>
 
-**Section 1. Allowance necessary. Conclusive as to execution.**
+**§1. Allowance necessary. Conclusive as to execution.**
 
 No will shall pass either real or personal estate unless it is proved and allowed in the proper court. Subject to the right of appeal, such allowance of the will shall be conclusive as to its due execution.
 
-**Section 2. Custodian of will to deliver.**
+**§2. Custodian of will to deliver.**
 
 The person who has custody of a will shall, within twenty (20) days after he knows of the death of the testator, deliver the will to the court having jurisdiction, or to the executor named in the will.
 
-**Section 3. Executor to present will and accept or refuse trust.**
+**§3. Executor to present will and accept or refuse trust.**
 
 A person named as executor in a will shall, within twenty (20) days after he knows of the death of the testate, or within twenty (20) days after he knows that he is named executor if he obtained such knowledge after the death of the testator, present such will to the court having jurisdiction, unless the will has reached the court in any other manner, and shall, within such period, signify to the court in writing his acceptance of the trust or his refusal to accept it.
 
-**Section 4. Custodian and executor subject to fine for neglect.**
+**§4. Custodian and executor subject to fine for neglect.**
 
 A person who neglects any of the duties required in the two last preceding sections without excused satisfactory to the court shall be fined not exceeding two thousand pesos.
 
-**Section 5. Person retaining will may be committed.**
+**§5. Person retaining will may be committed.**
 
 A person having custody of a will after the death of the testator who neglects without reasonable cause to deliver the same, when ordered so to do, to the court having jurisdiction, may be committed to prison and there kept until he delivers the will.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 76 Allowance or Disallowance of Will</p>
 
-**Section 1. Who may petition for the allowance of will.**
+**§1. Who may petition for the allowance of will.**
 
 Any executor, devisee, or legatee named in a will, or any other person interested in the estate, may, at any time after the death of the testator, petition the court having jurisdiction to have the will allowed, whether the same be in his possession or not, or is lost or destroyed.
 
 The testator himself may, during his lifetime, petition the court for the allowance of his will.
 
-**Section 2. Contents of petition.**
+**§2. Contents of petition.**
 
 A petition for the allowance of a will must show, so far as known to the petitioner:
 
@@ -139,37 +139,37 @@ A petition for the allowance of a will must show, so far as known to the petitio
 
 But no defect in the petition shall render void the allowance of the will, or the issuance of letters testamentary or of administration with the will annexed.
 
-**Section 3. Court to appoint time for proving will. Notice thereof to be published.**
+**§3. Court to appoint time for proving will. Notice thereof to be published.**
 
 When a will is delivered to, or a petition for the allowance of a will is filed in, the court having jurisdiction, such court shall fix a time and place for proving the will when all concerned may appear to contest the allowance thereof, and shall cause notice of such time and place to be published three (3) weeks successively, previous to the time appointed, in a newspaper of general circulation in the province.
 
 But no newspaper publication shall be made where the petition for probate has been filed by the testator himself.
 
-**Section 4. Heirs, devisees, legatees, and executors to be notified by mail or personally.**
+**§4. Heirs, devisees, legatees, and executors to be notified by mail or personally.**
 
 The court shall also cause copies of the notice of the time and place fixed for proving the will to be addressed to the designated or other known heirs, legatees, and devisees of the testator resident in the Philippines at their places of residence, and deposited in the post office with the postage thereon prepaid at least twenty (20) days before the hearing, if such places of residence be known. A copy of the notice must in like manner be mailed to the person named as executor, if he be not the petitioner; also, to any person named as coexecutor not petitioning, if their places of residence be known. Personal service of copies of the notice at lest (10) days before the day of hearing shall be equivalent to mailing.
 
 If the testator asks for the allowance of his own will, notice shall be sent only to his compulsory heirs.
 
-**Section 5. Proof at hearing. What sufficient in absence of contest.**
+**§5. Proof at hearing. What sufficient in absence of contest.**
 
 At the hearing compliance with the provisions of the last two preceding sections must be shown before the introduction of testimony in support of the will. All such testimony shall be taken under oath and reduced to writing. It no person appears to contest the allowance of the will, the court may grant allowance thereof on the testimony of one of the subscribing witnesses only, if such witness testify that the will was executed as is required by law.
 
 In the case of a holographic will, it shall be necessary that at least one witness who knows the handwriting and signature of the testator explicitly declare that the will and the signature are in the handwriting of the testator. In the absence of any such competent witness, and if the court deem it necessary, expert testimony may be resorted to.
 
-**Section 6. Proof of lost or destroyed will. Certificate thereupon.**
+**§6. Proof of lost or destroyed will. Certificate thereupon.**
 
 No will shall be proved as a lost or destroyed will unless the execution and validity of the same be established, and the will is proved to have been in existence at the time of the death of the testator, or is shown to have been fraudulently or accidentally destroyed in the lifetime of the testator without his knowledge, nor unless its provisions are clearly and distinctly proved by at least two (2) credible witnesses. When a lost will is proved, the provisions thereof must be distinctly stated and certified by the judge, under the seal of the court, and the certificate must be filed and recorded as other wills are filed and recorded.
 
-**Section 7. Proof when witnesses do not reside in province.**
+**§7. Proof when witnesses do not reside in province.**
 
 If it appears at the time fixed for the hearing that none of the subscribing witnesses resides in the province, but that the deposition of one or more of them can be taken elsewhere, the court may, on motion, direct it to be taken, and may authorize a photographic copy of the will to be made and to be presented to the witness on his examination, who may be asked the same questions with respect to it, and to the handwriting of the testator and others, as would be pertinent and competent if the original will were present.
 
-**Section 8. Proof when witnesses dead or insane or do not reside in the Philippines.**
+**§8. Proof when witnesses dead or insane or do not reside in the Philippines.**
 
 If the appears at the time fixed for the hearing that the subscribing witnesses are dead or insane, or that none of them resides in the Philippines, the court may admit the testimony of other witnesses to prove the sanity of the testator, and the due execution of the will; and as evidence of the execution of the will, it may admit proof of the handwriting of the testator and of the subscribing witnesses, or of any of them.
 
-**Section 9. Grounds for disallowing will.**
+**§9. Grounds for disallowing will.**
 
 The will shall be disallowed in any of the following cases:
 
@@ -183,45 +183,45 @@ The will shall be disallowed in any of the following cases:
 
 - (e) If the signature of the testator was procured by fraud or trick, and he did not intend that the instrument should be his will at the time of fixing his signature thereto.
 
-**Section 10. Contestant to file grounds of contest.**
+**§10. Contestant to file grounds of contest.**
 
 Anyone appearing to contest the will must state in writing his grounds for opposing its allowance, and serve a copy thereof on the petitioner and other parties interested in the estate.
 
-**Section 11. Subscribing witnesses produced or accounted for where will contested.**
+**§11. Subscribing witnesses produced or accounted for where will contested.**
 
 If the will is contested, all the subscribing witnesses, and the notary in the case of wills executed under the Civil Code of the Philippines, if present in the Philippines and not insane, must be produced and examined, and the death, absence, or insanity of any of them must be satisfactorily shown to the court. If all or some of such witnesses are present in the Philippines but outside the province where the will has been filed, their deposition must be taken. If any or all of them testify against the due execution of the will, or do not remember having attested to it, or are otherwise of doubtful credibility, the will may nevertheless, be allowed if the court is satisfied from the testimony of other witnesses and from all the evidence presented that the will was executed and attested in the manner required by law.
 
 If a holographic will is contested, the same shall be allowed if at least three (3) witnesses who know the handwriting of the testator explicitly declare that the will and the signature are in the handwriting of the testator; in the absence of any competent witnesses, and if the court deem it necessary, expert testimony may be resorted to.
 
-**Section 12. Proof where testator petitions for allowance of holographic will.**
+**§12. Proof where testator petitions for allowance of holographic will.**
 
 Where the testator himself petitions for the probate of his holographic will and no contest is filed, the fact that the affirms that the holographic will and the signature are in his own handwriting, shall be sufficient evidence of the genuineness and due execution thereof. If the holographic will is contested, the burden of disproving the genuineness and due execution thereof shall be on the contestant. The testator to rebut the evidence for the contestant.
 
-**Section 13. Certificate of allowance attached to prove will. To be recorded in the Office of Register of Deeds.**
+**§13. Certificate of allowance attached to prove will. To be recorded in the Office of Register of Deeds.**
 
 If the court is satisfied, upon proof taken and filed, that the will was duly executed, and that the testator at the time of its execution was of sound and disposing mind, and not acting under duress, menace, and undue influence, or fraud, a certificate of its allowance, signed by the judge, and attested by the seal of the court shall be attached to the will and the will and certificate filed and recorded by the clerk. Attested copies of the will devising real estate and of certificate of allowance thereof, shall be recorded in the register of deeds of the province in which the lands lie.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 77 Allowance of Will Proved Outside of Philippines<br>and Administration of Estate Thereunder</p>
 
-**Section 1. Will proved outside Philippines may be allowed here.**
+**§1. Will proved outside Philippines may be allowed here.**
 
 Wills proved and allowed in a foreign country, according to the laws of such country, may be allowed, filed, and recorded by the proper Court of First Instance in the Philippines.
 
-**Section 2. Notice of hearing for allowance.**
+**§2. Notice of hearing for allowance.**
 
 When a copy of such will and of the order or decree of the allowance thereof, both duly authenticated, are filed with a petition for allowance in the Philippines, by the executor or other person interested, in the court having jurisdiction, such court shall fix a time and place for the hearing, and cause notice thereof to be given as in case of an original will presented for allowance.
 
-**Section 3. When will allowed, and effect thereof.**
+**§3. When will allowed, and effect thereof.**
 
 If it appears at the hearing that the will should be allowed in the Philippines, the shall so allow it, and a certificate of its allowance, signed by the judge, and attested by the seal of the court, to which shall be attached a copy of the will, shall be filed and recorded by the clerk, and the will shall have the same effect as if originally proves and allowed in such court.
 
-**Section 4. Estate, how administered.**
+**§4. Estate, how administered.**
 
 When a will is thus allowed, the court shall grant letters testamentary, or letters of administration with the will annexed, and such letters testamentary or of administration, shall extend to all the estate of the testator in the Philippines. Such estate, after the payment of just debts and expenses of administration, shall be disposed of according to such will, so far as such will may operate upon it; and the residue, if any shall be disposed of as is provided by law in cases of estates in the Philippines belonging to persons who are inhabitants of another state or country.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 78 Letters Testamentary and of Administration, When and to Whom Issued</p>
 
-**Section 1. Who are incompetent to serve as executors or administrators.**
+**§1. Who are incompetent to serve as executors or administrators.**
 
 No person in competent to serve as executor or administrator who:
 
@@ -231,23 +231,23 @@ No person in competent to serve as executor or administrator who:
 
 - (c) Is in the opinion of the court unfit to execute the duties of the trust by reason of drunkenness, improvidence, or want of understanding or integrity, or by reason of conviction of an offense involving moral turpitude.
 
-**Section 2. Executor of executor not to administer estate.**
+**§2. Executor of executor not to administer estate.**
 
 The executor of an executor shall not, as such, administer the estate of the first testator.
 
-**Section 3. Married women may serve.**
+**§3. Married women may serve.**
 
 A married woman may serve as executrix or administratrix, and the marriage of a single woman shall not affect her authority so to serve under a previous appointment.
 
-**Section 4. Letters testamentary issued when will allowed.**
+**§4. Letters testamentary issued when will allowed.**
 
 When a will has been proved and allowed, the court shall issue letters testamentary thereon to the person named as executor therein, if he is competent, accepts the trust, and gives bond as required by these rules.
 
-**Section 5. Where some coexecutors disqualified others may act.**
+**§5. Where some coexecutors disqualified others may act.**
 
 When all of the executors named in a will can not act because of incompetency, refusal to accept the trust, or failure to give bond, on the part of one or more of them, letters testamentary may issue to such of them as are competent, accept and give bond, and they may perform the duties and discharge the trust required by the will.
 
-**Section 6. When and to whom letters of administration granted.**
+**§6. When and to whom letters of administration granted.**
 
 If no executor is named in the will, or the executor or executors are incompetent, refuse the trust, or fail to give bond, or a person dies intestate, administration shall be granted:
 
@@ -259,11 +259,11 @@ If no executor is named in the will, or the executor or executors are incompeten
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 79 Opposing Issuance Of Letters Testamentary. Petition And Contest For Letters Of Administration</p>
 
-**Section 1. Opposition to issuance of letters testamentary. Simultaneous petition for administration.**
+**§1. Opposition to issuance of letters testamentary. Simultaneous petition for administration.**
 
 Any person interested in a will may state in writing the grounds why letters testamentary should not issue to the persons named therein as executors, or any of them, and the court, after hearing upon notice, shall pass upon the sufficiency of such grounds. A petition may, at the time, be filed for letters of administration with the will annexed.
 
-**Section 2. Contents of petition for letters of administration.**
+**§2. Contents of petition for letters of administration.**
 
 A petition for letters of administration must be filed by an interested person and must show, so far as known to the petitioner:
 
@@ -277,39 +277,39 @@ A petition for letters of administration must be filed by an interested person a
 
 But no defect in the petition shall render void the issuance of letters of administration.
 
-**Section 3. Court to set time for hearing. Notice thereof.**
+**§3. Court to set time for hearing. Notice thereof.**
 
 When a petition for letters of administration is filed in the court having jurisdiction, such court shall fix a time and place for hearing the petition, and shall cause notice thereof to be given to the known heirs and creditors of the decedent, and to any other persons believed to have an interest in the estate, in the manner provided in sections 3 and 4 of Rule 76.
 
-**Section 4. Opposition to petition for administration.**
+**§4. Opposition to petition for administration.**
 
 Any interested person may, by filing a written opposition, contest the petition on the ground of the incompetency of the person for whom letters are prayed therein, or on the ground of the contestant's own right to the administration, and may pray that letters issue to himself, or to any competent person or person named in the opposition.
 
-**Section 5. Hearing and order for letters to issue.**
+**§5. Hearing and order for letters to issue.**
 
 At the hearing of the petition, it must first be shown that notice has been given as hereinabove required, and thereafter the court shall hear the proofs of the parties in support of their respective allegations, and if satisfied that the decedent left no will, or that there is no competent and willing executor, it shall order the issuance of letters of administration to the party best entitled thereto.
 
-**Section 6. When letters of administration granted to any applicant.**
+**§6. When letters of administration granted to any applicant.**
 
 Letters of administration may be granted to any qualified applicant, though it appears that there are other competent persons having better right to the administration, if such persons fail to appear when notified and claim the issuance of letters to themselves.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 80 Special Administrator</p>
 
-**Section 1. Appointment of special administrator.**
+**§1. Appointment of special administrator.**
 
 When there is delay in granting letters testamentary or of administration by any cause including an appeal from the allowance or disallowance of a will, the court may appoint a special administrator to take possession and charge of the estate of the deceased until the questions causing the delay are decided and executors or administrators appointed.
 
-**Section 2. Powers and duties of special administrator.**
+**§2. Powers and duties of special administrator.**
 
 Such special administrator shall take possession and charge of the goods, chattels, rights, credits, and estate of the deceased and preserve the same for the executors or administrator afterwards appointed, and for that purpose may commence and maintain suits as administrator. He may sell only such perishable and other property as the court orders sold. A special administrator shall not be liable to pay any debts of the deceased unless so ordered by the court.
 
-**Section 3. When powers of special administrator cease. Transfer of effects. Pending suits.**
+**§3. When powers of special administrator cease. Transfer of effects. Pending suits.**
 
 When letters testamentary or of administration are granted on the estate of the deceased, the powers of the special administrator shall cease, and he shall forthwith deliver to the executor or administrator the goods, chattels, money, and estate of the deceased in his hands. The executor or administrator may prosecute to final judgment suits commenced by such special administrator.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 81 Bond of Executors and Administrators</p>
 
-**Section 1. Bond to be given issuance of letters. Amount. Conditions.**
+**§1. Bond to be given issuance of letters. Amount. Conditions.**
 
 Before an executor or administrator enters upon the execution of his trust, and letters testamentary or administration issue, he shall give a bond, in such sum as the court directs, conditioned as follows:
 
@@ -321,91 +321,91 @@ Before an executor or administrator enters upon the execution of his trust, and 
 
 - (d) To perform all orders of the court by him to be performed.
 
-**Section 2. Bond of executor where directed in will. When further bond required.**
+**§2. Bond of executor where directed in will. When further bond required.**
 
 If the testator in his will directs that the executors serve without bond, or with only his individual bond, he may be allowed by the court to give bond in such sum and with such surety as the court approves conditioned only to pay the debts of the testator; but the court may require of the executor a further bond in case of a change in his circumstance, or for other sufficient case, with the conditions named in the last preceding section.
 
-**Section 3. Bonds of joint executors and administrators.**
+**§3. Bonds of joint executors and administrators.**
 
 When two or more persons are appointed executors or administrators the court may take a separate bond from each, or a joint bond from all.
 
-**Section 4. Bond of special administrator.**
+**§4. Bond of special administrator.**
 
 A special administrator before entering upon the duties of his trust shall give a bond, in such sum as the court directs, conditioned that he will make and return a true inventory of the goods, chattels, rights, credits, and estate of the deceased which come to his possession or knowledge, and that he will truly account for such as are received by him when required by the court, and will deliver the same to the person appointed executor or administrator, or to such other person as may be authorized to receive them.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 82 Revocation of Administration, Death, Resignation, and Removal of Executors or Administrators</p>
 
-**Section 1. Administration revoked if will discovered. Proceedings thereupon.**
+**§1. Administration revoked if will discovered. Proceedings thereupon.**
 
 If after letters of administration have been granted on the estate of a decedent as if he had died intestate, his will is proved and allowed by the court, the letters of administration shall be revoked and all powers thereunder cease, and the administrator shall forthwith surrender the letters to the court, and render his account with such time as the court directs. Proceeding for the issuance of letters testamentary or of administration under the will shall be as hereinbefore provided.
 
-**Section 2. Court may be remove or accept resignation of executor or administrator. Proceeding upon death, resignation, or removal.**
+**§2. Court may be remove or accept resignation of executor or administrator. Proceeding upon death, resignation, or removal.**
 
 If an executor or administrator neglects to render his account and settle the estate according to law, or to perform an order or judgment of the court, or a duty expressly provided by these rules, or absconds, or becomes insane, or otherwise incapable or unsuitable to discharge the trust, the court may remove him, or in its discretion, may permit him to resign. When an executor or administrator dies, resign, or is removed the remaining executor or administrator may administer the trust alone, unless the court grants letters to someone to act with him. If there is no remaining executor or administrator, administration may be to any suitable person.
 
-**Section 3. Acts before revocation, resignation, or removal to be valid.**
+**§3. Acts before revocation, resignation, or removal to be valid.**
 
 The lawful acts of an executor or administrator before the revocation of his letters testamentary or of administration, or before his resignation or removal, shall have the like validity as if there had been no such revocation, resignation, or removal.
 
-**Section 4. Powers of new executor or administrator. Renewal of license to sell real estate.**
+**§4. Powers of new executor or administrator. Renewal of license to sell real estate.**
 
 The person to whom letters testamentary or of administration are granted after the revocation of former letters, or the death, resignation, or removal of a former executor or administrator, shall have the like powers to collect and settle the estate not administered that the former executor or administrator had, and may prosecute or defend actions commenced by or against the former executor or administrator, and have execution on judgments recovered in the name of such former executor or administrator. An authority granted by the court to the former executor or administrator for the sale or mortgage of real estate may be renewed in favor of such person without further notice or hearing.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 83 Inventory and Appraisal. Provision for Support of Family</p>
 
-**Section 1. Inventory and appraisal to be returned within three months.**
+**§1. Inventory and appraisal to be returned within three months.**
 
 Within three (3) months after his appointment every executor or administrator shall return to the court a true inventory and appraisal of all real and personal estate of the deceased which has come into his possession or knowledge. In the appraisement of such estate, the court may order one or more of the inheritance tax appraisers to give his or their assistance.
 
-**Section 2. Certain article not to be inventoried.**
+**§2. Certain article not to be inventoried.**
 
 The wearing apparel of the surviving husband or wife and minor children., the marriage bed and bedding, and such provisions and other articles as will necessarily be consumed in the subsistence of the family of the deceased, under the direction of the court, shall not be considered as assets, nor administered as such, and shall not be included in the inventory.
 
-**Section 3. Allowance to widow and family.**
+**§3. Allowance to widow and family.**
 
 The widow and minor or incapacitated children of a deceased person, during the settlement of the estate, shall receive therefrom, under the direction of the court, such allowance as are provided by law.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 84 General Powers and Duties of Executors and Administrators</p>
 
-**Section 1. Executor or administrator to have access to partnership books and property. How right enforced.**
+**§1. Executor or administrator to have access to partnership books and property. How right enforced.**
 
 The executor or administrator of the estate of a deceased partner shall at all times have access to, and may examine and take copies of, books and papers relating to the partnership business, and make examine and make invoices of the property belonging to such partnership; and the surviving partner or partners, on request, shall exhibit to him all such books, papers, and property in their hands or control. On the written application of such executor or administrator, the court having jurisdiction of the estate may order any such surviving partner or partners to freely permit the exercise of the rights, and to exhibit the books, papers, and property, as in this section provided, and may punish any partner failing to do so for contempt.
 
-**Section 2. Executor or administrator to keep buildings in repair.**
+**§2. Executor or administrator to keep buildings in repair.**
 
 An executor or administrator shall maintain in tenable repair the houses and other structures and fences belonging to the estate, and deliver the same in such repair to the heirs or devisees when directed so to do by the court.
 
-**Section 3. Executor or administrator to retain whole estate to pay debts, and to administer estate not willed.**
+**§3. Executor or administrator to retain whole estate to pay debts, and to administer estate not willed.**
 
 An executor or administrator shall have the right to the possession and management of the real as well as the personal estate of the deceased so long as it is necessary for the payment of the debts and the expenses of administration.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 85 Accountability and Compensation of Executors and Administrators</p>
 
-**Section 1. Executor or administrator chargeable with all estate and income.**
+**§1. Executor or administrator chargeable with all estate and income.**
 
 Except as otherwise expressly provided in the following sections, every executor or administrator is chargeable in his account with the whole of the estate of the deceased which has come into his possession, at the value of the appraisement contained in the inventory; with all the interest, profit, and income of such estate; and with the proceeds of so much of the estate as is sold by him, at the price at which it was sold.
 
-**Section 2. Not to profit by increase or lose by decrease in value.**
+**§2. Not to profit by increase or lose by decrease in value.**
 
 No executor or administrator shall profit by the increase, or suffer loss by the decrease or destruction, without his fault, of any part of the estate. He must account for the excess when he sells any part of the estate for more than the appraisement, and if any is sold for the less than the appraisement, he is not responsible for the loss, if the sale has justly made. If he settles any claim against the estate for less than its nominal value, he is entitled to charge in his account only the amount he actually paid on the settlement.
 
-**Section 3. When not accountable for debts due estate.**
+**§3. When not accountable for debts due estate.**
 
 No executor or administrator shall be accountable for debts due the deceased which remain uncollected without his fault.
 
-**Section 4. Accountable for income from realty used by him.**
+**§4. Accountable for income from realty used by him.**
 
 If the executor or administrator uses or occupies any part of the real estate himself, he shall account for it as may be agreed upon between him and the parties interested, or adjusted by the court with their assent; and if the parties do not agree upon the sum to be allowed, the same may be ascertained by the court, whose determination in this respect shall be final.
 
-**Section 5. Accountable if he neglects or delays to raise or pay money.**
+**§5. Accountable if he neglects or delays to raise or pay money.**
 
 When an executor or administrator neglects or unreasonably delays to raise money, by collecting the debts or selling the real or personal estate of the deceased, or neglects to pay over the money he has in his hands, and the value of the estate is thereby lessened or unnecessary cost or interest accrues, or the persons interested suffer loss, the same shall be deemed waste and the damage sustained may be charged and allowed against him in his account, and he shall be liable therefor on his bond.
 
-**Section 6. When allowed money paid as cost.**
+**§6. When allowed money paid as cost.**
 
 The amount paid by an executor or administrator for costs awarded against him shall be allowed in his administration account, unless it appears that the action or proceeding in which the costs are taxed was prosecuted or resisted without just cause, and not in good faith.
 
-**Section 7. What expenses and fees allowed executor or administrator. Not to charge for services as attorney. Compensation provided by will controls unless renounced.**
+**§7. What expenses and fees allowed executor or administrator. Not to charge for services as attorney. Compensation provided by will controls unless renounced.**
 
 An executor or administrator shall be allowed the necessary expenses the care, management, and settlement of the estate, and for his services, four pesos per day for the time actually and necessarily employed, or a commission upon the value of so much of the estate as comes into his possession and is finally disposed of by him in the payment of debts, expenses, legacies, or distributive shares, or by delivery to heirs or devisees, of two per centum of the first five thousand pesos of such value, one per centum of so much of such value as exceeds five thousand pesos and does not exceed thirty thousand pesos, one-half per centum of so much of such value as exceed one hundred thousand pesos. But in any special case, where the estate is large, and the settlement has been attended with great difficulty, and has required a high degree of capacity on the part of the executor or administrator, a greater sum may be allowed. If objection to the fees allowed be taken, the allowance may be re-examined on appeal.
 
@@ -415,215 +415,215 @@ When the executors or administrator is an attorney, he shall not charge against 
 
 When the deceased by will makes some other provision for the compensation of his executor, that provision shall be a full satisfaction for his services unless by a written instrument filed in the court he renounces all claim to the compensation provided by the will.
 
-**Section 8. When executor or administrator to render account.**
+**§8. When executor or administrator to render account.**
 
 Every executor or administrator shall render an account of his administration within one (1) year from the time of receiving letters testamentary or of administration, unless the court otherwise directs because of extensions of time for presenting claims against, or paying the debts of, the estate, or for disposing of the estate; and he shall render such further accounts as the court may require until the estate is wholly settled.
 
-**Section 9. Examinations on oath with respect to account.**
+**§9. Examinations on oath with respect to account.**
 
 The court may examine the executor or administrator upon oath with respect to every matter relating to any account rendered by him, and shall so examine him as to the correctness of his account before the same is allowed, except when no objection is made to the allowance of the account and its correctness is satisfactorily established by competent proof. The heirs, legatees, distributees, and creditors of the estate shall have the same privilege as the executor or administrator of being examined on oath on any matter relating to an administration account.
 
-**Section 10. Account to be settled on notice.**
+**§10. Account to be settled on notice.**
 
 Before the account of an executor or administrator is allowed, notice shall be given to persons interested of the time and place of examining and allowing the same; and such notice may be given personally to such persons interested or by advertisement in a newspaper or newspapers, or both, as the court directs.
 
-**Section 11. Surety on bond may be party to accounting.**
+**§11. Surety on bond may be party to accounting.**
 
 Upon the settlement of the account of an executor or administrator, a person liable as surety in respect to such account may, upon application, be admitted as party to such accounting.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 86 Claims Against Estate</p>
 
-**Section 1. Notice to creditors to be issued by court.**
+**§1. Notice to creditors to be issued by court.**
 
 Immediately after granting letters testamentary or of administration, the court shall issue a notice requiring all persons having money claims against the decedent to file them in the office of the clerk of said court.
 
-**Section 2. Time within which claims shall be filed.**
+**§2. Time within which claims shall be filed.**
 
 In the notice provided in the preceding section, the court shall estate the time for the filing of claims against the estate, which shall not be more than twelve (12) not less than six (6) months after the date of the first publication of the notice. However, at any time before an order of distribution is entered, on application of a creditor who has failed to file his claim within the previously limited, the court may, for cause shown and on such terms as are equitable, allow such claim to be filed within a time not exceeding one (1) month.
 
-**Section 3. Publication of notice to creditors.**
+**§3. Publication of notice to creditors.**
 
 Every executor or administrator shall, immediately after the notice to creditors is issued, cause the same to be published three (3) weeks successively in a newspaper of general circulation in the province, and to be posted for the same period in four public places in the province and in two public places in the municipality where the decedent last resided.
 
-**Section 4. Filing of copy of printed notice.**
+**§4. Filing of copy of printed notice.**
 
 Within ten (10) days after the notice has been published and posted in accordance with the preceding section, the executor or administrator shall file or cause to be filed in the court a printed copy of the notice accompanied with an affidavit setting forth the dates of the first and last publication thereof and the name of the newspaper in which the same is printed.
 
-**Section 5. Claims which must be filed under the notice. If not filed, barred; exceptions.**
+**§5. Claims which must be filed under the notice. If not filed, barred; exceptions.**
 
 All claims for money against the decent, arising from contract, express or implied, whether the same be due, not due, or contingent, all claims for funeral expenses and expense for the last sickness of the decedent, and judgment for money against the decent, must be filed within the time limited in the notice; otherwise they are barred forever, except that they may be set forth as counterclaims in any action that the executor or administrator may bring against the claimants. Where an executor or administrator commences an action, or prosecutes an action already commenced by the deceased in his lifetime, the debtor may set forth by answer the claims he has against the decedent, instead of presenting them independently to the court as herein provided, and mutual claims may be set off against each other in such action; and if final judgment is rendered in favor of the defendant, the amount so determined shall be considered the true balance against the estate, as though the claim had been presented directly before the court in the administration proceedings. Claims not yet due, or contingent, may be approved at their present value.
 
-**Section 6. Solidary obligation of decedent.**
+**§6. Solidary obligation of decedent.**
 
 Where the obligation of the decedent is solidary with another debtor, the claim shall be filed against the decedent as if he were the only debtor, without prejudice to the right of the estate to recover contribution from the debtor. In a joint obligation of the decedent, the claim shall be confined to the portion belonging to him.
 
-**Section 7. Mortgage debt due from estate.**
+**§7. Mortgage debt due from estate.**
 
 A creditor holding a claim against the deceased secured by mortgage or other collateral security, may abandon the security and prosecute his claim in the manner provided in this rule, and share in the general distribution of the assets of the estate; or he may foreclose his mortgage or realize upon his security, by action in court, making the executor or administrator a party defendant, and if there is a judgment for a deficiency, after the sale of the mortgaged premises, or the property pledged, in the foreclosure or other proceeding to realize upon the security, he may claim his deficiency judgment in the manner provided in the preceding section or he may rely upon his mortgage or other security alone, and foreclosure the same at any time within the period of the statute of limitations, and in that event he shall not be admitted as a creditor, and shall receive no share in the distribution of the other assets of estate; but nothing herein contained shall prohibit the executor or administrator from redeeming the property mortgaged or pledged, by paying the debt for which it is held as security, under the direction of the court, if the court shall adjudge it to be for the best interest of the estate that such redemption shall be made.
 
-**Section 8. Claim of executor or administrator against an estate.**
+**§8. Claim of executor or administrator against an estate.**
 
 If the executor or administrator has a claim against the estate he represents, he shall give notice thereof, in writing, to the court, and the court shall appoint a special administrator, who shall, in the adjustment of such claim, have the same power and be subject to the same liability as the general administrator or executor in the settlement of other claims. The court may order the executor or administrator to pay to the special administrator necessary funds to defend such claim.
 
-**Section 9. How to file a claim. Contents thereof. Notice to executor or administrator.**
+**§9. How to file a claim. Contents thereof. Notice to executor or administrator.**
 
 A claim may be filed by delivering the same with the necessary vouchers to the clerk of court and by serving a copy thereof on the executor or administrator. If the claim be founded on a bond, bill, note, or any other instrument, the original need not be filed, but a copy thereof with all indorsements shall be attached to the claim and filed therewith. On demand, however, of the executor or administrator, or by order of the court or judge, the original shall be exhibited, unless it be list or destroyed, in which case the claimant must accompany his claim with affidavit or affidavits containing a copy or particular description of the instrument and stating its loss or destruction. When the claim is due, it must be supported by affidavit stating the amount justly due, that no payments have been made thereon which are not credited, and that there are no offsets to the same, to the knowledge of the affiant. If the claim is not due, or is contingent, when filed, it must also be supported by affidavits stating the particulars thereof. When the affidavit is made by a person other than the claimant, he must set forth therein the reason why it is not made by the claimant. The claim once filed shall be attached to the record of the case in which the letters testamentary or of administration were issued, although the court, in its discretion, and as a matter of convenience, may order all the claims to be collected in a separate folder.
 
-**Section 10. Answer of executor or administrator. Offsets.**
+**§10. Answer of executor or administrator. Offsets.**
 
 Within fifteen (15) days after service of a copy of the claim on the executor or administrator, he shall file his answer admitting or denying the claim specifically, and setting forth the admission or denial. If he has no knowledge sufficient to enable him to admit or deny specifically, he shall state such want of knowledge. The executor or administrator in his answer shall allege in offset any claim which the decedent before death had against the claimant, and his failure to do so shall bar the claim forever. A copy of the answer shall be served by the executor or administrator on the claimant. The court in its discretion may extend the time for filing such answer.
 
-**Section 11. Disposition of admitted claim.**
+**§11. Disposition of admitted claim.**
 
 Any claim admitted entirely by the executor or administrator shall immediately be submitted by the clerk to the court who may approve the same without hearing; but the court, in its discretion, before approving the claim, may order that known heirs, legatees, or devisees be notified and heard. If upon hearing, an heir, legatees, or devisee opposes the claim, the court may, in its discretion, allow him fifteen (15) days to file an answer to the claim in the manner prescribed in the preceding section.
 
-**Section 12. Trial of contested claim.**
+**§12. Trial of contested claim.**
 
 Upon the filing of an answer to a claim, or upon the expiration of the time for such filing, the clerk of court shall set the claim for trial with notice to both parties. The court may refer the claim to a commissioner.
 
-**Section 13. Judgment appealable.**
+**§13. Judgment appealable.**
 
 The judgment of the court approving or disapproving a claim, shall be filed with the record of the administration proceedings with notice to both parties, and is appealable as in ordinary cases. A judgment against the executor or administrator shall be that he pay, in due course of administration, the amount ascertained to be due, and it shall not create any lien upon the property of the estate, or give to the judgment creditor any priority of payment.
 
-**Section 14. Costs.**
+**§14. Costs.**
 
 When the executor or administrator, in his answer, admits and offers to pay part of a claim, and the claimant refuses to accept the amount offered in satisfaction of his claim, if he fails to obtain a more favorable judgment, he cannot recover costs, but must pay to the executor or administrator costs from the time of the offer. Where an action commenced against the deceased for money has been discontinued and the claim embraced therein presented as in this rule provided, the prevailing party shall be allowed the costs of his action up to the time of its discontinuance.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 87 Actions By and Against Executors and Administrators</p>
 
-**Section 1. Actions which may and which may not be brought against executor or administrator.**
+**§1. Actions which may and which may not be brought against executor or administrator.**
 
 No action upon a claim for the recovery of money or debt or interest thereon shall be commenced against the executor or administrator; but to recover real or personal property, or an interest therein, from the estate, or to enforce a lien thereon, and actions to recover damages for an injury to person or property, real or personal, may be commenced against him.
 
-**Section 2. Executor or administrator may bring or defend actions which survive.**
+**§2. Executor or administrator may bring or defend actions which survive.**
 
 For the recovery or protection of the property or rights of the deceased, an executor or administrator may bring or defend, in the right of deceased, actions for causes which survive.
 
-**Section 3. Heir may not sue until shall assigned.**
+**§3. Heir may not sue until shall assigned.**
 
 When an executor or administrator is appointed and assumes the trust, no action to recover the title or possession of lands or for damages done to such lands shall be maintained against him by an heir or devisee until there is an order of the court assigning such lands to such heir or devisee or until the time allowed for paying debts has expired.
 
-**Section 4. Executor or administrator may compound with debtor.**
+**§4. Executor or administrator may compound with debtor.**
 
 Within the approval of the court, an executor or administrator may compound with the debtor of the deceased for a debt due, and may give a discharge of such debt on receiving a just dividend of the estate of the debtor.
 
-**Section 5. Mortgage due estate may be foreclosed.**
+**§5. Mortgage due estate may be foreclosed.**
 
 A mortgage belonging to the estate of a deceased person, as mortgagee or assignee of the right or a mortgage, may be foreclosed by the executor or administrator.
 
-**Section 6. Proceedings when property concealed, embezzled, or fraudulently conveyed.**
+**§6. Proceedings when property concealed, embezzled, or fraudulently conveyed.**
 
 If an executor or administrator, heir, legatee, creditor or other individual interested in the estate of the deceased, complains to the court having jurisdiction of the estate that a person is suspected of having concealed, embezzled, or conveyed away any of the money, goods, or chattels of the deceased, or that such person has in his possession or has knowledge of any deed, conveyance, bond, contract, or other writing which contains evidence of or tends or discloses the right, title, interest, or claim of the deceased, the court may cite such suspected person to appear before it any may examine him on oath on the matter of such complaint; and if the person so cited refuses to appear, or to answer on such examination or such interrogatories as are put to him, the court may punish him for contempt, and may commit him to prison until he submits to the order of the court. The interrogatories put any such person, and his answers thereto, shall be in writing and shall be filed in the clerk's office.
 
-**Section 7. Person entrusted with estate compelled to render account.**
+**§7. Person entrusted with estate compelled to render account.**
 
 The court, on complaint of an executor or administrator, may cite a person entrusted by an executor or administrator with any part of the estate of the deceased to appear before it, and may require such person to render a full account, on oath, of the money, goods, chattels, bonds, account, or other papers belonging to such estate as came to his possession in trust for such executor or administrator, and of his proceedings thereon; and if the person so cited refuses to appear to render such account, the court may punish him for contempt as having disobeyed a lawful order of the court.
 
-**Section 8. Embezzlement before letters issued.**
+**§8. Embezzlement before letters issued.**
 
 If a person, before the granting of letters testamentary or of administration on the estate of the deceased, embezzles or alienates any of the money, goods, chattels, or effects of such deceased, such person shall be liable to an action in favor of the executor or administrator of the estate for double the value of the property sold, embezzled, or alienated, to be recovered for the benefit of such estate.
 
-**Section 9. Property fraudulently conveyed by deceased may be recovered. When executor or administrator must bring action.**
+**§9. Property fraudulently conveyed by deceased may be recovered. When executor or administrator must bring action.**
 
 When there is a deficiency of assets in the hands of an executor or administrator for the payment of debts and expenses of administration, and the deceased in his lifetime had conveyed real or personal property, or a right or interest therein, or an debt or credit, with intent to defraud his creditors or to avoid any right, debt, or duty; or had so conveyed such property, right, interest, debt or credit that by law the conveyance would be void as against his creditors, and the subject of the attempted conveyance would be liable to attachment by any of them in his lifetime, the executor or administrator may commence and prosecute to final judgment an action for the recovery of such property, right, interest, debt, or credit for the benefit of the creditors; but he shall not be bound to commence the action unless on application of the creditors of the deceased, not unless the creditors making the application pay such part of the costs and expenses, or give security therefor to the executor or administrator, as the court deems equitable.
 
-**Section 10. When creditor may bring action. Lien for costs.**
+**§10. When creditor may bring action. Lien for costs.**
 
 When there is such a deficiency of assets, and the deceased in his lifetime had made or attempted such a conveyance, as is stated in the last preceding section, and the executor or administrator has not commenced the action therein provided for, any creditor of the estate may, with the permission of the court, commence and prosecute to final judgment, in the name of the executor or administrator, a like action for the recovery of the subject of the conveyance or attempted conveyance for the benefit of the creditors. But the action shall not be commenced until the creditor has filed in a court a bond executed to the executor or administrator, in an amount approved by the judge, conditioned to indemnify the executor or administrator against the costs and expenses incurred by reason of such action. Such creditor shall have a lien upon any judgment recovered by him in the action for such costs and other expenses incurred therein as the court deems equitable. Where the conveyance or attempted conveyance had been made by the deceased in his lifetime in favor of the executor or administrator, the action which a credit may bring shall be in the name of all the creditors, and permission of the court and filing of bond as above prescribed, are not necessary.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 88 Payment of the Debts of the Estate</p>
 
-**Section 1. Debts paid in full if estate sufficient.**
+**§1. Debts paid in full if estate sufficient.**
 
 If, after hearing all the money claims against the estate, and after ascertaining the amount of such claims, it appears that there are sufficient assets to pay the debts, the executor or administrator pay the same within the time limited for that purpose.
 
-**Section 2. Part of estate from which debt paid when provision made by will.**
+**§2. Part of estate from which debt paid when provision made by will.**
 
 If the testator makes provision by his will, or designates the estate to be appropriated for the payment of his debts, the expenses of administration, or the family expenses, they shall be paid according to the provisions of the will; but if the provision made by the will or the estate appropriated, is not sufficient for that purpose, such part of the estate of the testator, real or personal, as is not disposed of by will, if any shall be appropriated for that purpose.
 
-**Section 3. Personalty first chargeable for debts, then realty.**
+**§3. Personalty first chargeable for debts, then realty.**
 
 The personal estate of the deceased not disposed of by will shall be first chargeable with the payment of debts and expenses; and if said personal estate is not sufficient for tat purpose, or its sale would redound to the detriment of the participants for the estate, the whole of the real estate not dispose of by will, or so much thereof as is necessary, may be sold, mortgaged, or otherwise encumbered for that purpose by the executor or administrator, after obtaining the authority of the court therefor. Any deficiency shall be met by contributions in accordance with the provisions of section 6 of this rule.
 
-**Section 4. Estate to be retained to meet contingent claims.**
+**§4. Estate to be retained to meet contingent claims.**
 
 If the court is satisfied that a contingent claim duly filed is valid, it may order the executor or administrator to retain in his hands sufficient estate to pay such contingent claim when the same becomes absolute, or if the estate is insolvent, sufficient to pay a portion equal to the dividend of the other creditors.
 
-**Section 5. How contingent claim becoming absolute in two years allowed and paid. Action against distributees later.**
+**§5. How contingent claim becoming absolute in two years allowed and paid. Action against distributees later.**
 
 If such contingent claim becomes absolute and is presented to the court, or to the executor or administrator, within two (2) years from the time limited for other creditors to present their claims, it may be allowed by the court if not disputed by the executor or administrator and, if disputed, it may be proved and allowed or disallowed by the court as the facts may warrant. If the contingent claim is allowed, the creditor shall receive payment to the same extent as the other creditors if the estate retained by the executor or administrator is sufficient. But if the claim is not so presented, after having become absolute, within said two (2) years, and allowed, the assets retained in the hands of the executor or administrator, not exhausted in the payment of claims, shall be disturbed by the order of the court to the persons entitled to the same; but the assets so distributed may still be applied to the payment of the claim when established, and the creditor may maintain an action against the distributees to recover the debt, and such distributees and their estates shall be liable for the debt in proportion to the estate they have respectively received from the property of the deceased.
 
-**Section 6. Court to fix contributive shares where devisees, legatees, or heirs have been possession.**
+**§6. Court to fix contributive shares where devisees, legatees, or heirs have been possession.**
 
 Where devisees, legatees, or heirs have entered into possession of portions of the estate before the debts and expenses have been settled and paid, and have become liable to contribute for the payment of such debts and expenses, the court having jurisdiction of the estate may, by order for that purpose, after hearing, settle the amount of their several liabilities, and order how much and in what manner each person shall contribute, and may issue execution as circumstances require.
 
-**Section 7. Order of payment if estate insolvent.**
+**§7. Order of payment if estate insolvent.**
 
 If the assets which can be appropriated for the payment of debts are not sufficient for that purpose, the executor or administrator shall pay the debts against the estate, observing the provisions of Articles 1059 and 2239 to 2251 of the Civil Code.
 
-**Section 8. Dividends to be paid in proportion to claims.**
+**§8. Dividends to be paid in proportion to claims.**
 
 If there are no assets sufficient to pay the credits of any once class of creditors after paying the credits entitled to preference over it, each creditor within such class shall be paid a dividend in proportion to his claim. No creditor of any one class shall receive any payment until those of the preceding class are paid.
 
-**Section 9. Estate of insolvent non-resident, how disposed of.**
+**§9. Estate of insolvent non-resident, how disposed of.**
 
 In case administration is taken in the Philippine of the estate of a person who was at the time of his death an inhabitant of another country, and who died insolvent, hi estate found in the Philippines shall, as far as practicable, be so disposed of that his creditors here and elsewhere may receive each an equal share, in proportion to their respective credits.
 
-**Section 10. When and how claim proved outside the Philippines against insolvent resident's estate paid.**
+**§10. When and how claim proved outside the Philippines against insolvent resident's estate paid.**
 
 If it appears to the court having jurisdiction that claims have been duly proven in another country against the estate of an insolvent who was at the time of his death an inhabitant of the Philippines, and that the executor or administrator in the Philippines had knowledge of the presentation of such claims in such country and an opportunity to contest their allowance, the court shall receive a certified list of such claims, when perfected in such country, and add the same to the list of claims proved against the deceased person in the Philippines so that a just distribution of the whole estate may be made equally among all its creditors according to their respective claims; but the benefit of this and the preceding sections shall not be extended to the creditors in another country if the property of such deceased person there found is not equally apportioned to the creditors residing in the Philippines and the other creditor, according to their respective claims.
 
-**Section 11. Order for payment of debts.**
+**§11. Order for payment of debts.**
 
 Before the expiration of the time limited for the payment of the debts, the court shall order the payment thereof, and the distribution of the assets received by the executor or administrator for that purpose among the creditors, as the circumstances of the estate require and in accordance with the provisions of this rule.
 
-**Section 12. Orders relating to payment of debts where appeal is taken.**
+**§12. Orders relating to payment of debts where appeal is taken.**
 
 If an appeal has been taken from a decision of the court concerning a claim, the court may suspend the order for the payment of the debts or may order the distributions among the creditors whose claims are definitely allowed, leaving in the hands of the executor or administrator sufficient assets to pay the claim disputed and appealed. When a disputed claim is finally settled the court having jurisdiction of the estate shall order the same to be paid out of the assets retained to the same extent and in the same proportion with the claims of other creditors.
 
-**Section 13. When subsequent distribution of assets ordered.**
+**§13. When subsequent distribution of assets ordered.**
 
 If the whole of the debts are not paid on the first distribution, and if the whole assets are not distributed, or other assets afterwards come to the hands of the executor or administrator, the court may from time to time make further orders for the distributions of assets.
 
-**Section 14. Creditors to be paid in accordance with terms of order.**
+**§14. Creditors to be paid in accordance with terms of order.**
 
 When an order is made for the distribution of assets among the creditors, the executor or administration shall, as soon as the time of payment arrives, pay the creditors the amounts of their claims, or the dividend thereon, in accordance with the terms of such order.
 
-**Section 15. Time for paying debts and legacies fixed, or extended after notice, within what periods.**
+**§15. Time for paying debts and legacies fixed, or extended after notice, within what periods.**
 
 On granting letters testamentary or administration the court shall allow to the executor or administrator a time for disposing of the estate and paying the debts and legacies of the deceased, which shall not, in the first instance, exceed one (1) year; but the court may, on application of the executor or administrator and after hearing on such notice of the time and place therefor given to all persons interested as it shall direct, extend the time as the circumstances of the estate require not exceeding six (6) months for a single extension not so that the whole period allowed to the original executor or administrator shall exceed two (2) years.
 
-**Section 16. Successor of dead executor or administrator may have time extended on notice within certain period.**
+**§16. Successor of dead executor or administrator may have time extended on notice within certain period.**
 
 When an executor or administrator dies, and a new administrator of the same estate is appointed, the court may extend the time allowed for the payment of the debts or legacies beyond the time allowed to the original executor or administrator, not exceeding six (6) months at a time and not exceeding six (6) months beyond the time which the court might have allowed to such original executor or administrator; and notice shall be given of the time and place for hearing such application, as required in the last preceding section.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 89 Sales, Mortgages, and Other Encumbrances of Property of Decedent</p>
 
-**Section 1. Order of sale of personalty.**
+**§1. Order of sale of personalty.**
 
 Upon the application of the executor or administrator, and on written notice to the heirs and other persons interested, the court may order the whole or a part of the personal estate to be sold, if it appears necessary for the purpose of paying debts, expenses of administration, or legacies, or for the preservation of the property.
 
-**Section 2. When court may authorize sale, mortgage, or other encumbrance of realty to pay debts and legacies through personalty not exhausted.**
+**§2. When court may authorize sale, mortgage, or other encumbrance of realty to pay debts and legacies through personalty not exhausted.**
 
 When the personal estate of the deceased is not sufficient to pay the debts, expenses of administration, and legacies, or where the sale of such personal estate may injure the business or other interests of those interested in the estate, and where a testator has not otherwise made sufficient provision for the payment of such debts, expenses, and legacies, the court, on the application of the executor or administrator and on written notice of the heirs, devisees, and legatees residing in the Philippines, may authorize the executor or administrator to sell, mortgage, or otherwise encumber so much as may be necessary of the real estate, in lieu of personal estate, for the purpose of paying such debts, expenses, and legacies, if it clearly appears that such sale, mortgage, or encumbrance would be beneficial to the persons interested; and if a part cannot be sold, mortgaged, or otherwise encumbered without injury to those interested in the remainder, the authority may be for the sale, mortgage, or other encumbrance of the whole of such real estate, or so much thereof as is necessary or beneficial under the circumstances.
 
-**Section 3. Persons interested may prevent such sale, etc., by giving bond.**
+**§3. Persons interested may prevent such sale, etc., by giving bond.**
 
 No such authority to sell, mortgage, or otherwise encumber real or personal estate shall be granted if any person interested in the estate gives a bond, in a sum to be fixed by the court, conditioned to pay the debts, expenses of administration, and legacies within such time as the court directs; and such bond shall be for the security of the creditors, as well as of the executor or administrator, and may be prosecuted for the benefit of either.
 
-**Section 4. When court may authorize sale of estate as beneficial to interested persons. Disposal of proceeds.**
+**§4. When court may authorize sale of estate as beneficial to interested persons. Disposal of proceeds.**
 
 When it appears that the sale of the whole or a part of the real or personal estate, will be beneficial to the heirs, devisees, legatees, and other interested persons, the court may, upon application of the executor or administrator and on written notice to the heirs, devisees, and legatees who are interested in the estate to be sold, authorize the executor or administrator to sell the whole or a part of said estate, although not necessary to pay debts, legacies, or expenses of administration; but such authority shall not be granted if inconsistent with the provisions of a will. In case of such sale, the proceeds shall be assigned to the persons entitled to the estate in the proper proportions.
 
-**Section 5. When court may authorize sale, mortgage, or other encumbrance of estate to pay debts and legacies in other countries.**
+**§5. When court may authorize sale, mortgage, or other encumbrance of estate to pay debts and legacies in other countries.**
 
 When the sale of personal estate, or the sale, mortgage, or other encumbrance of real estate is not necessary to pay the debts, expenses of administration, or legacies in the Philippines, but it appears from records and proceedings of a probate court in another country that the estate of the deceased in such other country is not sufficient to pay the debts, expenses of administration, and legacies there, the court here may authorize the executor or administrator to sell the personal estate or to sell, mortgage, or otherwise encumber the real estate for the payment of debts or legacies in the other country, in same manner as for the payment of debts or legacies in the Philippines.
 
-**Section 6. When court may authorize sale, mortgage, or other encumbrance of realty acquired on execution or foreclosure.**
+**§6. When court may authorize sale, mortgage, or other encumbrance of realty acquired on execution or foreclosure.**
 
 The court may authorize an executor or administrator to sell mortgage, or otherwise encumber real estate acquired by him on execution or foreclosure sale, under the same circumstances and under the same regulations as prescribed in this rule for the sale, mortgage, or other encumbrance of other real estate.
 
-**Section 7. Regulation for granting authority to sell, mortgage, or otherwise encumber estate.**
+**§7. Regulation for granting authority to sell, mortgage, or otherwise encumber estate.**
 
 The court having jurisdiction of the estate of the deceased may authorize the executor or administrator to sell personal estate, or to sell, mortgage, or otherwise encumber real estate, in cases provided by these rules and when it appears necessary or beneficial under the following regulations.
 
@@ -639,55 +639,55 @@ The court having jurisdiction of the estate of the deceased may authorize the ex
 
 - (f) There shall be recorded in the registry of deeds of the province in which the real estate thus sold, mortgage, or otherwise encumbered is situated, a certified copy of the order of the court, together with the deed of the executor or administrator for such real estate, which shall be as valid as if the deed had been executed by the deceased in his lifetime.
 
-**Section 8. When court may authorize conveyance of realty which deceased contracted to convey. Notice. Effect of deed.**
+**§8. When court may authorize conveyance of realty which deceased contracted to convey. Notice. Effect of deed.**
 
 Where the deceased was in his lifetime under contract, binding in law, to deed real property, or an interest therein, the court having jurisdiction of the estate may, on application for that purpose, authorize the executor or administrator to convey such property according to such contract, or with such modifications as are agreed upon by the parties and approved by the court; and if the contract is to convey real property to the executor or administrator, the clerk of court shall execute the deed. The deed executed by such executor, administrator, or clerk of court shall be as affectual to convey the property as if executed by the deceased in his lifetime; but no such conveyance shall be authorized until notice of the application for that purpose has been given personally or by mail to all persons interested, and such further notice has been given, by publication or otherwise, as the court deems proper; nor if the assets in the hands of the executor or administrator will thereby be reduced so as to prevent a creditor from receiving his full debt or diminish his dividend.
 
-**Section 9. When court may authorize conveyance of lands which deceased held in trust.**
+**§9. When court may authorize conveyance of lands which deceased held in trust.**
 
 Where the deceased in his lifetime held real property in trust for another person, the court may after notice given as required in the last preceding section, authorize the executor or administrator to deed such property to the person, or his executor or administrator, for whose use and benefit it was so held; and the court may order the execution of such trust, whether created by deed or by law.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 90 Distribution and Partition of the Estate</p>
 
-**Section 1. When order for distribution of reside made.**
+**§1. When order for distribution of reside made.**
 
 When the debts, funeral charges, and expenses of administration, the allowance to the widow, and inheritance tax, if any, chargeable to the estate in accordance with law, have been paid, the court, on the application of the executor or administrator, or of a person interested in the estate, and after hearing upon notice, shall assign the residue of the estate to the persons entitled to the same, naming them and the proportions, or parts, to which each is entitled, and such persons may demand and recover their respective shares from the executor or administrator, or any other person having the same in his possession. If there is a controversy before the court as to who are the lawful heirs of the deceased person or as the distributive shares to which each person is entitled under the law, the controversy shall be heard and decided as in ordinary cases.
 
 No distribution shall be allowed until the payment of the obligations above mentioned has been made or provided for, unless the distributees, or any of them, give a bond, in a sum to be fixed by the court, conditioned for the payment of said obligations within such time as the court directs.
 
-**Section 2. Questions as to advancement to be determined.**
+**§2. Questions as to advancement to be determined.**
 
 Questions as to advancement made, or alleged to have been made, by the deceased to any heir may be heard and determined by the court having jurisdiction of the estate proceedings; and the final order of the court thereon shall be binding on the person raising the questions and on the heir.
 
-**Section 3. By whom expenses of partition paid.**
+**§3. By whom expenses of partition paid.**
 
 If at the time of distribution the executor or administrator has retained sufficient effects in his hands which may lawfully be applied for the expenses of partition of the properties distributed, such expenses of partition may be paid by such executor or administrator when it appears equitable to the court and not inconsistent with the intention of the testator; otherwise, they shall be paid by the parties in proportion to their respective shares or interest in the premises, and the apportionment shall be settled and allowed by the court, and, if any person interested in the partition does not pay his proportion or share, the court may issue an execution in the name of the executor or administrator against the party not paying the sum assessed.
 
-**Section 4. Recording the order of partition of estate.**
+**§4. Recording the order of partition of estate.**
 
 Certified copies of final orders and judgments of the court relating to the real estate or the partition thereof shall be recorded in the registry of deeds of the province where the property is situated.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 91 Escheats</p>
 
-**Section 1. When an by whom petition filed.**
+**§1. When an by whom petition filed.**
 
 When a person dies intestate, seized of real property in the Philippines, leaving no heir or person by law entitled to the same, the Solicitor General or his representative in behalf of the Republic of the Philippines, may file a petition in the Court of First Instance of the province where the deceased last resided or in which he had estate, if he resided out of the Philippines, setting forth the facts, and praying that the estate of the deceased be declared escheated.
 
-**Section 2. Order for hearing.**
+**§2. Order for hearing.**
 
 If the petition is sufficient in form and substance, the court, by an order reciting the purpose of the petition, shall fix a date and place for the hearing thereof, which date shall be not more than six (6) months after the entry of the order, and shall direct that a copy of the order be published before the hearing at least once a week for six (6) successive weeks in some newspaper of general circulation published in the province, as the court shall be deem best.
 
-**Section 3. Hearing and judgment.**
+**§3. Hearing and judgment.**
 
 Upon satisfactory proof in open court on the date fixed in the order that such order has been published as directed and that the person died intestate, seized of real or personal property in the Philippines, leaving no heir or person entitled to the same, and no sufficient cause being shown to the contrary, the court shall adjudge that the estate of the estate of the deceased in the Philippines, after the payment of just debts and charges, shall escheat; and shall, pursuant to law, assign the personal estate to the municipality or city where he last resided in the Philippines, and the real estate to the municipalities or cities, respectively, in which the same is situated. If the deceased never resided in the Philippines, the whole estate may be assigned to the respective municipalities or cities where the same is located. Shall estate shall be for the benefit of public schools, and public charitable institutions and centers in said municipalities or cities.
 
 The court, at the instance of an interested party, or on its own motion, may order the establishment of a permanent trust, so that the only income from the property shall be used.
 
-**Section 4. When and by whom claim to estate filed.**
+**§4. When and by whom claim to estate filed.**
 
 If a devisee, legatee, heir, widow, widower, or other person entitled to such estate appears and files a claim thereto with the court within five (5) years from the date of such judgment, such person shall have possession of and title to the same, or if sold, the municipality or city shall be accountable to him for the proceeds after deducting reasonable charges for the care of the estate; but a claim not made within the said time shall be forever barred.
 
-**Section 5. Other actions for escheat.**
+**§5. Other actions for escheat.**
 
 Until otherwise provided by law, actions reversion or escheat of properties alienated in violation of the Constitution or of any statute shall be governed by this rule, except that the action shall be instituted in the province where the land lies in whole or in part.
 
@@ -695,27 +695,27 @@ Until otherwise provided by law, actions reversion or escheat of properties alie
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 92 Venue</p>
 
-**Section 1. Where to institute proceedings.**
+**§1. Where to institute proceedings.**
 
 Guardianship of a person or estate of a minor or incompetent may be instituted in the Court of First Instance of the province, or in the justice of the peace court of the municipality, or in the municipal court chartered city where the minor or incompetent persons resides, and if he resides in a foreign country, in the Court of First Instance of the province wherein his property or the party thereof is situated; provided, however, that where the value of the property of such minor or incompetent exceeds that jurisdiction of the justice of the peace or municipal court, the proceedings shall be instituted in the Court of First Instance.
 
 In the City of Manila the proceedings shall be instituted in the Juvenile and Domestic Relations Court.
 
-**Section 2. Meaning of word "incompetent".**
+**§2. Meaning of word "incompetent".**
 
 Under this rule, the word "incompetent" includes persons suffering the penalty of civil interdiction or who are hospitalized lepers, prodigals, deaf and dumb who are unable to read and write, those who are of unsound mind, even though they have lucid intervals, and persons not being of unsound mind, but by reason of age, disease, weak mind, and other similar causes, cannot, without outside aid, take care of themselves and manage their property, becoming thereby an easy prey for deceit and exploitation.
 
-**Section 3. Transfer of venue.**
+**§3. Transfer of venue.**
 
 The court taking cognizance of a guardianship proceeding, may transfer the same to the court of another province or municipality wherein the ward has acquired real property, if he has transferred thereto his bona-fide residence, and the latter court shall have full jurisdiction to continue the proceedings, without requiring payment of additional court fees.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 93 Appointment of Guardians</p>
 
-**Section 1. Who may petition for appointment of guardian for resident.**
+**§1. Who may petition for appointment of guardian for resident.**
 
 Any relative, friend, or other person on behalf of a resident minor or incompetent who has no parent or lawful guardian, or the minor himself if fourteen years of age or over, may petition the court having jurisdiction for the appointment of a general guardian for the person or estate, or both, of such minor or incompetent. An officer of the Federal Administration of the United States in the Philippines may also file a petition in favor of a ward thereof, and the Director of Health, in favor of an insane person who should be hospitalized, or in favor of an isolated leper.
 
-**Section 2. Contents of petition.**
+**§2. Contents of petition.**
 
 A petition for the appointment of a general guardian must show, so far as known to the petitioner:
 
@@ -731,33 +731,33 @@ A petition for the appointment of a general guardian must show, so far as known 
 
 The petition shall be verified; but no defect in the petition or verification shall render void the issuance of letters of guardianship.
 
-**Section 3. Court to set time for hearing. Notice thereof.**
+**§3. Court to set time for hearing. Notice thereof.**
 
 When a petition for the appointment of a general guardian is filed, the court shall fix a time and place for hearing the same, and shall cause reasonable notice thereof to be given to the persons mentioned in the petition residing in the province, including the minor if above 14 years of age or the incompetent himself, and may direct other general or special notice thereof to be given.
 
-**Section 4. Opposition to petition.**
+**§4. Opposition to petition.**
 
 Any interested person may, by filing a written opposition, contest the petition on the ground of majority of the alleged minor, competency of the alleged incompetent, or the insuitability of the person for whom letters are prayed, and may pray that the petition be dismissed, or that letters of guardianship issue to himself, or to any suitable person named in the opposition.
 
-**Section 5. Hearing and order for letters to issue.**
+**§5. Hearing and order for letters to issue.**
 
 At the hearing of the petition the alleged in competent must be present if able to attend, and it must be shown that the required notice has been given. Thereupon the courts shall hear the evidence of the parties in support of their respective allegations, and, if the person in question is a minor, or incompetent it shall be appoint a suitable guardian of his person or estate, or both, with the powers and duties hereinafter specified.
 
-**Section 6. When and how guardian for non-resident appointed. Notice.**
+**§6. When and how guardian for non-resident appointed. Notice.**
 
 When a person liable to be put under guardianship resides without the Philippines but the estate therein, any relative or friend of such person, or any one interested in his estate, in expectancy or otherwise, may petition a court having jurisdiction for the appointment of a guardian for the estate, and if, after notice given to such person and in such manner as the court deems proper, by publication or otherwise, and hearing, the court is satisfied that such non-resident is a minor or incompetent rendering a guardian necessary or convenient, it may appoint a guardian for such estate.
 
-**Section 7. Parents as guardians.**
+**§7. Parents as guardians.**
 
 When the property of the child under parental authority is worth two thousand pesos or less, the father of the mother, without the necessity of court appointment, shall be his legal guardian. When the property of the child is worth more than two thousand pesos, the father or the mother shall be considered guardian of the child's property, with the duties and obligations of guardians under this rules, and shall file the petition required by section 2 hereof. For good reasons the court may, however, appoint another suitable person.
 
-**Section 8. Service of judgment.**
+**§8. Service of judgment.**
 
 Final orders or judgments under this rule shall be served upon the civil registrar of the municipality or city where the minor or incompetent person resides or where his property or part thereof is situated.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 94 Bonds of Guardians</p>
 
-**Section 1. Bond to be given before issuance of letters. Amount. Condition.**
+**§1. Bond to be given before issuance of letters. Amount. Condition.**
 
 Before a guardian appointed enters upon the execution of his trust, or letters of guardianship issue, he shall give a bond, in such sum as the court directs, conditioned as follows:
 
@@ -769,115 +769,115 @@ Before a guardian appointed enters upon the execution of his trust, or letters o
 
 - (d) To perform all orders of the court by him to be performed.
 
-**Section 2. When new bond may be required and old sureties discharged.**
+**§2. When new bond may be required and old sureties discharged.**
 
 Whenever it is deemed necessary, the court may require a new bond to be given by the guardian, and may discharge the sureties on the old bond from further liability, after due notice to interested persons, when no injury can result therefrom to those interested in the estate.
 
-**Section 3. Bonds to be filed. Actions thereon.**
+**§3. Bonds to be filed. Actions thereon.**
 
 Every bond given by a guardian shall be filed in the office of the clerk of the court, and, in case of the breach of a condition thereof, may be prosecuted in the same proceeding or in a separate action for the use and benefit of the ward or of any other person legally interested in the estate.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 95 Selling and Encumbering Property of Ward</p>
 
-**Section 1. Petition of guardian for leave to sell or encumber estate.**
+**§1. Petition of guardian for leave to sell or encumber estate.**
 
 When the income of the estate under guardianship is insufficient to maintain the ward and his family, or to maintain and educate the ward when a minor, or when it appears that it is for the benefit of the ward that his real estate or some part thereof be sold, or mortgaged or otherwise encumbered, and the proceeds thereof put out at interest, or invested in some productive security, or in the improvement or security or other real estate of the ward, the guardian may present a verified petition to the court by which he was appointed setting forth such facts, and praying that an order issue authorizing the sale or encumbrance.
 
-**Section 2. Order to show cause thereupon.**
+**§2. Order to show cause thereupon.**
 
 If it seems probable that such sale or encumbrance is necessary, or would be beneficial to the ward, the court shall make an order directing the next of kin of the ward, and all persons interested in the estate, to appear at a reasonable time and place therein specified to show cause why the prayer of the petition should not be granted.
 
-**Section 3. Hearing on return of order. Costs.**
+**§3. Hearing on return of order. Costs.**
 
 At the time and place designated in the order to show cause, the court shall hear the proofs and allegations of the petitioner and next of kin, and other persons interested, together with their witnesses, and grant and refuse the prayer of the petition as the best interest of the ward require. The court shall make such order as to cost of the hearing as may be just.
 
-**Section 4. Contents of order for sale or encumbrance, and how long effective. Bond.**
+**§4. Contents of order for sale or encumbrance, and how long effective. Bond.**
 
 If, after full examination, it appears that it is necessary, or would be beneficial to the ward, to sell or encumber the estate, or some portion of it, the court shall order such sale or encumbrance and that the proceeds thereof be expended for the maintenance of the ward and his family, or the education of the ward, if a minor, or for the putting of the same interest, or the investment of the same as the circumstances may require. The order shall specify the causes why the sale or encumbrance is necessary or beneficial, and may direct that estate ordered sold be disposed of at either public or private sale, subject to such conditions as to the time and manner of payment, and security where a part of the payment is deferred as in the discretion of the court are deemed most beneficial to the ward. The original bond of the guardian shall stand as security for the proper appropriation of the proceeds of the sale, but the judge may, if deemed expedient, require an additional bond as a condition for the granting of the order of sale. No order of sale granted in pursuance of this section shall continue in force more than one (1) year after granting the same, without a sale being had.
 
-**Section 5. Court may order investment of proceeds and direct management of estate.**
+**§5. Court may order investment of proceeds and direct management of estate.**
 
 The court may authorize and require the guardian to invest the proceeds of sales or encumbrances, and any other of his ward's money in his hands, in real estate or otherwise, as shall be for the best interest of all concerned, and may make such other orders for the management, investment, and disposition of the estate and effects, as circumstances may require.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 96 General Powers and Duties of Guardians</p>
 
-**Section 1. To what guardianship shall extend.**
+**§1. To what guardianship shall extend.**
 
 A guardian appointed shall have the care and custody of the person of his ward, and the management of his estate, or the management of the estate only, as the case may be. The guardian of the estate of a non-resident shall have the management of all the estate of the ward within the Philippines, and no court other than that in which such guardian was appointed shall have jurisdiction over the guardianship.
 
-**Section 2. Guardian to pay debts of ward.**
+**§2. Guardian to pay debts of ward.**
 
 Every guardian must pay the ward's just debts out of his personal estate and the income of his real estate, if sufficient; if not, then out of his real estate upon obtaining an order for the sale or encumbrance thereof.
 
-**Section 3. Guardian to settle accounts, collect debts, and appear in actions for ward.**
+**§3. Guardian to settle accounts, collect debts, and appear in actions for ward.**
 
 A guardian must settle all accounts of his ward, and demand, sue for, and receive all debts due him, or may, with the approval of the court, compound for the same and give discharges to the debtor, on receiving a fair and just dividend of the estate and effects; and he shall appear for and represent his ward in all actions and special proceedings, unless another person be appointed for that purpose.
 
-**Section 4. Estate to be managed frugally, and proceeds applied to maintenance of ward.**
+**§4. Estate to be managed frugally, and proceeds applied to maintenance of ward.**
 
 A guardian must manage the estate of his ward frugally and without the waste, and apply the income and profits thereof, so far as may be necessary, to the comfortable and suitable maintenance of the ward and his family, if there be any; and if such income and profits be insufficient for that purpose, the guardian may sell or encumber the real estate, upon being authorized by order so to do, and apply to such of the proceeds as may be necessary to such maintenance.
 
-**Section 5. Guardian may be authorized to join in partition proceedings after hearing.**
+**§5. Guardian may be authorized to join in partition proceedings after hearing.**
 
 The court may authorized the guardian to join in an assent to a partition of real or personal estate held by the ward jointly or in common with others, but such authority shall only be granted after hearing, upon such notice to relatives of the ward as the court may direct, and a careful investigation as to the necessity and propriety of the proposed action.
 
-**Section 6. Proceedings when the person suspected of embezzling or concealing property of ward.**
+**§6. Proceedings when the person suspected of embezzling or concealing property of ward.**
 
 Upon complaint of the guardian or ward, or of any person having actual or prospective interest in the estate of the ward as creditor, heir, or otherwise, that anyone is suspected of having embezzled, concealed, or conveyed away any money, goods, or interest, or a written instrument, belonging to the ward or his estate, the court may cite the suspected person to appear for examination touching such money, goods, interest, or instrument, and make such orders as will secure the estate against such embezzlement, concealment or conveyance.
 
-**Section 7. Inventories and accounts of guardians, and appraisement of estates.**
+**§7. Inventories and accounts of guardians, and appraisement of estates.**
 
 A guardian must render to the court an inventory of the estate of his ward within three (3) months after his appointment, and annually after such appointment an inventory and account, the rendition of any of which may be compelled upon the application of an interested person. Such inventories and accounts shall be sworn to by the guardian. All the estate of the ward described in the first inventory shall be appraised. In the appraisement the court may request the assistance of one or more of the inheritance tax appraisers. And whenever any property of the ward not included in an inventory already rendered is discovered, or succeeded to, or acquired by the ward, like proceedings shall be had for securing an inventory and appraisement thereof within three (3) months after such discovery, succession, or acquisition.
 
-**Section 8. When guardian's accounts presented for settlement. Expenses and compensation allowed.**
+**§8. When guardian's accounts presented for settlement. Expenses and compensation allowed.**
 
 Upon the expiration of a year from the time of his appointment, and as often thereafter as may be required, a guardian must present his account to the court for settlement and allowance. In the settlement of the account, the guardian, other than a parent, shall be allowed the amount of his reasonable expenses incurred in the execution of his trust and also such compensation for his services as the court deems just, not exceeding fifteen per centum of the net income of the ward.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 97 Termination of Guardianship</p>
 
-**Section 1. Petition that competency of ward be adjudged, and proceedings thereupon.**
+**§1. Petition that competency of ward be adjudged, and proceedings thereupon.**
 
 A person who has been declared incompetent for any reason, or his guardian, relative, or friend, may petition the court to have his present competency judicially determined. The petition shall be verified by oath, and shall state that such person is then competent. Upon receiving the petition, the court shall fix a time for hearing the questions raised thereby, and cause reasonable notice thereof to be given to the guardian of the person so declared incompetent, and to the ward. On the trial, the guardian or relatives of the ward, and, in the discretion of the court, any other person, may contest the right to the relief demanded, and witnesses may be called and examined by the parties or by the court on its own motion. If it be found that the person is no longer incompetent, his competency shall be adjudged and the guardianship shall cease.
 
-**Section 2. When the guardian removed or allowed to resign. New appointment.**
+**§2. When the guardian removed or allowed to resign. New appointment.**
 
 When a guardian becomes insane or otherwise incapable of discharging his trust or unsuitable therefor, or has wasted or mismanaged the estate, or failed for thirty (30) days after it is due to render an account or make a return, the court may, upon reasonable notice to the guardian, remove him, and compel him to surrender the estate of the ward to the person found to be lawfully entitled thereto. A guardian may resign when it appears proper to allow the same; and upon his resignation or removal the court may appoint another in his place.
 
-**Section 3. Other termination of guardianship.**
+**§3. Other termination of guardianship.**
 
 The marriage or voluntary emancipation of a minor ward terminates the guardianship of the person of the ward, and shall enable the minor to administer his property as though he were of age, but he cannot borrow the money or alienate or encumber real property without the consent of his father or mother, or guardian. He can sue and be sued in court only with the assistance of his father, mother or guardian. The guardian of any person may be discharged by the court when it appears, upon the application of the ward or otherwise, that the guardianship is no longer necessary.
 
-**Section 4. Record to be kept by the justice of the peace or municipal judge.**
+**§4. Record to be kept by the justice of the peace or municipal judge.**
 
 When a justice of the peace or municipal court takes cognizance of the proceedings in pursuance of the provisions of these rules, the record of the proceedings shall be kept as in the Court of First Instance.
 
-**Section 5. Service of judgment.**
+**§5. Service of judgment.**
 
 Final orders of judgments under this rule shall be served upon the civil registrar of the municipality or city where the minor or incompetent person resides or where his property or part thereof is situated.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 98 Trustees</p>
 
-**Section 1. Where trustee appointed.**
+**§1. Where trustee appointed.**
 
 A trustee necessary to carry into effect the provisions of a will on written instrument shall be appointed by the Court of First Instance in which the will was allowed, if it be a will allowed in the Philippines, otherwise by the Court of First Instance of the province in which the property, or some portion thereof, affected by the trust is situated.
 
-**Section 2. Appointment and powers of trustees under will. Executor of former trustee need not administer trust.**
+**§2. Appointment and powers of trustees under will. Executor of former trustee need not administer trust.**
 
 If a testator has omitted in his will to appoint a trustee in the Philippines, and if such appointment is necessary to carry into effect the provisions of the will, the proper Court of First Instance may, after notice to all persons interested, appoint a trustee who shall have the same rights, powers, and duties, and in whom the estate shall vest, as if he had been appointed by the testator. No person succeeding to a trust as executor or administrator of a former trustee shall be required to accept such trust.
 
-**Section 3. Appointment and powers of new trustee under written instrument.**
+**§3. Appointment and powers of new trustee under written instrument.**
 
 When a trustee under a written instrument declines, resigns, dies or removed before the objects of the trust are accomplished, and no adequate provision is made in such instrument for supplying the vacancy, the proper Court of First Instance may, after due notice to all persons interested, appoint a new trustee to act alone or jointly with the others, as the case may be. Such new trustee shall have and exercise the same powers, right, and duties as if he had been originally appointed, and the trust estate shall vest in him in like manner as it had vested or would have vested, in the trustee in whose place he is substituted and the court may order such conveyance to be made by the former trustee or his representatives, or by the other remaining trustees, as may be necessary or proper to vest the trust estate in the new trustee, either or jointly with the others.
 
-**Section 4. Proceedings where trustee appointed abroad.**
+**§4. Proceedings where trustee appointed abroad.**
 
 When land in the Philippines is held in trust for persons resident here by a trustee who derives his authority from without the Philippines, such trustee shall, on petition filed in the Court of First Instance of the province where the land is situated, and after due notice to all persons interested, be ordered to apply to the court for appointment as trustee; and upon his neglect or refusal to comply with such order, the court shall declare such trust vacant, and shall appoint a new trustee in whom the trust estate shall vest in like manner as if he had been originally appointed by such court.
 
-**Section 5. Trustee must file bond.**
+**§5. Trustee must file bond.**
 
 Before entering on the duties of his trust, a trustee shall file with the clerk of the court having jurisdiction of the trust a bond in the amount fixed by the judge of said court, payable to the Government of the Philippines and sufficient and available for the protection of any party in interest, and a trustee who neglects to file such bond shall be considered to have declined or resigned the trust; but the court may until further order exempt a trustee under a will from giving a bond when the testator has directed or requested such exemption and may so exempt any trustee when all persons beneficially interested in the trust, being of full age, request the exemption. Such exemption may be cancelled by the court at any time and the trustee required to forthwith file a bond.
 
-**Section 6. Conditions included in bond.**
+**§6. Conditions included in bond.**
 
 The following conditions shall be deemed to be part of the bond whether written therein or not;
 
@@ -891,131 +891,471 @@ The following conditions shall be deemed to be part of the bond whether written 
 
 But when the trustee is appointed as a successor to a prior trustee, the court may dispense with the making and return of an inventory, if one has already been filed, and in such case the condition of the bond shall be deemed to be altered accordingly.
 
-**Section 7. Appraisal. Compensation of trustee.**
+**§7. Appraisal. Compensation of trustee.**
 
 When an inventory is required to be returned by a trustee, the estate and effects belonging to the trust shall be appraised and the court may order one or more inheritance tax appraisers to assist in the appraisement. The compensation of the trustee shall be fixed by the court, if it be not determined in the instrument creating the trust.
 
-**Section 8. Removal or resignation of trustee.**
+**§8. Removal or resignation of trustee.**
 
 The proper Court of First Instance may, upon petition of the parties beneficially interested and after due notice to the trustee and hearing, remove a trustee if such removal appears essential in the interest of the petitioner. The court may also, after due notice to all persons interested, remove a trustee who is insane or otherwise incapable of discharging his trust or evidently unsuitable therefor. A trustee, whether appointed by the court or under a written instrument, may resign his trust if it appears to the court proper to allow such resignation.
 
-**Section 9. Proceedings for sale or encumbrance of trust estate.**
+**§9. Proceedings for sale or encumbrance of trust estate.**
 
 When the sale or encumbrance of any real or personal estate held in trust is necessary or expedient, the court having jurisdiction of the trust may, on petition and after due notice and hearing, order such sale or encumbrance to be made, and the re-investment and application of the proceeds thereof in such manner as will best effect the objects of the trust. The petition, notice, hearing, order of sale or encumbrance, and record of proceedings, shall conform as nearly as may be to the provisions concerning the sale or incumbrance by guardians of the property of minors or other wards.
 
-<p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 99 Adoption and Custody of Minors</p>
+<p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 99 Adoption and Custody of Minors and RULE 100 Rescission and Revocation of Adoption</p>
 
-**Section 1. Venue.**
+###### <span style="color:blue;">See the original text of Rule 99 and 100 here.</span>[^bignote]
 
-A person desiring to adopt another or have the custody of a minor shall present his petition to the Court of First Instance of the province, or the municipal or justice of the peace court of the city or municipality in which he resides.
+<p style="text-align:center; font-size: 16px; font-weight: bold;">RULE ON ADOPTION (AM 02-6-02-SC, August 02, 2002)</p>
 
-In the City of Manila, the proceedings shall be instituted in the Juvenile and Domestic Relations Court.
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> A. DOMESTIC ADOPTION </p>
 
-**Section 2. Contents of petition.**
+**Rule on Adoption §1. Applicability of the Rule.**
 
-The petition for adoption shall contain the same allegations required in a petition for guardianship, to wit:
+This Rule covers the domestic adoption of Filipino children.
 
-- (a) The jurisdictional facts;
+**Rule on Adoption §2. Objectives.**
 
-- (b) The qualification of the adopter;
+ - (a) The best interests of the child shall be the paramount consideration in all matters relating to his care, custody and adoption, in accordance with Philippine laws, the United Nations (UN) Convention on the Rights of the Child, UN Declaration on Social and Legal Principles Relating to the Protection and Welfare of Children with Special Reference to Foster Placement and Adoption, Nationally and Internationally, and the Hague Convention on the Protection of Children and Cooperation in Respect of Inter-country Adoption.
 
-- (c) That the adopter is not disqualified by law;
+ - (b) The State shall provide alternative protection and assistance through foster care or adoption for every child who is a foundling, neglected, orphaned, or abandoned. To this end, the State shall:
 
-- (d) The name, age, and residence of the person to be adopted and of his relatives of the persons who have him under their care;
+    - (i) ensure that every child remains under the care and custody of his parents and is provided with love, care, understanding and security for the full and harmonious development of his personality. Only when such efforts prove insufficient and no appropriate placement or adoption within the child’s extended family is available shall adoption by an unrelated person be considered.
 
-- (e) The probable value and character of the estate of the person to be adopted.
+    - (ii) safeguard the biological parents from making hasty decisions in relinquishing their parental authority over their child;
 
-**Section 3. Consent of adoption.**
+    - (iii) prevent the child from unnecessary separation from his biological parents;
 
-There shall be filed with the petition a written consent to the adoption signed by the child, if fourteen years of age or over and not incompetent, and by the child's spouse, if any, and by each of its known living parents who is not insane or hopelessly intemperate or has not abandoned such child, or if there is no such parents by the general guardian or guardian ad litem of the child, or if the child is in the custody of an orphan asylum, children's home, or benevolent society or person, by the proper officer of such asylum, home, or society, or by such person; but if the child is illegitimate and has not been recognized, the consent of its father to the adoption shall not be required.
+    - (iv) conduct public information and educational campaigns to promote a positive environment for adoption;
 
-If the person to be adopted is of age, only his or her consent and that of the spouse, if any, shall be required.
+    - (v) ensure that government and private sector agencies have the capacity to handle adoption inquiries, process domestic adoption applications and offer adoption-related services including, but not limited to, parent preparation and post-adoption education and counseling;
 
-**Section 4. Order for hearing.**
+    - (vi) encourage domestic adoption so as to preserve the child’s identity and culture in his native land, and only when this is not available shall inter-country adoption be considered as a last resort; and
 
-If the petition and consent filed are sufficient in form and substance, the court, by an order reciting the purpose of the petition, shall fix a date and place for the hearing thereof, which shall not be more than six (6) months after the entry of the order, and shall direct that a copy of the order be published before the hearing at least once a week for three (3) successive weeks in some newspaper of general circulation published in the province, as the court shall deem best.
+    - (vii) protect adoptive parents from attempts to disturb their parental authority and custody over their adopted child.
 
-**Section 5. Hearing and judgment.**
+    - Any voluntary or involuntary termination of parental authority shall be administratively or judicially declared so as to establish the status of the child as “legally available for adoption” and his custody transferred to the Department of Social Welfare and Development or to any duly licensed and accredited child-placing or child-caring agency, which entity shall be authorized to take steps for the permanent placement of the child.
 
-Upon satisfactory proof in open court on the date fixed in the order that such order has been published as directed, that the allegations of petition are true, and that it is a proper case for adoption and the petitioner or petitioners are able to bring up and educate the child properly, the court shall adjudge that thenceforth the child is free from all legal obligations of obedience and maintenance with respect to its natural parents, except the mother when the child is adopted by her husband, and is, to all legal intents and purposes, the child of the petitioner or petitioners, and that its surname is changed to that the petitioner or petitioners. The adopted person or child shall thereupon become the legal heir of his parents by adoption and shall also remain the legal heir of his natural parents. In case of the death of the adopted person or child, his parents and relatives by nature, and not by adoption, shall be his legal heirs.
+**Rule on Adoption §3. Definition of Terms.**
 
-**Section 6. Proceedings as to the child whose parents are separated. Appeal.**
+For purposes of this Rule:
 
-When husband and wife are divorce or living separately and apart from each other, and the question as to the care, custody, and control of a child or children of their marriage is brought before a Court of First Instance by petition or as an incident to any other proceeding, the court, upon hearing the testimony as may be pertinent, shall award the care, custody, and control of each such child as will be for its best interest, permitting the child to choose which parent it prefers to live with if it be over ten years of age, unless the parent so chosen be unfit to take charge of the child by the reason of moral depravity, habitual drunkenness, incapacity, or poverty. If, upon such hearing, it appears that both parents are improper persons to have the care, custody, and control of the child, the court may either designate the paternal or maternal grandparent of the child, or his oldest brother or sister, or some reputable and discreet person to take charge of such child, or commit it to any suitable asylum, children's home, or benevolent society. The court may in conformity with the provisions of the Civil Code order either or both parents to support or help support said child, irrespective of who may be its custodian, and may make any order that is just and reasonable permitting the parent who is deprived of its care and custody to visit the child or have temporary custody thereof. Either parent may appeal from an order made in accordance with the provisions of this section. No child under seven years of age shall be separated from its mother, unless the court finds there are compelling reasons thereof.
+ - (a) “Child” is a person below eighteen (18) years of age at the time of the filing of the petition for adoption. 
 
-**Section 7. Proceedings as to vagrant or abused child.**
+ - (b) “A child legally available for adoption” refers to a child who has been voluntarily or involuntarily committed to the Department or to a duly licensed and accredited child-placing or child-caring agency, freed of the parental authority of his biological parents, or in case of rescission of adoption, his guardian or adopter(s). 
 
-When the parents of any minor child are dead, or by reason of long absence or legal or physical disability have abandoned it, or cannot support it through vagrancy, negligence, or misconduct, or neglect or refuse to support it, or treat it with excessive harshness or give it corrupting orders, counsels, or examples, or cause or allow it to engage in begging, or to commit offenses against the law, the proper Court of First Instance, upon petition filed by some reputable resident of the province setting forth the facts, may issue an order requiring such parents to show cause, or, if the parents are dead or cannot be found, requiring the fiscal of the province to show cause, at a time and place fixed in the order, why the child should not be taken from its parents, if living; and if upon the hearing it appears that the allegations of the petition are true, and that it is order taking it from its parents, if living; and committing it to any suitable orphan asylum, children's home, or benevolent society or person to be ultimately placed, by adoption or otherwise, in a home found for it by such asylum, children's home, society, or person.
+ - (c) “Voluntarily committed child” is one whose parents knowingly and willingly relinquish parental authority over him in favor of the Department. 
 
-**Section 8. Service of judgment.**
+ - (d) “Involuntarily committed child” is one whose parents, known or unknown, have been permanently and judicially deprived of parental authority over him due to abandonment; substantial, continuous or repeated neglect and abuse; or incompetence to discharge parental responsibilities. 
 
-Final orders or judgments under this rule shall be served by the clerk upon the civil registrar of the city or municipality wherein the court issuing the same is situated.
+ - (e) “Foundling” refers to a deserted or abandoned infant or child whose parents, guardian or relatives are unknown; or a child committed to an orphanage or charitable or similar institution with unknown facts of birth and parentage and registered in the Civil Register as a “foundling.” 
 
-<p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 100 Rescission and Revocation of Adoption</p>
+ - (f) “Abandoned child” refers to one who has no proper parental care or guardianship or whose parents have deserted him for a period of at least six (6) continuous months and has been judicially declared as such. 
 
-**Section 1. Who may file petition; grounds.**
+ - (g) “Dependent child” refers to one who is without a parent, guardian or custodian or one whose parents, guardian or other custodian for good cause desires to be relieved of his care and custody and is dependent upon the public for support. 
 
-A minor or other incapacitated person may, through a guardian or guardian ad litem, petition for the rescission or revocation of his or her adoption for the same causes that authorize the deprivation of parental authority.
+ - (h) “Neglected child” is one whose basic needs have been deliberately not attended to or inadequately attended to, physically or emotionally, by his parents or guardian. 
 
-The adopter may, likewise, petition the court for the rescission of revocation of the adoption in any of these cases:
+ - (i) “Physical neglect” occurs when the child is malnourished, ill-clad and without proper shelter. 
 
-- (a) If the adopted person has attempted against the file of the adopter;
+ - (j) “Emotional neglect” exists when a child is raped, seduced, maltreated, exploited, overworked or made to work under conditions not conducive to good health or made to beg in the streets or public places, or placed in moral danger, or exposed to drugs, alcohol, gambling, prostitution and other vices. 
 
-- (b) When the adopted minor has abandoned the home of the adopter for more than three (3) years;
+ - (k) “Child-placement agency” refers to an agency duly licensed and accredited by the Department to provide comprehensive child welfare services including, but not limited to, receiving applications for adoption, evaluating the prospective adoptive parents and preparing the adoption home study report. 
 
-- (c) When by other acts the adopted person has repudiated the adoption.
+ - (l) “Child-caring agency” refers to an agency duly licensed and accredited by the Department that provides 24-hour residential care services for abandoned, orphaned, neglected or voluntarily committed children. 
 
-**Section 2. Order to answer.**
+ - (m) “Department” refers to the Department of Social Welfare and Development. 
 
-The court in which the petition is filed shall issue an order requiring the adverse party to answer the petition within fifteen (15) days from receipt of a copy thereof. The order and a copy of the petition shall be served on the adverse party in such manner as the court may direct
+ - (n) “Deed of Voluntary Commitment” refers to the written and notarized instrument relinquishing parental authority and committing the child to the care and custody of the Department executed by the child’s biological parents or in their absence, mental incapacity or death, by the child’s legal guardian, to be witnessed by an authorized representative of the Department after counseling and other services have been made available to encourage the biological parents to keep the child. 
 
-**Section 3. Judgment.**
+ - (o) “Child Study Report” refers to a study made by the court social worker of the child’s legal status, placement history, psychological, social, spiritual, medical, ethno-cultural background and that of his biological family needed in determining the most appropriate placement for him. 
 
-If upon trial, on the day set therefor, the court finds that the allegations of the petition are true, it shall render judgment ordering the rescission or revocation of the adoption, with or without costs, as justice requires.
+ - (p) “Home Study Report” refers to a study made by the court social worker of the motivation and capacity of the prospective adoptive parents to provide a home that meets the needs of a child. 
 
-**Section 4. Service of Judgment.**
+ - (q) “Supervised trial custody” refers to the period of time during which a social worker oversees the adjustment and emotional readiness of both adopters and adoptee in stabilizing their filial relationship. 
 
-A certified copy of the judgment rendered in accordance with the next preceding section shall be served upon the civil registrar concerned, within thirty (30) days from rendition thereof, who shall forthwith enter the action taken by the court in the register.
+ - (r) “Licensed Social Worker” refers to one who possesses a degree in bachelor of science in social work as a minimum educational requirement and who has passed the government licensure examination for social workers as required by Republic Act No. 4373. 
 
-**Section 5. Time within which to file petition.**
+ - (s) “Simulation of birth” is the tampering of the civil registry to make it appear in the birth records that a certain child was born to a person who is not his biological mother, thus causing such child to lose his true identity and status. 
 
-A minor or other incapacitated person must file the petition for rescission or revocation of adoption within the five (5) years following his majority, or if he was incompetent at the time of the adoption, within the five (5) years following the recovery from such incompetency.
+ - (t) “Biological Parents” refer to the child’s mother and father by nature. 
 
-The adopter must also file the petition to set aside the adoption within five (5) years from the time the cause or causes giving rise to the rescission or revocation of the same took place.
+ - (u) “Pre-Adoption Services” refer to psycho-social services provided by professionally-trained social workers of the Department, the social services units of local governments, private and government health facilities, Family Courts, licensed and accredited child-caring and child-placement agencies and other individuals or entities involved in adoption as authorized by the Department. 
+
+ - (v) “Residence” means a person’s actual stay in the Philippines for three (3) continuous years immediately prior to the filing of a petition for adoption and which is maintained until the adoption decree is entered. Temporary absences for professional, business, health, or emergency reasons not exceeding sixty (60) days in one (1) year does not break the continuity requirement. 
+
+ - (w) “Alien” refers to any person, not a Filipino citizen, who enters and remains in the Philippines and is in possession of a valid passport or travel documents and visa.
+
+**Rule on Adoption §4. Who may adopt.**
+
+The following may adopt:
+
+ - (1) Any Filipino citizen of legal age, in possession of full civil capacity and legal rights, of good moral character, has not been convicted of any crime involving moral turpitude; who is emotionally and psychologically capable of caring for children, at least sixteen (16) years older than the adoptee, and who is in a position to support and care for his children in keeping with the means of the family. The requirement of a 16-year difference between the age of the adopter and adoptee may be waived when the adopter is the biological parent of the adoptee or is the spouse of the adoptee’s parent;
+
+ - (2) Any alien possessing the same qualifications as above-stated for Filipino nationals: Provided, That his country has diplomatic relations with the Republic of the Philippines, that he has been living in the Philippines for at least three (3) continuous years prior to the filing of the petition for adoption and maintains such residence until the adoption decree is entered, that he has been certified by his diplomatic or consular office or any appropriate government agency to have the legal capacity to adopt in his country, and that his government allows the adoptee to enter his country as his adopted child. Provided, further, That the requirements on residency and certification of the alien’s qualification to adopt in his country may be waived for the following:
+
+    - (i) a former Filipino citizen who seeks to adopt a relative within the fourth (4th) degree of consanguinity or affinity; or
+
+    - (ii) one who seeks to adopt the legitimate child of his Filipino spouse; or
+
+    - (iii) one who is married to a Filipino citizen and seeks to adopt jointly with his spouse a relative within the fourth (4th) degree of consanguinity or affinity of the Filipino spouse.
+
+ - (3) The guardian with respect to the ward after the termination of the guardianship and clearance of his financial accountabilities. Husband and wife shall jointly adopt, except in the following cases:
+
+    - (i) if one spouse seeks to adopt the legitimate child of one spouse by the other spouse; or
+
+    - (ii) if one spouse seeks to adopt his own illegitimate child: Provided, however, That the other spouse has signified his consent thereto; or
+
+    - (iii) if the spouses are legally separated from each other.
+
+In case husband and wife jointly adopt or one spouse adopts the illegitimate child of the other, joint parental authority shall be exercised by the spouses.
+
+**Rule on Adoption §5. Who may be adopted.**
+
+The following may be adopted:
+
+ - (1) Any person below eighteen (18) years of age who has been voluntarily committed to the Department under Articles 154, 155 and 156 of P.D. No. 603 or judicially declared available for adoption; 
+
+ - (2) The legitimate child of one spouse, by the other spouse; 
+
+ - (3) An illegitimate child, by a qualified adopter to raise the status of the former to that of legitimacy; 
+
+ - (4) A person of legal age regardless of civil status, if, prior to the adoption, said person has been consistently considered and treated by the adopters as their own child since minority; 
+
+ - (5) A child whose adoption has been previously rescinded; or 
+
+ - (6) A child whose biological or adoptive parents have died: Provided, That no proceedings shall be initiated within six (6) months from the time of death of said parents. 
+
+ - (7) A child not otherwise disqualified by law or these rules.
+
+**Rule on Adoption §6. Venue.**
+
+The petition for adoption shall be filed with the Family Court of the province or city where the prospective adoptive parents reside.
+
+**Rule on Adoption §7. Contents of the Petition.**
+
+The petition shall be verified and specifically state at the heading of the initiatory pleading whether the petition contains an application for change of name, rectification of simulated birth, voluntary or involuntary commitment of children, or declaration of child as abandoned, dependent or neglected.
+
+ - 1) If the adopter is a Filipino citizen, the petition shall allege the following:
+
+    - (a) The jurisdictional facts; 
+
+    - (b) That the petitioner is of legal age, in possession of full civil capacity and legal rights; is of good moral character; has not been convicted of any crime involving moral turpitude; is emotionally and psychologically capable of caring for children; is at least sixteen (16) years older than the adoptee, unless the adopter is the biological parent of the adoptee or is the spouse of the adoptee’s parent; and is in a position to support and care for his children in keeping with the means of the family and has undergone pre-adoption services as required by section 4 of Republic Act No. 8552.
+
+ - 2) If the adopter is an alien, the petition shall allege the following:
+
+    - (a) The jurisdictional facts; 
+
+    - (b) Sub-paragraph 1(b) above; 
+
+    - (c) That his country has diplomatic relations with the Republic of the Philippines; 
+
+    - (d) That he has been certified by his diplomatic or consular office or any appropriate government agency to have the legal capacity to adopt in his country and his government allows the adoptee to enter his country as his adopted child and reside there permanently as an adopted child; and 
+
+    - (e) That he has been living in the Philippines for at least three (3) continuous years prior to the filing of the petition and he maintains such residence until the adoption decree is entered.
+
+    - The requirements of certification of the alien’s qualification to adopt in his country and of residency may be waived if the alien:
+
+       - (i) is a former Filipino citizen who seeks to adopt a relative within the fourth degree of consanguinity or affinity; or
+
+       - (ii) seeks to adopt the legitimate child of his Filipino spouse; or
+
+       - (iii) is married to a Filipino citizen and seeks to adopt jointly with his spouse a relative within the fourth degree of consanguinity or affinity of the Filipino spouse.
+
+ - 3) If the adopter is the legal guardian of the adoptee, the petition shall allege that guardianship had been terminated and the guardian had cleared his financial accountabilities. 4) 4) If the adopter is married, the spouse shall be a co-petitioner for joint adoption except if:
+
+    - (a) one spouse seeks to adopt the legitimate child of the other, or
+
+    - (b) if one spouse seeks to adopt his own illegitimate child and the other spouse signified written consent thereto, or
+
+    - (c) if the spouses are legally separated from each other.
+
+ - 5) If the adoptee is a foundling, the petition shall allege the entries which should appear in his birth certificate, such as name of child, date of birth, place of birth, if known; sex, name and citizenship of adoptive mother and father, and the date and place of their marriage.
+
+ - 6) If the petition prays for a change of name, it shall also state the cause or reason for the change of name.
+
+In all petitions, it shall be alleged:
+
+ - (a) The first name, surname or names, age and residence of the adoptee as shown by his record of birth, baptismal or foundling certificate and school records.
+
+ - (b) That the adoptee is not disqualified by law to be adopted.
+
+ - (c) The probable value and character of the estate of the adoptee.
+
+ - (d) The first name, surname or names by which the adoptee is to be known and registered in the Civil Registry.
+
+A certification of non-forum shopping shall be included pursuant to section 5, Rule 7 of the 1997 Rules of Civil Procedure.
+
+**Rule on Adoption §8. Rectification of Simulated Birth.**
+
+In case the petition also seeks rectification of a simulated of birth, it shall allege that:
+
+ - (a) Petitioner is applying for rectification of a simulated birth; 
+
+ - (b) The simulation of birth was made prior to the date of effectivity of Republic Act No. 8552 and the application for rectification of the birth registration and the petition for adoption were filed within five years from said date; 
+
+ - (c) The petitioner made the simulation of birth for the best interests of the adoptee; and 
+
+ - (d) The adoptee has been consistently considered and treated by petitioner as his own child.
+
+**Rule on Adoption §9. Adoption of a foundling, an abandoned, dependent or neglected child.**
+
+In case the adoptee is a foundling, an abandoned, dependent or neglected child, the petition shall allege:
+
+ - (a) The facts showing that the child is a foundling, abandoned, dependent or neglected; 
+
+ - (b) The names of the parents, if known, and their residence. If the child has no known or living parents, then the name and residence of the guardian, if any; 
+
+ - (c) The name of the duly licensed child-placement agency or individual under whose care the child is in custody; and 
+
+ - (d) That the Department, child-placement or child-caring agency is authorized to give its consent.
+
+**Rule on Adoption §10. Change of name.**
+
+In case the petition also prays for change of name, the title or caption must contain:
+
+ - (a) The registered name of the child; 
+
+ - (b) Aliases or other names by which the child has been known; and 
+
+ - (c) The full name by which the child is to be known.
+
+**Rule on Adoption §11. Annexes to the Petition.**
+
+The following documents shall be attached to the petition:
+
+ - A. Birth, baptismal or foundling certificate, as the case may be, and school records showing the name, age and residence of the adoptee; B. Affidavit of consent of the following:
+
+    - 1) The adoptee, if ten (10) years of age or over;
+
+    - 2) The biological parents of the child, if known, or the legal guardian, or the child-placement agency, child-caring agency, or the proper government instrumentality which has legal custody of the child;
+
+    - 3) The legitimate and adopted children of the adopter and of the adoptee, if any, who are ten (10) years of age or over;
+
+    - 4) The illegitimate children of the adopter living with him who are ten (10) years of age or over; and
+
+    - 5) The spouse, if any, of the adopter or adoptee.
+
+ - C. Child study report on the adoptee and his biological parents;
+
+ - D. If the petitioner is an alien, certification by his diplomatic or consular office or any appropriate government agency that he has the legal capacity to adopt in his country and that his government allows the adoptee to enter his country as his own adopted child unless exempted under Section 4(2);
+
+ - E. Home study report on the adopters. If the adopter is an alien or residing abroad but qualified to adopt, the home study report by a foreign adoption agency duly accredited by the Inter-Country Adoption Board; and
+
+ - F. Decree of annulment, nullity or legal separation of the adopter as well as that of the biological parents of the adoptee, if any.
+
+**Rule on Adoption §12. Order of Hearing.**
+
+If the petition and attachments are sufficient in form and substance, the court shall issue an order which shall contain the following:
+
+ - (1) the registered name of the adoptee in the birth certificate and the names by which the adoptee has been known which shall be stated in the caption;
+
+ - (2) the purpose of the petition;
+
+ - (3) the complete name which the adoptee will use if the petition is granted;
+
+ - (4) the date and place of hearing which shall be set within six (6) months from the date of the issuance of the order and shall direct that a copy thereof be published before the date of hearing at least once a week for three successive weeks in a newspaper of general circulation in the province or city where the court is situated; Provided, that in case of application for change of name, the date set for hearing shall not be within four (4) months after the last publication of the notice nor within thirty (30) days prior to an election. The newspaper shall be selected by raffle under the supervision of the Executive Judge.
+
+ - (5) a directive to the social worker of the court, the social service office of the local government unit or any child-placing or child-caring agency, or the Department to prepare and submit child and home study reports before the hearing if such reports had not been attached to the petition due to unavailability at the time of the filing of the latter; and
+
+ - (6) a directive to the social worker of the court to conduct counseling sessions with the biological parents on the matter of adoption of the adoptee and submit her report before the date of hearing.
+
+At the discretion of the court, copies of the order of hearing shall also be furnished the Office of the Solicitor General through the provincial or city prosecutor, the Department and the biological parents of the adoptee, if known. If a change in the name of the adoptee is prayed for in the petition, notice to the Solicitor General shall be mandatory.
+
+**Rule on Adoption §13. Child and Home Study Reports.**
+
+In preparing the child study report on the adoptee, the concerned social worker shall verify with the Civil Registry the real identity and registered name of the adoptee. If the birth of the adoptee was not registered with the Civil Registry, it shall be the responsibility of the social worker to register the adoptee and secure a certificate of foundling or late registration, as the case may be. The social worker shall establish that the child is legally available for adoption and the documents in support thereof are valid and authentic, that the adopter has sincere intentions and that the adoption shall inure to the best interests of the child. In case the adopter is an alien, the home study report must show the legal capacity to adopt and that his government allows the adoptee to enter his country as his adopted child in the absence of the certification required under Section 7(b) of Republic Act No. 8552. If after the conduct of the case studies, the social worker finds that there are grounds to deny the petition, he shall make the proper recommendation to the court, furnishing a copy thereof to the petitioner.
+
+**Rule on Adoption §14. Hearing.**
+
+Upon satisfactory proof that the order of hearing has been published and jurisdictional requirements have been complied with, the court shall proceed to hear the petition. The petitioner and the adoptee must personally appear and the former must testify before the presiding judge of the court on the date set for hearing. The court shall verify from the social worker and determine whether the biological parent has been properly counseled against making hasty decisions caused by strain or anxiety to give up the child; ensure that all measures to strengthen the family have been exhausted; and ascertain if any prolonged stay of the child in his own home will be inimical to his welfare and interest.
+
+**Rule on Adoption §15. Supervised Trial Custody.**
+
+Before issuance of the decree of adoption, the court shall give the adopter trial custody of the adoptee for a period of at least six (6) months within which the parties are expected to adjust psychologically and emotionally to each other and establish a bonding relationship. The trial custody shall be monitored by the social worker of the court, the Department, or the social service of the local government unit, or the child-placement or child-caring agency which submitted and prepared the case studies. During said period, temporary parental authority shall be vested in the adopter. The court may, motu proprio or upon motion of any party, reduce the period or exempt the parties if it finds that the same shall be for the best interests of the adoptee, stating the reasons therefor. An alien adopter however must complete the 6-month trial custody except the following:
+
+ - a) a former Filipino citizen who seeks to adopt a relative within the fourth (4th) degree of consanguinity or affinity; or
+
+ - b) one who seeks to adopt the legitimate child of his Filipino spouse; or
+
+ - c) one who is married to a Filipino citizen and seeks to adopt jointly with his or her spouse the latter’s relative within the fourth (4th) degree of consanguinity or affinity.
+
+If the child is below seven (7) years of age and is placed with the prospective adopter through a pre-adoption placement authority issued by the Department, the court shall order that the prospective adopter shall enjoy all the benefits to which the biological parent is entitled from the date the adoptee is placed with him. The social worker shall submit to the court a report on the result of the trial custody within two weeks after its termination.
+
+**Rule on Adoption §16. Decree of Adoption.**
+
+If the supervised trial custody is satisfactory to the parties and the court is convinced from the trial custody report and the evidence adduced that the adoption shall redound to the best interests of the adoptee, a decree of adoption shall be issued which shall take effect as of the date the original petition was filed even if the petitioners die before its issuance. The decree shall:
+
+ - A. State the name by which the child is to be known and registered;
+
+ - B. Order:
+
+    - 1) the Clerk of Court to issue to the adopter a certificate of finality upon expiration of the 15-day reglementary period within which to appeal;
+
+    - 2) the adopter to submit a certified true copy of the decree of adoption and the certificate of finality to the Civil Registrar where the child was originally registered within thirty (30) days from receipt of the certificate of finality. In case of change of name, the decree shall be submitted to the Civil Registrar where the court issuing the same is situated.
+
+    - 3) the Civil Registrar of the place where the adoptee was registered:
+
+        - a. to annotate on the adoptee’s original certificate of birth the decree of adoption within thirty (30) days from receipt of the certificate of finality;
+
+        - b. to issue a certificate of birth which shall not bear any notation that it is a new or amended certificate and which shall show, among others, the following: registry number, date of registration, name of child, sex, date of birth, place of birth, name and citizenship of adoptive mother and father, and the date and place of their marriage, when applicable;
+
+        - c. to seal the original certificate of birth in the civil registry records which can be opened only upon order of the court which issued the decree of adoption; and d. to submit to the court issuing the decree of adoption proof of compliance with all the foregoing within thirty days from receipt of the decree.
+
+        - If the adoptee is a foundling, the court shall order the Civil Registrar where the foundling was registered, to annotate the decree of adoption on the foundling certificate and a new birth certificate shall be ordered prepared by the Civil Registrar in accordance with the decree.
+
+**Rule on Adoption §17. Book of Adoptions.**
+
+The Clerk of Court shall keep a book of adoptions showing the date of issuance of the decree in each case, compliance by the Civil Registrar with Section 16(B)(3) and all incidents arising after the issuance of the decree.
+
+**Rule on Adoption §18. Confidential Nature of Proceedings and Records.**
+
+All hearings in adoption cases, after compliance with the jurisdictional requirements shall be confidential and shall not be open to the public. All records, books and papers relating to the adoption cases in the files of the court, the Department, or any other agency or institution participating in the adoption proceedings shall be kept strictly confidential. If the court finds that the disclosure of the information to a third person is necessary for security reasons or for purposes connected with or arising out of the adoption and will be for the best interests of the adoptee, the court may, upon proper motion, order the necessary information to be released, restricting the purposes for which it may be used.
+
+**Rule on Adoption §19. Rescission of Adoption of the Adoptee.**
+
+The petition shall be verified and filed by the adoptee who is over eighteen (18) years of age, or with the assistance of the Department, if he is a minor, or if he is over eighteen (18) years of age but is incapacitated, by his guardian or counsel. The adoption may be rescinded based on any of the following grounds committed by the adopter:
+
+ - 1) repeated physical and verbal maltreatment by the adopter despite having undergone counseling;
+
+ - 2) attempt on the life of the adoptee;
+
+ - 3) sexual assault or violence; or
+
+ - 4) abandonment or failure to comply with parental obligations.
+
+Adoption, being in the best interests of the child, shall not be subject to rescission by the adopter. However, the adopter may disinherit the adoptee for causes provided in Article 919 of the Civil Code.
+
+**Rule on Adoption §20. Venue.**
+
+The petition shall be filed with the Family Court of the city or province where the adoptee resides.
+
+**Rule on Adoption §21. Time within which to file petition.**
+
+The adoptee, if incapacitated, must file the petition for rescission or revocation of adoption within five (5) years after he reaches the age of majority, or if he was incompetent at the time of the adoption, within five (5) years after recovery from such incompetency.
+
+**Rule on Adoption §22. Order to Answer.**
+
+The court shall issue an order requiring the adverse party to answer the petition within fifteen (15) days from receipt of a copy thereof. The order and copy of the petition shall be served on the adverse party in such manner as the court may direct.
+
+**Rule on Adoption §23. Judgment.**
+
+If the court finds that the allegations of the petition are true, it shall render judgment ordering the rescission of adoption, with or without costs, as justice requires. The court shall order that the parental authority of the biological parent of the adoptee, if known, or the legal custody of the Department shall be restored if the adoptee is still a minor or incapacitated and declare that the reciprocal rights and obligations of the adopter and the adoptee to each other shall be extinguished. The court shall further declare that successional rights shall revert to its status prior to adoption, as of the date of judgment of judicial rescission. Vested rights acquired prior to judicial rescission shall be respected. It shall also order the adoptee to use the name stated in his original birth or foundling certificate. The court shall further order the Civil Registrar where the adoption decree was registered to cancel the new birth certificate of the adoptee and reinstate his original birth or foundling certificate.
+
+**Rule on Adoption §24. Service of Judgment.**
+
+A certified true copy of the judgment together with a certificate of finality issued by the Branch Clerk of the Court which rendered the decision in accordance with the preceding section shall be served by the petitioner upon the Civil Registrar concerned within thirty (30) days from receipt of the certificate of finality. The Civil Registrar shall forthwith enter the rescission decree in the register and submit proof of compliance to the court issuing the decree and the Clerk of Court within thirty (30) days from receipt of the decree. The Clerk of Court shall enter the compliance in accordance with section 17 hereof.
+
+**Rule on Adoption §25. Repeal.**
+
+This supersedes Rule 99 on Adoption and Rule 100 of the Rules of Court. B. Inter-Country Adoption
+
+**Rule on Adoption §26. Applicability.**
+
+The following sections apply to inter-country adoption of Filipino children by foreign nationals and Filipino citizens permanently residing abroad.
+
+**Rule on Adoption §27. Objectives.**
+
+The State shall:
+
+ - a) consider inter-country adoption as an alternative means of child care, if the child cannot be placed in a foster or an adoptive family or cannot, in any suitable manner, be cared for in the Philippines;
+
+ - b) ensure that the child subject of inter-country adoption enjoys the same protection accorded to children in domestic adoption; and
+
+ - c) take all measures to ensure that the placement arising therefrom does not result in improper financial gain for those involved.
+
+**Rule on Adoption §28. Where to File Petition.**
+
+A verified petition to adopt a Filipino child may be filed by a foreign national or Filipino citizen permanently residing abroad with the Family Court having jurisdiction over the place where the child resides or may be found. It may be filed directly with the Inter-Country Adoption Board.
+
+**Rule on Adoption §29. Who may be adopted.**
+
+Only a child legally available for domestic adoption may be the subject of inter-country adoption.
+
+**Rule on Adoption §30. Contents of Petition.**
+
+The petitioner must allege:
+
+ - a) his age and the age of the child to be adopted, showing that he is at least twenty-seven (27) years of age and at least sixteen (16) years older than the child to be adopted at the time of application, unless the petitioner is the parent by nature of the child to be adopted or the spouse of such parent, in which case the age difference does not apply;
+
+ - b) if married, the name of the spouse who must be joined as co-petitioner except when the adoptee is a legitimate child of his spouse;
+
+ - c) that he has the capacity to act and assume all rights and responsibilities of parental authority under his national laws, and has undergone the appropriate counseling from an accredited counselor in his country;
+
+ - d) that he has not been convicted of a crime involving moral turpitude;
+
+ - e) that he is eligible to adopt under his national law;
+
+ - f) that he can provide the proper care and support and instill the necessary moral values and example to all his children, including the child to be adopted;
+
+ - g) that he agrees to uphold the basic rights of the child, as embodied under Philippine laws and the U. N. Convention on the Rights of the Child, and to abide by the rules and regulations issued to implement the provisions of Republic Act No. 8043;
+
+ - h) that he comes from a country with which the Philippines has diplomatic relations and whose government maintains a similarly authorized and accredited agency and that adoption of a Filipino child is allowed under his national laws; and
+
+ - i) that he possesses all the qualifications and none of the disqualifications provided in this Rule, in Republic Act No. 8043 and in all other applicable Philippine laws.
+
+**Rule on Adoption §31. Annexes.**
+
+The petition for adoption shall contain the following annexes written and officially translated in English:
+
+ - a) Birth certificate of petitioner;
+
+ - b) Marriage contract, if married, and, if applicable, the divorce decree, or judgment dissolving the marriage;
+
+ - c) Sworn statement of consent of petitioner’s biological or adopted children above ten (10) years of age;
+
+ - d) Physical, medical and psychological evaluation of the petitioner certified by a duly licensed physician and psychologist;
+
+ - e) Income tax returns or any authentic document showing the current financial capability of the petitioner;
+
+ - f) Police clearance of petitioner issued within six (6) months before the filing of the petitioner;
+
+ - g) Character reference from the local church/minister, the petitioner’s employer and a member of the immediate community who have known the petitioner for at least five (5) years;
+
+ - h) Full body postcard-size pictures of the petitioner and his immediate family taken at least six (6) months before the filing of the petition.
+
+**Rule on Adoption §32. Duty of Court.**
+
+The court, after finding that the petition is sufficient in form and substance and a proper case for inter-country adoption, shall immediately transmit the petition to the Inter-Country Adoption Board for appropriate action.
+
+**Rule on Adoption §33. Effectivity.**
+
+This Rule shall take effect on August 22, 2002 following its publication in a newspaper of general circulation.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 101 Proceedings for Hospitalization of Insane Persons</p>
 
-**Section 1. Venue, Petition for commitment.**
+**§1. Venue, Petition for commitment.**
 
 A petition for the commitment of a person to a hospital or other place for the insane may be filed with the Court of First Instance of the province where the person alleged to be insane is found. The petition shall be filed by the Director of Health in all cases where, in his opinion, such commitment is for the public welfare, or for the welfare of said person who, in his judgment, is insane and such person or the one having charge of him is opposed to his being taken to a hospital or other place for the insane.
 
-**Section 2. Order for hearing.**
+**§2. Order for hearing.**
 
 If the petition filed is sufficient in form and substance, the court, by an order reciting the purpose of the petition, shall fix a date for the hearing thereof, and copy of such order shall be served on the person alleged to be insane, and to the one having charge him, or on such of his relatives residing in the province or city as the judge may deem proper. The court shall furthermore order the sheriff to produce the alleged insane person, if possible, on the date of the hearing.
 
-**Section 3. Hearing and judgment.**
+**§3. Hearing and judgment.**
 
 Upon satisfactory proof, in open court on the date fixed in the order, that the commitment applied for is for the public welfare or for the welfare of the insane person, and that his relatives are unable for any reason to take proper custody and care of him, the court shall order his commitment to such hospital or other place for the insane as may be recommended by the Director of Health. The court shall make proper provisions for the custody of property or money belonging to the insane until a guardian be properly appointed.
 
-**Section 4. Discharge of insane.**
+**§4. Discharge of insane.**
 
 When, in the opinion of the Director of Health, the person ordered to be committed to a hospital or other place for the insane is temporarily or permanently cured, or may be released without danger he may file the proper petition with the Court of First Instance which ordered the commitment.
 
-**Section 5. Assistance of fiscal in the proceeding.**
+**§5. Assistance of fiscal in the proceeding.**
 
 It shall be the duty of the provincial fiscal or in the City of Manila the fiscal of the city, to prepare the petition for the Director of Health and represent him in court in all proceedings arising under the provisions of this rule.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 102 Habeas Corpus</p>
 
-**Section 1. To what habeas corpus extends.**
+**§1. To what habeas corpus extends.**
 
 Except as otherwise expressly provided by law, the writ of habeas corpus shall extend to all cases of illegal confinement or detention by which any person is deprived of his liberty, or by which the rightful custody of any person is withheld from the person entitled thereto.
 
-**Section 2. Who may grant the writ.**
+**§2. Who may grant the writ.**
 
 The writ of habeas corpus may be granted by the Supreme Court, or any member thereof in the instances authorized by law, and if so granted it shall be enforceable anywhere in the Philippines, and may be made returnable before the court or any member thereof, or before a Court of First Instance, or any judge thereof for the hearing and decision on the merits. It may also be granted by a Court of First Instance, or a judge thereof, on any day and at any time, and returnable before himself, enforceable only within his judicial district.
 
-**Section 3. Requisites of application therefor.**
+**§3. Requisites of application therefor.**
 
 Application for the writ shall be by petition signed and verified either by the party for whose relief it is intended, or by some person on his behalf, and shall set forth:
 
@@ -1027,31 +1367,31 @@ Application for the writ shall be by petition signed and verified either by the 
 
 - (d) A copy of the commitment or cause of detention of such person, if it can be procured without impairing the efficiency of the remedy; or, if the imprisonment or restraint is without any legal authority, such fact shall appear.
 
-**Section 4. When writ not allowed or discharge authorized.**
+**§4. When writ not allowed or discharge authorized.**
 
 If it appears that the person alleged to be restrained of his liberty is in the custody of an officer under process issued by a court or judge or by virtue of a judgment or order of a court of record, and that the court or judge had jurisdiction to issue the process, render the judgment, or make the order, the writ shall not be allowed; or if the jurisdiction appears after the writ is allowed, the person shall not be discharged by reason of any informality or defect in the process, judgment, or order. Not shall anything in this rule be held to authorize the discharge of a person charged with or convicted of an offense in the Philippines, or of a person suffering imprisonment under lawful judgment.
 
-**Section 5. When the writ must be granted and issued.**
+**§5. When the writ must be granted and issued.**
 
 A court or judge authorized to grant the writ must, when a petition therefor is presented and it appears that the writ ought to issue, grant the same forthwith, and immediately thereupon the clerk of the court shall issue the writ under the seal of the court; or in case of emergency, the judge may issue the writ under his own hand, and may depute any officer or person to serve it.
 
-**Section 6. To whom writ directed, and what to require.**
+**§6. To whom writ directed, and what to require.**
 
 In case of imprisonment or restraint by an officer, the writ shall be directed to him, and shall command him to have the body of the person restrained of his liberty before the court or judge designated in the writ at the time and place therein specified. In case of imprisonment or restraint by a person not an officer, the writ shall be directed to an officer, and shall command him to take and have the body of the person restrained of his liberty before the court or judge designated in the writ at the time and place therein specified, and to summon the person by whom he is restrained then and there to appear before said court or judge to show the cause of the imprisonment or restraint.
 
-**Section 7. How prisoner designated and writ served.**
+**§7. How prisoner designated and writ served.**
 
 The person to be produced should be designated in the writ by his name, if known, but if his name is not known he may be otherwise described or identified. The writ may be served in any province by the sheriff or other proper officer, or by a person deputed by the court or judge. Service of the writ shall be made by leaving the original with the person to whom it is directed and preserving a copy on which to make return or service. If that person cannot be found, or has not the prisoner in his custody, then the service shall be made on any other person having or exercising such custody.
 
-**Section 8. How writ executed and returned.**
+**§8. How writ executed and returned.**
 
 The officer to whom the writ is directed shall convey the person so imprisoned or restrained, and named in the writ, before the judge allowing the writ, or in case of his absence or disability, before some other judge of the same court, on the day specified in the writ, unless, from sickness or infirmity of the person directed to be produced, such person cannot, without danger, be bought before the court or judge; and the officer shall make due return of the writ, together with the day and the cause of the caption and restraint of such person according to the command thereof.
 
-**Section 9. Defect of form.**
+**§9. Defect of form.**
 
 No writ of habeas corpus can be disobeyed for defect of form, if it sufficiently appears therefrom in whose custody or under whose restraint the party imprisoned or restrained is held and the court or judge before whom he is to be bought.
 
-**Section 10. Contents of return.**
+**§10. Contents of return.**
 
 When the person to be produced is imprisoned or restrained by an officer, the person who makes the return shall state therein, and in other cases the person in whose custody the prisoner is found shall state, in writing to the court or judge before whom the writ is returnable, plainly and unequivocably:
 
@@ -1063,49 +1403,49 @@ When the person to be produced is imprisoned or restrained by an officer, the pe
 
 - (d) If he has had the party in his custody or power, or under restraint, and has transferred such custody or restraint to another, particularly to whom, at what time, for what cause, and by what authority such transfer was made.
 
-**Section 11. Return to be signed and sworn to.**
+**§11. Return to be signed and sworn to.**
 
 The return or statement shall be signed by the person who makes it; and shall also be sworn by him if the prisoner is not produced, and in all other cases unless the return is made and signed by a sworn public officer in his official capacity.
 
-**Section 12. Hearing on return. Adjournments.**
+**§12. Hearing on return. Adjournments.**
 
 When the writ is returned before one judge, at a time when the court is in session, he may forthwith adjourn the case into the court, there to be heard and determined. The court or judge before whom the writ is returned or adjourned must immediately proceed to hear and examine the return, and such other matters as are properly submitted for consideration, unless for good cause shown the hearing is adjourned, in which event the court or judge shall make such order for the safekeeping of the person imprisoned or restrained as the nature of the case requires. If the person imprisoned or restrained is not produced because of his alleged sickness or infirmity, the court or judge must be satisfied that it is so grave that such person cannot be produced without danger, before proceeding to hear and dispose of the matter. On the hearing the court or judge shall disregard matters of form and technicalities in respect to any warrant or order of commitment of a court or officer authorized to commit by law.
 
-**Section 13. When the return evidence, and when only a plea.**
+**§13. When the return evidence, and when only a plea.**
 
 If it appears that the prisoner is in custody under a warrant of commitment in pursuance of law, the return shall be considered prima facie evidence of the cause of restraint, but if he is restrained of his liberty by any alleged private authority, the return shall be considered only as a plea of the facts therein set forth, and the party claiming the custody must prove such facts.
 
-**Section 14. When person lawfully imprisoned recommitted, and when let to bail.**
+**§14. When person lawfully imprisoned recommitted, and when let to bail.**
 
 If it appears that the prisoner was lawfully committed, and is plainly and specifically charged in the warrant of commitment with an offense punishable by death, he shall not be released, discharged, or bailed. If he is lawfully imprisoned or restrained on a charge of having committed an offense not so punishable, he may be recommitted to imprisonment or admitted to bail in the discretion of the court or judge. If he be admitted to bail, he shall forthwith file a bond in such sum as the court or judge deems reasonable, considering the circumstances of the prisoner and the nature of the offense charged, conditioned for his appearance before the court where the offense is properly cognizable to abide its order of judgment; and the court or judge shall certify the proceedings, together with the bond, forthwith to the proper court. If such bond is not so filed, the prisoner shall be recommitted to confinement.
 
-**Section 15. When prisoner discharged if no appeal.**
+**§15. When prisoner discharged if no appeal.**
 
 When the court or judge has examined into the cause of caption and restraint of the prisoner, and is satisfied that he is unlawfully imprisoned or restrained, he shall forthwith order his discharge from confinement, but such discharge shall not be effective until a copy of the order has been served on the officer or person detaining the prisoner. If the officer or person detaining the prisoner does not desire to appeal, the prisoner shall be forthwith released.
 
-**Section 16. Penalty for refusing to issue writ, or for disobeying the same.**
+**§16. Penalty for refusing to issue writ, or for disobeying the same.**
 
 A clerk of a court who refuses to issue the writ after allowance thereof and demand therefor, or a person to whom a writ is directed, who neglects or refuses to obey or make return of the same according to the command thereof, or makes false return thereof, or who, upon demand made by or on behalf of the prisoner, refuses to deliver to the person demanding, within six (6) hours after the demand therefor, a true copy of the warrant or order of commitment, shall forfeit to the party aggrieved the sum of one thousand pesos, to be recorded in a proper action, and may also be punished by the court or judge as for contempt.
 
-**Section 17. Person discharged not to be again imprisoned.**
+**§17. Person discharged not to be again imprisoned.**
 
 A person who is set at liberty upon a writ of habeas corpus shall not be again imprisoned for the same offense unless by the lawful order or process of a court having jurisdiction of the cause or offense; and a person who knowingly, contrary to the provisions of this rule, recommits or imprisons, or causes to be committed or imprisoned, for the same offense, or pretended offense, any person so set at liberty, or knowingly aids or assists therein, shall forfeit to the party aggrieved the sum of one thousand pesos, to be recovered in a proper action, notwithstanding any colorable pretense or variation in the warrant of commitment, and may also be punished by the court or judge granting the writ as for contempt.
 
-**Section 18. When prisoner may be removed from one custody to another.**
+**§18. When prisoner may be removed from one custody to another.**
 
 A person committed to prison, or in custody of an officer, for any criminal matter, shall not be removed therefrom into the custody of another unless by legal process, or the prisoner be delivered to an inferior officer to carry to jail, or, by order of the proper court or judge, be removed from one place to another within the Philippines for trial, or in case of fire epidemic, insurrection, or other necessity or public calamity; and a person who, after such commitment, makes signs, or counter-signs any order for such removal contrary to this section, shall forfeit to the party aggrieved the sum of one thousand pesos, to be recovered in a proper action.
 
-**Section 19. Record of writ, fees and costs.**
+**§19. Record of writ, fees and costs.**
 
 The proceedings upon a writ of habeas corpus shall be recorded by the clerk of the court, and upon the final disposition of such proceedings the court or judge shall make such order as to costs as the case requires. The fees of officers and witnesses shall be included in the costs taxed, but no officer or person shall have the right to demand payment in advance of any fees to which he is entitled by virtue of the proceedings. When a person confined under color of proceedings in a criminal case is discharged, the costs shall be taxed against the Republic of the Philippines, and paid out of its Treasury; when a person in custody by virtue or under color of proceedings in a civil case is discharged, the costs shall be taxed against him, or against the person who signed the application for the writ, or both, as the court shall direct.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 103 Change of Name</p>
 
-**Section 1. Venue.**
+**§1. Venue.**
 
 A person desiring to change his name shall present the petition to the Court of First Instance of the province in which he resides, or, in the City of Manila, to the Juvenile and Domestic Relations Court.
 
-**Section 2. Contents of petition.**
+**§2. Contents of petition.**
 
 A petition for change of name shall be signed and verified by the person desiring his name changed, or some other person on his behalf, and shall set forth:
 
@@ -1115,47 +1455,47 @@ A petition for change of name shall be signed and verified by the person desirin
 
 - (c) The name asked for.
 
-**Section 3. Order for hearing.**
+**§3. Order for hearing.**
 
 If the petition filed is sufficient in form and substance, the court, by an order reciting the purpose of the petition, shall fix a date and place for the hearing thereof, and shall direct that a copy of the order be published before the hearing at least once a week for three (3) successive weeks in some newspaper of general circulation published in the province, as the court shall deem best. The date set for the hearing shall not be within thirty (30) days prior to an election nor within four (4) month after the last publication of the notice.
 
-**Section 4. Hearing.**
+**§4. Hearing.**
 
 Any interested person may appear at the hearing and oppose the petition. The Solicitor General or the proper provincial or city fiscal shall appear on behalf of the Government of the Republic.
 
-**Section 5. Judgment.**
+**§5. Judgment.**
 
 Upon satisfactory proof in open court on the date fixed in the order that such order has been published as directed and that the allegations of the petition are true, the court shall, if proper and reasonable cause appears for changing the name of the petitioner, adjudge that such name be changed in accordance with the prayer of the petition.
 
-**Section 6. Service of judgment.**
+**§6. Service of judgment.**
 
 Judgments or orders rendered in connection with this rule shall be furnished the civil registrar of the municipality or city where the court issuing the same is situated, who shall forthwith enter the same in the civil register.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 104 Voluntary Dissolution of Corporations</p>
 
-**Section 1. Where, by whom and on what showing application made.**
+**§1. Where, by whom and on what showing application made.**
 
 A petition for dissolution of a corporation shall be filed in the Court of First Instance of the province where the principal office of a corporation is situated. The petition shall be signed by a majority of its board of directors or other officers having the management of its affairs, verified by its president or secretary or one of its directors, and shall set forth all claims and demands against it, and that its dissolution was resolved upon by a majority of the members, or, if a stock corporation, by the affirmative vote of the stockholders holding and representing two-thirds of all shares of stock issued or subscribed, at a meeting of its members or stockholders called for that purpose.
 
-**Section 2. Order thereupon for filing objections.**
+**§2. Order thereupon for filing objections.**
 
 If the petition is sufficient in form and substance, the court by an order reciting the purpose of the petition, shall fix a date on or before which objections thereto may be filed by any person, which date shall not be less that thirty (30) nor more than sixty (60) days after the entry of the order. Before such date a copy of the order shall be published at least once a week for four (4) successive weeks in some newspaper of general circulation published in the municipality or city where the principal office of the corporation is situated, or, if there be no such newspaper, then in some newspaper of general circulation in the Philippines, and a similar copy shall be posted for four (4) weeks in three public places in such municipality or city.
 
-**Section 3. Hearing, dissolution, and disposition of assets. Receiver.**
+**§3. Hearing, dissolution, and disposition of assets. Receiver.**
 
 Upon five (5) days notice given after the date on which the right to file objections as fixed in the order expired, the court shall proceed to hear the petition and try any issue made by objections filed; and if no such objection is sufficient, and the material allegations of the petition are true, it shall render judgment dissolving the corporation and directing such disposition of its assets as justice requires, and may appoint a receiver to collect such assets and pay the debts of the corporation.
 
-**Section 4. What shall constitute record.**
+**§4. What shall constitute record.**
 
 The petition, orders, proof of publication and posting, objections filed, declaration of dissolution, and any evidence taken, shall constitute the record in the case.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 105 Judicial Approval of Voluntary Recognition of Minor Natural Children</p>
 
-**Section 1. Venue.**
+**§1. Venue.**
 
 Where judicial approval of a voluntary recognition of a minor natural child is required, such child or his parents shall obtain the same by filing a petition to that effect with the Court of First Instance of the province in which the child resides. In the City of Manila, the petition shall be filed in the Juvenile and Domestic Relations Court.
 
-**Section 2. Contents of petition.**
+**§2. Contents of petition.**
 
 The petition for judicial approval of a voluntary recognition of a minor natural child shall contain the following allegations:
 
@@ -1165,31 +1505,31 @@ The petition for judicial approval of a voluntary recognition of a minor natural
 
 - (c) The fact that the recognition made by the parent or parents took place in a statement before a court of record or in an authentic writing, copy of the statement or writing being attached to the petition.
 
-**Section 3. Order for hearing.**
+**§3. Order for hearing.**
 
 Upon the filing of the petition, the court, by an order reciting the purpose of the same, shall fix the date and place for the hearing thereof, which date shall not be more than six (6) months after the entry of the order, and shall, moreover, cause a copy of the order to be served personally or by mail upon the interested parties, and published once a week for three (3) consecutive weeks, in a newspaper or newspaper of general circulation in the province.
 
-**Section 4. Opposition.**
+**§4. Opposition.**
 
 Any interested party must, within fifteen (15) days from the service, or from the last date of publication, of the order referred to in the next preceding section, file his opposition to the petition, stating the grounds or reasons therefor.
 
-**Section 5. Judgment.**
+**§5. Judgment.**
 
 If, from the evidence presented during the hearing, the court is satisfied that the recognition of the minor natural child was willingly and voluntarily made by he parent or parents concerned, and that the recognition is for the best interest of the child, it shall render judgment granting judicial approval of such recognition.
 
-**Section 6. Service of judgment upon civil registrar.**
+**§6. Service of judgment upon civil registrar.**
 
 A copy of the judgment rendered in accordance with the preceding section shall be served upon the civil registrar whose duty it shall be to enter the same in the register.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 106 Constitution of Family Home</p>
 
-**Section 1. Who may constitute.**
+**§1. Who may constitute.**
 
 The head of a family owning a house and the land on which it is situated may constitute the same into a family home by filing a verified petition to that effect with the Court of First Instance of the province or city where the property is located. In the City of Manila, the petition shall be filed in the Juvenile and Domestic Relations Court.
 
 When there is danger that a person obliged to give support may lose his or her fortune because of grave mismanagement or on account of riotous living, his or her spouse, if any, and a majority of those entitled to be supported by him or by her may petition the Court of First Instance for the creation of the family home.
 
-**Section 2. Contents of petition.**
+**§2. Contents of petition.**
 
 The petition shall contain the following particulars:
 
@@ -1205,29 +1545,29 @@ The petition shall contain the following particulars:
 
 - (f) The names of all the beneficiaries of the family home.
 
-**Section 3. Notice and publication.**
+**§3. Notice and publication.**
 
 The court shall notify the creditors, mortgagees and all other persons who have an interest in the estate, of the filing of the petition, causing copies thereof to be served upon them, and published once a week for three (3) consecutive weeks in a newspaper of general circulation. The petition shall, moreover, be caused to be posted in a conspicuous place in the parcel of land mentioned therein, and also in a conspicuous place of the municipal building of the municipality or city in which the land is situated, for at least fourteen (14) days prior to the day of the hearing.
 
-**Section 4. Objection and date of hearing.**
+**§4. Objection and date of hearing.**
 
 In the notice and publication required in the preceding section, the court shall require the interested parties to file their objection to the petition within a period of not less than thirty (30) days from receipt of notice or from the date of last publication, and shall fix the date and time of the hearing of the petition.
 
-**Section 5. Order.**
+**§5. Order.**
 
 After hearing, if the court finds that the actual value of the proposed family home does not exceed twenty thousand pesos, or thirty thousand pesos in chartered cities, and that no third person is prejudiced thereby, or that creditors have given sufficient security for their credits, the petition shall be approved.
 
-**Section 6. Registration of order.**
+**§6. Registration of order.**
 
 A certified copy of the order of the court approving the establishment of the family home shall be furnished the register of deeds who shall record the same in the registry of property.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 107 Absentees</p>
 
-**Section 1. Appointment of representative.**
+**§1. Appointment of representative.**
 
 When a person disappears from his domicile, his whereabouts being unknown, and without having left an agent to administer his property, or the power conferred upon the agent has expired, any interested party, relative or friend may petition the Court of First Instance of the place where the absentee resided before his dis-appearance, for the appointment of a person to represent him provisionally in all that may be necessary. In the City of Manila, the petition shall be filed in the Juvenile and Domestic Relations Court.
 
-**Section 2. Declaration of absence; who may petition.**
+**§2. Declaration of absence; who may petition.**
 
 After the lapse of two (2) years from his disappearance and without any news about the absentee or since the receipt of the last news, or of five (5) years in case the absentee has left a person in charge of the administration of his property, the declaration of his absence and appointment of a trustee or administrative may be applied for by any of the following:
 
@@ -1239,7 +1579,7 @@ After the lapse of two (2) years from his disappearance and without any news abo
 
 - (d) Those who have over the property of the absentee some right subordinated to the condition of his death.
 
-**Section 3. Contents of petition.**
+**§3. Contents of petition.**
 
 The petition for the appointment of a representative, or for the declaration of absence and the appointment of a trustee or an administrator, must show the following:
 
@@ -1251,29 +1591,29 @@ The petition for the appointment of a representative, or for the declaration of 
 
 - (d) The probable value, location and character of the property belonging to the absentee.
 
-**Section 4. Time of hearing; notice and publication thereof.**
+**§4. Time of hearing; notice and publication thereof.**
 
 When a petition for the appointment of a representative, or for the declaration of absence and the appointment of a trustee or administrator, is filed, the court shall fix a date and place for the hearing thereof where all concerned may appear to contest the petition.
 
 Copies of the notice of the time and place fixed for the hearing shall be served upon the known heirs, legatees, devisees, creditors and other interested persons, at least ten (10) days before the day of the hearing, and shall be published once a week for three (3) consecutive weeks prior to the time designated for the hearing, in a newspaper of general circulation in the province or city where the absentee resides, as the court shall deem best.
 
-**Section 5. Opposition.**
+**§5. Opposition.**
 
 Anyone appearing to contest the petition shall state in writing his grounds therefor, and serve a copy thereof on the petitioner and other interested parties on or before the date designated for the hearing.
 
-**Section 6. Proof at hearing; order.**
+**§6. Proof at hearing; order.**
 
 At the hearing, compliance with the provisions of section 4 of this rule must first be shown. Upon satisfactory proof of the allegations in the petition, the court shall issue an order granting the same and appointing the representative, trustee or administrator for the absentee. The judge shall take the necessary measures to safeguard the rights and interests of the absentee and shall specify the powers, obligations and remuneration of his representative, trustee or administrator, regulating them by the rules concerning guardians.
 
 In case of declaration of absence, the same shall not take effect until six (6) months after its publication in a newspaper of general circulation designated by the court and in the Official Gazette.
 
-**Section 7. Who may be appointed.**
+**§7. Who may be appointed.**
 
 In the appointment of a representative, the spouse present shall be preferred when there is no legal separation. If the absentee left no spouse, or if the spouse present is a minor or otherwise incompetent, any competent person may be appointed by the court.
 
 In case of declaration of absence, the trustee or administrator of the absentee's property shall be appointed in accordance with the preceding paragraph.
 
-**Section 8. Termination of administration.**
+**§8. Termination of administration.**
 
 The trusteeship or administration of the property of the absentee shall cease upon order of the court in any of the following cases:
 
@@ -1287,11 +1627,11 @@ In these cases the trustee or administrator shall cease in the performance of hi
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 108 Cancellation Or Correction Of Entries In The Civil Registry</p>
 
-**Section 1. Who may file petition.**
+**§1. Who may file petition.**
 
 Any person interested in any act, event, order or decree concerning the civil status of persons which has been recorded in the civil register, may file a verified petition for the cancellation or correction of any entry relating thereto, with the Court of First Instance of the province where the corresponding civil registry is located.
 
-**Section 2. Entries subject to cancellation or correction.**
+**§2. Entries subject to cancellation or correction.**
 
 Upon good and valid grounds, the following entries in the civil register may be cancelled or corrected:
 
@@ -1327,29 +1667,29 @@ Upon good and valid grounds, the following entries in the civil register may be 
 
  - (o) changes of name.
 
-**Section 3. Parties.**
+**§3. Parties.**
 
 When cancellation or correction of an entry in the civil register is sought, the civil registrar and all persons who have or claim any interest which would be affected thereby shall be made parties to the proceeding.
 
-**Section 4. Notice and publication.**
+**§4. Notice and publication.**
 
 Upon the filing of the petition, the court shall, by an order, fix the time and place for the hearing of the same, and cause reasonable notice thereof to be given to the persons named in the petition. The court shall also cause the order to be published once a week for three (3) consecutive weeks in a newspaper of general circulation in the province.
 
-**Section 5. Opposition.**
+**§5. Opposition.**
 
 The civil registrar and any person having or claiming any interest under the entry whose cancellation or correction is sought may, within fifteen (15) days from notice of the petition, or from the last date of publication of such notice, file his opposition thereto.
 
-**Section 6. Expediting proceedings.**
+**§6. Expediting proceedings.**
 
 The court in which the proceeding is brought may make orders expediting the proceedings, and may also grant preliminary injunction for the preservation of the rights of the parties pending such proceedings.
 
-**Section 7. Order.**
+**§7. Order.**
 
 After hearing, the court may either dismiss the petition or issue an order granting the cancellation or correction prayed for. In either case, a certified copy of the judgment shall be served upon the civil registrar concerned who shall annotated the same in his record.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 109 Appeals in Special Proceedings</p>
 
-**Section 1. Orders or judgments from which appeals may be taken.**
+**§1. Orders or judgments from which appeals may be taken.**
 
 An interested person may appeal in special proceedings from an order or judgment rendered by a Court of First Instance or a Juvenile and Domestic Relations Court, where such order or judgment:
 
@@ -1365,6 +1705,93 @@ An interested person may appeal in special proceedings from an order or judgment
 
 - (f) Is the final order or judgment rendered in the case, and affects the substantial rights of the person appealing unless it be an order granting or denying a motion for a new trial or for reconsideration.
 
-**Section 2. Advance distribution in special proceedings.**
+**§2. Advance distribution in special proceedings.**
 
 Notwithstanding a pending controversy or appeal in proceedings to settle the estate of a decedent, the court may, in its discretion and upon such terms as it may deem proper and just, permit that such part of the estate may not be affected by the controversy or appeal be distributed among the heirs or legatees, upon compliance with the conditions set forth in Rule 90 of this rules.
+
+---
+
+### Endnotes
+<!-- footnotes -->
+
+[^bignote]: Original Text of Rule 99 and 100
+
+    <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 99 Adoption and Custody of Minors</p>
+
+    **§1. Venue.**
+
+    A person desiring to adopt another or have the custody of a minor shall present his petition to the Court of First Instance of the province, or the municipal or justice of the peace court of the city or municipality in which he resides.
+
+    In the City of Manila, the proceedings shall be instituted in the Juvenile and Domestic Relations Court.
+
+    **§2. Contents of petition.**
+
+    The petition for adoption shall contain the same allegations required in a petition for guardianship, to wit:
+
+    - (a) The jurisdictional facts;
+
+    - (b) The qualification of the adopter;
+
+    - (c) That the adopter is not disqualified by law;
+
+    - (d) The name, age, and residence of the person to be adopted and of his relatives of the persons who have him under their care;
+
+    - (e) The probable value and character of the estate of the person to be adopted.
+
+    **§3. Consent of adoption.**
+
+    There shall be filed with the petition a written consent to the adoption signed by the child, if fourteen years of age or over and not incompetent, and by the child's spouse, if any, and by each of its known living parents who is not insane or hopelessly intemperate or has not abandoned such child, or if there is no such parents by the general guardian or guardian ad litem of the child, or if the child is in the custody of an orphan asylum, children's home, or benevolent society or person, by the proper officer of such asylum, home, or society, or by such person; but if the child is illegitimate and has not been recognized, the consent of its father to the adoption shall not be required.
+
+    If the person to be adopted is of age, only his or her consent and that of the spouse, if any, shall be required.
+
+    **§4. Order for hearing.**
+
+    If the petition and consent filed are sufficient in form and substance, the court, by an order reciting the purpose of the petition, shall fix a date and place for the hearing thereof, which shall not be more than six (6) months after the entry of the order, and shall direct that a copy of the order be published before the hearing at least once a week for three (3) successive weeks in some newspaper of general circulation published in the province, as the court shall deem best.
+
+    **§5. Hearing and judgment.**
+
+    Upon satisfactory proof in open court on the date fixed in the order that such order has been published as directed, that the allegations of petition are true, and that it is a proper case for adoption and the petitioner or petitioners are able to bring up and educate the child properly, the court shall adjudge that thenceforth the child is free from all legal obligations of obedience and maintenance with respect to its natural parents, except the mother when the child is adopted by her husband, and is, to all legal intents and purposes, the child of the petitioner or petitioners, and that its surname is changed to that the petitioner or petitioners. The adopted person or child shall thereupon become the legal heir of his parents by adoption and shall also remain the legal heir of his natural parents. In case of the death of the adopted person or child, his parents and relatives by nature, and not by adoption, shall be his legal heirs.
+
+    **§6. Proceedings as to the child whose parents are separated. Appeal.**
+
+    When husband and wife are divorce or living separately and apart from each other, and the question as to the care, custody, and control of a child or children of their marriage is brought before a Court of First Instance by petition or as an incident to any other proceeding, the court, upon hearing the testimony as may be pertinent, shall award the care, custody, and control of each such child as will be for its best interest, permitting the child to choose which parent it prefers to live with if it be over ten years of age, unless the parent so chosen be unfit to take charge of the child by the reason of moral depravity, habitual drunkenness, incapacity, or poverty. If, upon such hearing, it appears that both parents are improper persons to have the care, custody, and control of the child, the court may either designate the paternal or maternal grandparent of the child, or his oldest brother or sister, or some reputable and discreet person to take charge of such child, or commit it to any suitable asylum, children's home, or benevolent society. The court may in conformity with the provisions of the Civil Code order either or both parents to support or help support said child, irrespective of who may be its custodian, and may make any order that is just and reasonable permitting the parent who is deprived of its care and custody to visit the child or have temporary custody thereof. Either parent may appeal from an order made in accordance with the provisions of this section. No child under seven years of age shall be separated from its mother, unless the court finds there are compelling reasons thereof.
+
+    **§7. Proceedings as to vagrant or abused child.**
+
+    When the parents of any minor child are dead, or by reason of long absence or legal or physical disability have abandoned it, or cannot support it through vagrancy, negligence, or misconduct, or neglect or refuse to support it, or treat it with excessive harshness or give it corrupting orders, counsels, or examples, or cause or allow it to engage in begging, or to commit offenses against the law, the proper Court of First Instance, upon petition filed by some reputable resident of the province setting forth the facts, may issue an order requiring such parents to show cause, or, if the parents are dead or cannot be found, requiring the fiscal of the province to show cause, at a time and place fixed in the order, why the child should not be taken from its parents, if living; and if upon the hearing it appears that the allegations of the petition are true, and that it is order taking it from its parents, if living; and committing it to any suitable orphan asylum, children's home, or benevolent society or person to be ultimately placed, by adoption or otherwise, in a home found for it by such asylum, children's home, society, or person.
+
+    **§8. Service of judgment.**
+
+    Final orders or judgments under this rule shall be served by the clerk upon the civil registrar of the city or municipality wherein the court issuing the same is situated.
+
+    <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 100 Rescission and Revocation of Adoption</p>
+
+    **§1. Who may file petition; grounds.**
+
+    A minor or other incapacitated person may, through a guardian or guardian ad litem, petition for the rescission or revocation of his or her adoption for the same causes that authorize the deprivation of parental authority.
+
+    The adopter may, likewise, petition the court for the rescission of revocation of the adoption in any of these cases:
+
+    - (a) If the adopted person has attempted against the file of the adopter;
+
+    - (b) When the adopted minor has abandoned the home of the adopter for more than three (3) years;
+
+    - (c) When by other acts the adopted person has repudiated the adoption.
+
+    **§2. Order to answer.**
+
+    The court in which the petition is filed shall issue an order requiring the adverse party to answer the petition within fifteen (15) days from receipt of a copy thereof. The order and a copy of the petition shall be served on the adverse party in such manner as the court may direct
+
+    **§3. Judgment.**
+
+    If upon trial, on the day set therefor, the court finds that the allegations of the petition are true, it shall render judgment ordering the rescission or revocation of the adoption, with or without costs, as justice requires.
+
+    **§4. Service of Judgment.**
+
+    A certified copy of the judgment rendered in accordance with the next preceding section shall be served upon the civil registrar concerned, within thirty (30) days from rendition thereof, who shall forthwith enter the action taken by the court in the register.
+
+    **§5. Time within which to file petition.**
+
+    A minor or other incapacitated person must file the petition for rescission or revocation of adoption within the five (5) years following his majority, or if he was incompetent at the time of the adoption, within the five (5) years following the recovery from such incompetency.
+
+    The adopter must also file the petition to set aside the adoption within five (5) years from the time the cause or causes giving rise to the rescission or revocation of the same took place.

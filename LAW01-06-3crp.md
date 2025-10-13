@@ -9,29 +9,29 @@ permalink: crp
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 110 PROSECUTION OF OFFENSES</p>
 
-**Section 1. Institution of criminal actions.**
+**§1. Institution of criminal actions.**
 
 Criminal actions shall be instituted as follows:
 
- - (a) For offenses where a preliminary investigation is required pursuant to section 1 of Rule 112, by filing the complaint with the proper officer for the purpose of conducting the requisite preliminary investigation.
+ - (a) For offenses where a preliminary investigation is required pursuant to §1 of Rule 112, by filing the complaint with the proper officer for the purpose of conducting the requisite preliminary investigation.
 
  - (b) For all other offenses, by filing the complaint or information directly with the Municipal Trial Courts and Municipal Circuit Trial Courts, or the complaint with the office of the prosecutor. In Manila and other chartered cities, the complaint shall be filed with the office of the prosecutor unless otherwise provided in their charters. The institution of the criminal action shall interrupt the running of the period of prescription of the offense charged unless otherwise provided in special laws.
 
-**Section 2. The complaint or information.**
+**§2. The complaint or information.**
 
 The complaint or information shall be in writing, in the name of the People of the Philippines and against all persons who appear to be responsible for the offense involved.
 
-**Section 3. Complaint defined.**
+**§3. Complaint defined.**
 
 A complaint is a sworn written statement charging a person with an offense, subscribed by the offended party, any peace officer, or other public officer charged with the enforcement of the law violated.
 
-**Section 4. Information defined.**
+**§4. Information defined.**
 
 An information is an accusation in writing charging a person with an offense, subscribed by the prosecutor and filed with the court.
 
-**Section 5. Who must prosecute criminal actions.**
+**§5. Who must prosecute criminal actions.**
 
-[(This Section was repealed by A.M. No. 02-2-07-SC effective May 1, 2002)] All criminal actions commenced by a complaint or information shall be prosecuted under the direction and control of the prosecutor. However, in Municipal Trial Courts or Municipal Circuit Trial Courts when the prosecutor assigned thereto or to the case is not available, the offended party, any peace officer, or public officer charged with the enforcement of the law violated may prosecute the case. This authority shall cease upon actual intervention of the prosecutor or upon elevation of the case to the Regional Trial Court.
+[(This §was repealed by A.M. No. 02-2-07-SC effective May 1, 2002)] All criminal actions commenced by a complaint or information shall be prosecuted under the direction and control of the prosecutor. However, in Municipal Trial Courts or Municipal Circuit Trial Courts when the prosecutor assigned thereto or to the case is not available, the offended party, any peace officer, or public officer charged with the enforcement of the law violated may prosecute the case. This authority shall cease upon actual intervention of the prosecutor or upon elevation of the case to the Regional Trial Court.
 
 The crimes of adultery and concubinage shall not be prosecuted except upon a complaint filed by the offended spouse. The offended party cannot institute criminal prosecution without including the guilty parties, if both are alive, nor, in any case, if the offended party has consented to the offense or pardoned the offenders.
 
@@ -43,31 +43,31 @@ No criminal action for defamation which consists in the imputation of any of the
 
 The prosecution for violation of special laws shall be governed by the provisions thereof.
 
-**Section 6. Sufficiency of complaint or information.**
+**§6. Sufficiency of complaint or information.**
 
 A complaint or information is sufficient if it states the name of the accused; the designation of the offense given by the statute; the acts or omissions complained of as constituting the offense; the name of the offended party; the approximate date of the commission of the offense; and the place where the offense was committed. When an offense is committed by more than one person, all of them shall be included in the complaint or information.
 
-**Section 7. Name of the accused.**
+**§7. Name of the accused.**
 
 The complaint or information must state the name and surname of the accused or any appellation or nickname by which he has been or is known. If his name cannot be ascertained, he must be described under a fictitious name with a statement that his true name is unknown. If the true name of the accused is thereafter disclosed by him or appears in some other manner to the court, such true name shall be inserted in the complaint or information and record.
 
-**Section 8. Designation of the offense.**
+**§8. Designation of the offense.**
 
-The complaint or information shall state the designation of the offense given by the statute, aver the acts or omissions constituting the offense, and specify its qualifying and aggravating circumstances. If there is no designation of the offense, reference shall be made to the section or subsection of the statute punishing it.
+The complaint or information shall state the designation of the offense given by the statute, aver the acts or omissions constituting the offense, and specify its qualifying and aggravating circumstances. If there is no designation of the offense, reference shall be made to the §or sub§of the statute punishing it.
 
-**Section 9. Cause of the accusation.**
+**§9. Cause of the accusation.**
 
 The acts or omissions complained of as constituting the offense and the qualifying and aggravating circumstances must be stated in ordinary and concise language and not necessarily in the language used in the statute, but in terms sufficient to enable a person of common understanding to know what offense is being charged as well as its qualifying and aggravating circumstances and for the court to pronounce judgment.
 
-**Section 10. Place of commission of the offense.**
+**§10. Place of commission of the offense.**
 
 The complaint or information is sufficient if it can be understood from its allegations that the offense was committed or some of its essential ingredients occurred at some place within the jurisdiction of the court, unless the particular place where it was committed constitutes an essential element of the offense charged or is necessary for its identification.
 
-**Section 11. Date of commission of the offense.**
+**§11. Date of commission of the offense.**
 
 It is not necessary to state in the complaint or information the precise date the offense was committed except when it is a material ingredient of the offense. The offense may be alleged to have been committed on a date as near as possible to the actual date of its commission.
 
-**Section 12. Name of the offended party.**
+**§12. Name of the offended party.**
 
 The complaint or information must state the name and surname of the person against whom or against whose property the offense was committed, or any appellation or nickname by which such person has been or is known. If there is no better way of identifying him, he must be described under a fictitious name.
 
@@ -77,17 +77,17 @@ The complaint or information must state the name and surname of the person again
 
  - (c) If the offended party is a juridical person, it is sufficient to state its name, or any name or designation by which it is known or by which it may be identified, without need of averring that it is a juridical person or that it is organized in accordance with law.
 
-**Section 13. Duplicity of the offense.**
+**§13. Duplicity of the offense.**
 
 A complaint or information must charge only one offense, except when the law prescribes a single punishment for various offenses.
 
-**Section 14. Amendment or substitution.**
+**§14. Amendment or substitution.**
 
 A complaint or information may be amended, in form or in substance, without leave of court, at any time before the accused enters his plea. After the plea and during the trial, a formal amendment may only be made with leave of court and when it can be done without causing prejudice to the rights of the accused. However, any amendment before plea, which downgrades the nature of the offense charged in or excludes any accused from the complaint or information, can be made only upon motion by the prosecutor, with notice to the offended party and with leave of court. The court shall state its reasons in resolving the motion and copies of its order shall be furnished all parties, especially the offended party.
 
-If it appears at any time before judgment that a mistake has been made in charging the proper offense, the court shall dismiss the original complaint or information upon the filing of a new one charging the proper offense in accordance with section 19, Rule 119, provided the accused shall not be placed in double jeopardy. The court may require the witnesses to give bail for their appearance at the trial.
+If it appears at any time before judgment that a mistake has been made in charging the proper offense, the court shall dismiss the original complaint or information upon the filing of a new one charging the proper offense in accordance with §19, Rule 119, provided the accused shall not be placed in double jeopardy. The court may require the witnesses to give bail for their appearance at the trial.
 
-**Section 15. Place where action is to be instituted.**
+**§15. Place where action is to be instituted.**
 
  - (a) Subject to existing laws, the criminal action shall be instituted and tried in the court of the municipality or territory where the offense was committed or where any of its essential ingredients occurred.
 
@@ -97,13 +97,13 @@ If it appears at any time before judgment that a mistake has been made in chargi
 
  - (d) Crimes committed outside the Philippines but punishable under Article 2 of the Revised Penal Code shall be cognizable by the court where the criminal action is first filed.
 
-**Section 16. Intervention of the offended party in criminal action.**
+**§16. Intervention of the offended party in criminal action.**
 
 Where the civil action for recovery of civil liability is instituted in the criminal action pursuant to Rule 111, the offended party may intervene by counsel in the prosecution of the offense.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 111 PROSECUTION OF CIVIL ACTION </p>
 
-**Section 1. Institution of criminal and civil actions.**
+**§1. Institution of criminal and civil actions.**
 
  - (a) When a criminal action is instituted, the civil action for the recovery of civil liability arising from the offense charged shall be deemed instituted with the criminal action unless the offended party waives the civil action, reserves the right to institute it separately or institutes the civil action prior to the criminal action.
 
@@ -121,9 +121,9 @@ No counterclaim, cross-claim or third-party complaint may be filed by the accuse
 
 Upon filing of the aforesaid joint criminal and civil actions, the offended party shall pay in full the filing fees based on the amount of the check involved, which shall be considered as the actual damages claimed. Where the complaint or information also seeks to recover liquidated, moral, nominal, temperate or exemplary damages, the offended party shall pay additional filing fees based on the amounts alleged therein. If the amounts are not so alleged but any of these damages are subsequently awarded by the court, the filing fees based on the amount awarded shall constitute a first lien on the judgment.
 
-Where the civil action has been filed separately and trial thereof has not yet commenced, it may be consolidated with the criminal action upon application with the court trying the latter case. If the application is granted, the trial of both actions shall proceed in accordance with section 2 of this Rule governing consolidation of the civil and criminal actions.
+Where the civil action has been filed separately and trial thereof has not yet commenced, it may be consolidated with the criminal action upon application with the court trying the latter case. If the application is granted, the trial of both actions shall proceed in accordance with §2 of this Rule governing consolidation of the civil and criminal actions.
 
-**Section 2. When separate civil action is suspended.**
+**§2. When separate civil action is suspended.**
 
 After the criminal action has been commenced, the separate civil action arising therefrom cannot be instituted until final judgment has been entered in the criminal action.
 
@@ -133,23 +133,23 @@ During the pendency of the criminal action, the running of the period of prescri
 
 The extinction of the penal action does not carry with it extinction of the civil action. However, the civil action based on delict shall be deemed extinguished if there is a finding in a final judgment in the criminal action that the act or omission from which the civil liability may arise did not exist.
 
-**Section 3. When civil action may proceed independently.**
+**§3. When civil action may proceed independently.**
 
 In the cases provided in Articles 32, 33, 34 and 2176 of the Civil Code of the Philippines, the independent civil action may be brought by the offended party. It shall proceed independently of the criminal action and shall require only a preponderance of evidence. In no case, however, may the offended party recover damages twice for the same act or omission charged in the criminal action.
 
-**Section 4. Effect of death on civil actions.**
+**§4. Effect of death on civil actions.**
 
-The death of the accused after arraignment and during the pendency of the criminal action shall extinguish the civil liability arising from the delict. However, the independent civil action instituted under section 3 of this Rule or which thereafter is instituted to enforce liability arising from other sources of obligation may be continued against the estate or legal representative of the accused after proper substitution or against said estate, as the case may be. The heirs of the accused may be substituted for the deceased without requiring the appointment of an executor or administrator and the court may appoint a guardian ad litem for the minor heirs. The court shall forthwith order said legal representative or representatives to appear and be substituted within a period of thirty (30) days from notice. A final judgment entered in favor of the offended party shall be enforced in the manner especially provided in these rules for prosecuting claims against the estate of the deceased. If the accused dies before arraignment, the case shall be dismissed without prejudice to any civil action the offended party may file against the estate of the deceased.
+The death of the accused after arraignment and during the pendency of the criminal action shall extinguish the civil liability arising from the delict. However, the independent civil action instituted under §3 of this Rule or which thereafter is instituted to enforce liability arising from other sources of obligation may be continued against the estate or legal representative of the accused after proper substitution or against said estate, as the case may be. The heirs of the accused may be substituted for the deceased without requiring the appointment of an executor or administrator and the court may appoint a guardian ad litem for the minor heirs. The court shall forthwith order said legal representative or representatives to appear and be substituted within a period of thirty (30) days from notice. A final judgment entered in favor of the offended party shall be enforced in the manner especially provided in these rules for prosecuting claims against the estate of the deceased. If the accused dies before arraignment, the case shall be dismissed without prejudice to any civil action the offended party may file against the estate of the deceased.
 
-**Section 5. Judgment in civil action not a bar.**
+**§5. Judgment in civil action not a bar.**
 
 A final judgment rendered in a civil action absolving the defendant from civil liability is not a bar to a criminal action against the defendant for the same act or omission subject of the civil action.
 
-**Section 6. Suspension by reason of prejudicial question.**
+**§6. Suspension by reason of prejudicial question.**
 
 A petition for suspension of the criminal action based upon the pendency of a prejudicial question in a civil action may be filed in the office of the prosecutor or the court conducting the preliminary investigation. When the criminal action has been filed in court for trial, the petition to suspend shall be filed in the same criminal action at any time before the prosecution rests.
 
-**Section 7. Elements of prejudicial question.**
+**§7. Elements of prejudicial question.**
 
 The elements of a prejudicial question are:
 
@@ -161,11 +161,11 @@ The elements of a prejudicial question are:
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 112 PRELIMINARY INVESTIGATION </p>
 
-**Section 1. Preliminary investigation defined; when required.**
+**§1. Preliminary investigation defined; when required.**
 
-Preliminary investigation is an inquiry or proceeding to determine whether there is sufficient ground to engender a well-founded belief that a crime has been committed and the respondent is probably guilty thereof, and should be held for trial. Except as provided in section 7 of this Rule, a preliminary investigation is required to be conducted before the filing of a complaint or information for an offense where the penalty prescribed by law is at least four (4) years, two (2) months and one (1) day without regard to the fine.
+Preliminary investigation is an inquiry or proceeding to determine whether there is sufficient ground to engender a well-founded belief that a crime has been committed and the respondent is probably guilty thereof, and should be held for trial. Except as provided in §7 of this Rule, a preliminary investigation is required to be conducted before the filing of a complaint or information for an offense where the penalty prescribed by law is at least four (4) years, two (2) months and one (1) day without regard to the fine.
 
-**Section 2. Officers authorized to conduct preliminary investigations.**
+**§2. Officers authorized to conduct preliminary investigations.**
 
 The following may conduct preliminary investigations:
 
@@ -177,7 +177,7 @@ The following may conduct preliminary investigations:
 
  - (d) Other officers as may be authorized by law. Their authority to conduct preliminary investigations shall include all crimes cognizable by the proper court in their respective territorial jurisdictions.
 
-**Section 3. Procedure.**
+**§3. Procedure.**
 
 The preliminary investigation shall be conducted in the following manner:
 
@@ -193,7 +193,7 @@ The preliminary investigation shall be conducted in the following manner:
 
  - (f) Within ten (10) days after the investigation, the investigating officer shall determine whether or not there is sufficient ground to hold the respondent for trial.
 
-**Section 4. Resolution of investigating prosecutor and its review.**
+**§4. Resolution of investigating prosecutor and its review.**
 
 If the investigating prosecutor finds cause to hold the respondent for trial, he shall prepare the resolution and information. He shall certify under oath in the information that he, or as shown by the record, an authorized officer, has personally examined the complainant and his witnesses; that there is reasonable ground to believe that a crime has been committed and that the accused is probably guilty thereof; that the accused was informed of the complaint and of the evidence submitted against him; and that he was given an opportunity to submit controverting evidence. Otherwise, he shall recommend the dismissal of the complaint.
 
@@ -205,7 +205,7 @@ Where the investigating prosecutor recommends the dismissal of the complaint but
 
 If upon petition by a proper party under such rules as the Department of Justice may prescribe or *motu proprio*, the Secretary of Justice reverses or modifies the resolution of the provincial or city prosecutor or chief state prosecutor, he shall direct the prosecutor concerned either to file the corresponding information without conducting another preliminary investigation, or to dismiss or move for dismissal of the complaint or information with notice to the parties. The same rule shall apply in preliminary investigations conducted by the officers of the Office of the Ombudsman.
 
-**Section 5. Resolution of investigating judge and its review.**
+**§5. Resolution of investigating judge and its review.**
 
 Within ten (10) days after the preliminary investigation, the investigating judge shall transmit the resolution of the case to the provincial or city prosecutor, or to the Ombudsman or his deputy in cases of offenses cognizable by the Sandiganbayan in the exercise of its original jurisdiction, for appropriate action. The resolution shall state the findings of facts and the law supporting his action, together with the record of the case which, shall include:
 
@@ -221,25 +221,25 @@ Within ten (10) days after the preliminary investigation, the investigating judg
 
  - (e) the order of cancellation of his bail bond, if the resolution is for the dismissal of the complaint. Within thirty (30) days from receipt of the records, the provincial or city prosecutor, or the Ombudsman or his deputy, as the case may be, shall review the resolution of the investigating judge on the existence of probable cause. Their ruling shall expressly and clearly state the facts and the law on which it is based and the parties shall be furnished with copies thereof. They shall order the release of an accused who is detained if no probable cause is found against him.
 
-**Section 6. When warrant of arrest may issue.**
+**§6. When warrant of arrest may issue.**
 
  - (a) By the Regional Trial Court .
 
-Within ten (10) days from the filing of the complaint or information, the judge shall personally evaluate the resolution of the prosecutor and its supporting evidence. He may immediately dismiss the case if the evidence on record clearly fails to establish probable cause. If he finds probable cause, he shall issue a warrant of arrest, or a commitment order if the accused has already been arrested pursuant to a warrant issued by the judge who conducted the preliminary investigation or when the complaint or information was filed pursuant to section 7 of this Rule. In case of doubt on the existence of probable cause, the judge may order the prosecutor to present additional evidence within five (5) days from notice and the issue must be resolved by the court within thirty (30) days from the filing of the complaint of information.
+Within ten (10) days from the filing of the complaint or information, the judge shall personally evaluate the resolution of the prosecutor and its supporting evidence. He may immediately dismiss the case if the evidence on record clearly fails to establish probable cause. If he finds probable cause, he shall issue a warrant of arrest, or a commitment order if the accused has already been arrested pursuant to a warrant issued by the judge who conducted the preliminary investigation or when the complaint or information was filed pursuant to §7 of this Rule. In case of doubt on the existence of probable cause, the judge may order the prosecutor to present additional evidence within five (5) days from notice and the issue must be resolved by the court within thirty (30) days from the filing of the complaint of information.
 
  - (b) By the Municipal Trial Court.
 
-When required pursuant to the second paragraph of section 1 of this Rule, the preliminary investigation of cases falling under the original jurisdiction of the Metropolitan Trial Court, Municipal Trial Court in Cities, Municipal Trial Court, or Municipal Circuit Trial Court may be conducted by either the judge or the prosecutor. When conducted by the prosecutor, the procedure for the issuance of a warrant of arrest by the judge shall be governed by paragraph (a) of this section. When the investigation is conducted by the judge himself, he shall follow the procedure provided in section 3 of this Rule. If his findings and recommendations are affirmed by the provincial or city prosecutor, or by the Ombudsman or his deputy, and the corresponding information is filed, he shall issue a warrant of arrest. However, without waiting for the conclusion of the investigation, the judge may issue a warrant of arrest if he finds after an examination in writing and under oath of the complainant and his witnesses in the form of searching questions and answers, that a probable cause exists and that there is a necessity of placing the respondent under immediate custody in order not to frustrate the ends of justice.
+When required pursuant to the second paragraph of §1 of this Rule, the preliminary investigation of cases falling under the original jurisdiction of the Metropolitan Trial Court, Municipal Trial Court in Cities, Municipal Trial Court, or Municipal Circuit Trial Court may be conducted by either the judge or the prosecutor. When conducted by the prosecutor, the procedure for the issuance of a warrant of arrest by the judge shall be governed by paragraph (a) of this section. When the investigation is conducted by the judge himself, he shall follow the procedure provided in §3 of this Rule. If his findings and recommendations are affirmed by the provincial or city prosecutor, or by the Ombudsman or his deputy, and the corresponding information is filed, he shall issue a warrant of arrest. However, without waiting for the conclusion of the investigation, the judge may issue a warrant of arrest if he finds after an examination in writing and under oath of the complainant and his witnesses in the form of searching questions and answers, that a probable cause exists and that there is a necessity of placing the respondent under immediate custody in order not to frustrate the ends of justice.
 
  - (c) When warrant of arrest not necessary.
 
-A warrant of arrest shall not issue if the accused is already under detention pursuant to a warrant issued by the municipal trial court in accordance with paragraph (b) of this section, or if the complaint or information was filed pursuant to section 7 of this Rule or is for an offense penalized by fine only. The court shall then proceed in the exercise of its original jurisdiction.
+A warrant of arrest shall not issue if the accused is already under detention pursuant to a warrant issued by the municipal trial court in accordance with paragraph (b) of this section, or if the complaint or information was filed pursuant to §7 of this Rule or is for an offense penalized by fine only. The court shall then proceed in the exercise of its original jurisdiction.
 
-**Section 7. When accused lawfully arrested without warrant.**
+**§7. When accused lawfully arrested without warrant.**
 
 When a person is lawfully arrested without a warrant involving an offense which requires a preliminary investigation, the complaint or information may be filed by a prosecutor without need of such investigation provided an inquest has been conducted in accordance with existing rules. In the absence or unavailability of an inquest prosecutor, the complaint may be filed by the offended party or a peace officer directly with the proper court on the basis of the affidavit of the offended party or arresting officer or person. Before the complaint or information is filed, the person arrested may ask for a preliminary investigation in accordance with this Rule, but he must sign a waiver of the provisions of Article 125 of the Revised Penal Code, as amended, in the presence of his counsel. Notwithstanding the waiver, he may apply for bail and the investigation must be terminated within fifteen (15) days from its inception. After the filing of the complaint or information in court without a preliminary investigation, the accused may, within five (5) days from the time he learns of its filing, ask for a preliminary investigation with the same right to adduce evidence in his defense as provided in this Rule.
 
-**Section 8. Records.**
+**§8. Records.**
 
  - (a) *Records supporting the information or complaint.*
 
@@ -249,35 +249,35 @@ An information or complaint filed in court shall be supported by the affidavits 
 
 The record of the preliminary investigation, whether conducted by a judge or a prosecutor, shall not form part of the record of the case. However, the court, on its own initiative or on motion of any party, may order the production of the record or any of its part when necessary in the resolution of the case or any incident therein, or when it is to be introduced as an evidence in the case by the requesting party.
 
-**Section 9. Cases not requiring a preliminary investigation nor covered by the Rule on Summary Procedure.**
+**§9. Cases not requiring a preliminary investigation nor covered by the Rule on Summary Procedure.**
 
  - (a) *If filed with the prosecutor.*
 
-If the complaint is filed directly with the prosecutor involving an offense punishable by imprisonment of less than four (4) years, two (2) months and one (1) day, the procedure outlined in section 3(a) of this Rule shall be observed. The prosecutor shall act on the complaint based on the affidavits and other supporting documents submitted by the complainant within ten (10) days from its filing.
+If the complaint is filed directly with the prosecutor involving an offense punishable by imprisonment of less than four (4) years, two (2) months and one (1) day, the procedure outlined in §3(a) of this Rule shall be observed. The prosecutor shall act on the complaint based on the affidavits and other supporting documents submitted by the complainant within ten (10) days from its filing.
 
  - (b) *If filed with the Municipal Trial Court.*
 
- If the complaint or information is filed with the Municipal Trial Court or Municipal Circuit Trial Court for an offense covered by this section, the procedure in section 3(a) of this Rule shall be observed. If within ten (10) days after the filing of the complaint or information, the judge finds no probable cause after personally evaluating the evidence, or after personally examining in writing and under oath the complainant and his witnesses in the form of searching questions and answers, he shall dismiss the same. He may, how ever, require the submission of additional evidence, within ten (10) days from notice, to determine further the existence of probable cause. If the judge still finds no probable cause despite the additional evidence, he shall, within ten (10) days from its submission or expiration of said period, dismiss the case. When he finds probable cause, he shall issue a warrant of arrest, or a commitment order if the accused had already been arrested, and hold him for trial. However, if the judge is satisfied that there is no necessity for placing the accused under custody, he may issue summons instead of a warrant of arrest.
+ If the complaint or information is filed with the Municipal Trial Court or Municipal Circuit Trial Court for an offense covered by this section, the procedure in §3(a) of this Rule shall be observed. If within ten (10) days after the filing of the complaint or information, the judge finds no probable cause after personally evaluating the evidence, or after personally examining in writing and under oath the complainant and his witnesses in the form of searching questions and answers, he shall dismiss the same. He may, how ever, require the submission of additional evidence, within ten (10) days from notice, to determine further the existence of probable cause. If the judge still finds no probable cause despite the additional evidence, he shall, within ten (10) days from its submission or expiration of said period, dismiss the case. When he finds probable cause, he shall issue a warrant of arrest, or a commitment order if the accused had already been arrested, and hold him for trial. However, if the judge is satisfied that there is no necessity for placing the accused under custody, he may issue summons instead of a warrant of arrest.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 113 ARREST </p>
 
-**Section 1. Definition of arrest.**
+**§1. Definition of arrest.**
 
 Arrest is the taking of a person into custody in order that he may be bound to answer for the commission of an offense.
 
-**Section 2. Arrest; how made.**
+**§2. Arrest; how made.**
 
 An arrest is made by an actual restraint of a person to be arrested, or by his submission to the custody of the person making the arrest. No violence or unnecessary force shall be used in making an arrest. The person arrested shall not be subject to a greater restraint than is necessary for his detention.
 
-**Section 3. Duty of arresting officer.**
+**§3. Duty of arresting officer.**
 
 It shall be the duty of the officer executing the warrant to arrest the accused and deliver him to the nearest police station or jail without unnecessary delay.
 
-**Section 4. Execution of warrant.**
+**§4. Execution of warrant.**
 
 The head of the office to whom the warrant of arrest was delivered for execution shall cause the warrant to be executed within ten (10) days from its receipt. Within ten (10) days after the expiration of the period, the officer to whom it was assigned for execution shall make a report to the judge who issued the warrant. In case of his failure to execute the warrant, he shall state the reasons therefor.
 
-**Section 5. Arrest without warrant; when lawful.**
+**§5. Arrest without warrant; when lawful.**
 
 A peace officer or a private person may, without a warrant, arrest a person:
 
@@ -285,51 +285,51 @@ A peace officer or a private person may, without a warrant, arrest a person:
 
  - (b) When an offense has just been committed and he has probable cause to believe based on personal knowledge of facts or circumstances that the person to be arrested has committed it; and
 
- - (c) When the person to be arrested is a prisoner who has escaped from a penal establishment or place where he is serving final judgment or is temporarily confined while his case is pending, or has escaped while being transferred from one confinement to another. In cases falling under paragraphs (a) and (b) above, the person arrested without a warrant shall be forthwith delivered to the nearest police station or jail and shall be proceeded against in accordance with section 7 of Rule 112.
+ - (c) When the person to be arrested is a prisoner who has escaped from a penal establishment or place where he is serving final judgment or is temporarily confined while his case is pending, or has escaped while being transferred from one confinement to another. In cases falling under paragraphs (a) and (b) above, the person arrested without a warrant shall be forthwith delivered to the nearest police station or jail and shall be proceeded against in accordance with §7 of Rule 112.
 
-**Section 6. Time of making arrest.**
+**§6. Time of making arrest.**
 
 An arrest may be made on any day and at any time of the day or night.
 
-**Section 7. Method of arrest by officer by virtue of warrant.**
+**§7. Method of arrest by officer by virtue of warrant.**
 
 When making an arrest by virtue of a warrant, the officer shall inform the person to be arrested of the cause of the arrest and the fact that a warrant has been issued for his arrest, except when he flees or forcibly resists before the officer has opportunity to so inform him, or when the giving of such information will imperil the arrest. The officer need not have the warrant in his possession at the time of the arrest but after the arrest, if the person arrested so requires, the warrant shall be shown to him as soon as practicable.
 
-**Section 8. Method of arrest by officer without warrant.**
+**§8. Method of arrest by officer without warrant.**
 
 When making an arrest without a warrant, the officer shall inform the person to be arrested of his authority and the cause of the arrest, unless the latter is either engaged in the commission of an offense, is pursued immediately after its commission, has escaped, flees, or forcibly resists before the officer has opportunity to so inform him, or when the giving of such information will imperil the arrest.
 
-**Section 9. Method of arrest by private person.**
+**§9. Method of arrest by private person.**
 
 When making an arrest, a private person shall inform the person to be arrested of the intention to arrest him and the cause of the arrest, unless the latter is either engaged in the commission of an offense, is pursued immediately after its commission, or has escaped, flees, or forcibly resists before the person making the arrest has opportunity to so inform him, or when the giving of such information will imperil the arrest.
 
-**Section 10. Officer may summon assistance.**
+**§10. Officer may summon assistance.**
 
 An officer making a lawful arrest may orally summon as many persons as he deems necessary to assist him in effecting the arrest. Every person so summoned by an officer shall assist him in effecting the arrest when he can render such assistance without detriment to himself.
 
-**Section 11. Right of officer to break into building or enclosure.**
+**§11. Right of officer to break into building or enclosure.**
 
-An officer, in order to make an arrest either by virtue of a warrant, or without a warrant as provided in section 5, may break into any building or enclosure where the person to be arrested is or is reasonably believed to be, if he is refused admittance thereto, after announcing his authority and purpose,
+An officer, in order to make an arrest either by virtue of a warrant, or without a warrant as provided in §5, may break into any building or enclosure where the person to be arrested is or is reasonably believed to be, if he is refused admittance thereto, after announcing his authority and purpose,
 
-**Section 12. Right to break out from building or enclosure.**
+**§12. Right to break out from building or enclosure.**
 
 Whenever an officer has entered the building, or enclosure in accordance with the preceding section, he may break out therefrom when necessary to liberate himself.
 
-**Section 13. Arrest after escape or rescue.**
+**§13. Arrest after escape or rescue.**
 
  If a person lawfully arrested escapes or is rescued, any person may immediately pursue or retake him without a warrant at any time and in any place within the Philippines. (13)
 
-**Section 14. Right of attorney or relative to visit person arrested.**
+**§14. Right of attorney or relative to visit person arrested.**
 
  Any member of the Philippine Bar shall, at the request of the person arrested or of another acting in his behalf, have the right to visit and confer privately with such person in the jail or any other place of custody at any hour of the day or night. Subject to reasonable regulations, a relative of the person arrested can also exercise the same right.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 114 BAIL </p>
 
-**Section 1. Bail defined.**
+**§1. Bail defined.**
 
 Bail is the security given for the release of a person in custody of the law, furnished by him or a bondsman, to guarantee his appearance before any court as required under the conditions hereinafter specified. Bail may be given in the form of corporate surety, property bond, cash deposit, or recognizance.
 
-**Section 2. Conditions of the bail; requirements.**
+**§2. Conditions of the bail; requirements.**
 
 All kinds of bail are subject to the following conditions:
 
@@ -341,15 +341,15 @@ All kinds of bail are subject to the following conditions:
 
  - (d) The bondsman shall surrender the accused to the court for execution of the final judgment. The original papers shall state the full name and address of the accused, the amount of the undertaking and the conditions required by this section. Photographs (passport size) taken within the last six (6) months showing the face, left and right profiles of the accused must be attached to the bail.
 
-**Section 3. No release or transfer except on court order or bail.**
+**§3. No release or transfer except on court order or bail.**
 
 No person under detention by legal process shall be released or transferred except upon order of the court or when he is admitted to bail.
 
-**Section 4. Bail, a matter of right; exception.**
+**§4. Bail, a matter of right; exception.**
 
 All persons in custody shall be admitted to bail as a matter of right, with sufficient sureties, or released on recognizance as prescribed by law or this Rule (a) before or after conviction by the Metropolitan Trial Court, Municipal Trial Court, Municipal Trial Court in Cities, or Municipal Circuit Trial Court, and (b) before conviction by the Regional Trial Court of an offense not punishable by death, reclusion perpetua, or life imprisonment.
 
-**Section 5. Bail, when discretionary.**
+**§5. Bail, when discretionary.**
 
 Upon conviction by the Regional Trial Court of an offense not punishable by death, reclusion perpetua, or life imprisonment, admission to bail is discretionary. The application for bail may be filed and acted upon by the trial court despite the filing of a notice of appeal, provided it has not transmitted the original record to the appellate court. However, if the decision of the trial court convicting the accused changed the nature of the offense from non-bailable to bailable, the application for bail can only be filed with and resolved by the appellate court. Should the court grant the application, the accused may be allowed to continue on provisional liberty during the pendency of the appeal under the same bail subject to the consent of the bondsman. If the penalty imposed by the trial court is imprisonment exceeding six (6) years, the accused shall be denied bail, or his bail shall be cancelled upon a showing by the prosecution, with notice to the accused, of the following or other similar circumstances:
 
@@ -363,19 +363,19 @@ Upon conviction by the Regional Trial Court of an offense not punishable by deat
 
  - (e) That there is undue risk that he may commit another crime during the pendency of the appeal. The appellate court may, *motu proprio* or on motion of any party, review the resolution of the Regional Trial Court after notice to the adverse party in either case.
 
-**Section 6. Capital offense, defined.**
+**§6. Capital offense, defined.**
 
 A capital offense is an offense which, under the law existing at the time of its commission and of the application for admission to bail, may be punished with death.
 
-**Section 7. Capital offense or an offense punishable by reclusion perpetua or life imprisonment, not bailable.**
+**§7. Capital offense or an offense punishable by reclusion perpetua or life imprisonment, not bailable.**
 
 No person charged with a capital offense, or an offense punishable by reclusion perpetua or life imprisonment, shall be admitted to bail when evidence of guilt is strong, regardless of the stage of the criminal prosecution.
 
-**Section 8. Burden of proof in bail application.**
+**§8. Burden of proof in bail application.**
 
 At the hearing of an application for bail filed by a person who is in custody for the commission of an offense punishable by death, reclusion perpetua, or life imprisonment, the prosecution has the burden of showing that evidence of guilt is strong. The evidence presented during the bail hearing shall be considered automatically reproduced at the trial but, upon motion of either party, the court may recall any witness for additional examination unless the latter is dead, outside the Philippines, or otherwise unable to testify.
 
-**Section 9. Amount of bail; guidelines.**
+**§9. Amount of bail; guidelines.**
 
 The judge who issued the warrant or granted the application shall fix a reasonable amount of bail considering primarily, but not limited to, the following factors:
 
@@ -399,15 +399,15 @@ The judge who issued the warrant or granted the application shall fix a reasonab
 
  - (j) Pendency of other cases where the accused is on bail. Excessive bail shall not be required.
 
-**Section 10. Corporate surety.**
+**§10. Corporate surety.**
 
 Any domestic or foreign corporation, licensed as a surety in accordance with law and currently authorized to act as such, may provide bail by a bond subscribed jointly by the accused and an officer of the corporation duly authorized by its board of directors.
 
-**Section 11. Property bond, how posted.**
+**§11. Property bond, how posted.**
 
 A property bond is an undertaking constituted as lien on the real property given as security for the amount of the bail. Within ten (10) days after the approval of the bond, the accused shall cause the annotation of the lien on the certificate of title on file with the Registry of Deeds if the land is registered, or if unregistered, in the Registration Book on the space provided therefor, in the Registry of Deeds for the province or city where the land lies, and on the corresponding tax declaration in the office of the provincial, city and municipal assessor concerned. Within the same period, the accused shall submit to the court his compliance and his failure to do so shall be sufficient cause for the cancellation of the property bond and his re-arrest and detention.
 
-**Section 12. Qualifications of sureties in property bond.**
+**§12. Qualifications of sureties in property bond.**
 
 The qualifications of sureties in a property bond shall be as follows:
 
@@ -417,23 +417,23 @@ The qualifications of sureties in a property bond shall be as follows:
 
  - (c) If there are two or more sureties, each may justify in an amount less than that expressed in the undertaking but the aggregate of the justified sums must be equivalent to the whole amount of the bail demanded. In all cases, every surety must be worth the amount specified in his own undertaking over and above all just debts, obligations and properties exempt from execution.
 
-**Section 13. Justification of sureties.**
+**§13. Justification of sureties.**
 
 Every surety shall justify by affidavit taken before the judge that he possesses the qualifica­tions prescribed in the preceding section. He shall describe the property given as security, stating the nature of his title, its encumbrances, the number and amount of other bails entered into by him and still undischarged, and his other liabilities. The court may examine the sureties upon oath concerning their sufficiency in such manners it may deem proper. No bail shall be approved unless the surety is qualified.
 
-**Section 14. Deposit of cash as bail.**
+**§14. Deposit of cash as bail.**
 
-The accused or any person acting in his behalf may deposit in cash with the nearest collector of internal revenue or provincial, city, or municipal treasurer the amount of bail fixed by the court, or recommended by the prosecutor who investigated or filed the case. Upon submission of a proper certificate of deposit and a written undertaking showing compliance with the requirements of section 2 of this Rule, the accused shall be discharged from custody. The money deposited shall be considered as bail and applied to the payment of fine and costs while the excess, if any, shall be returned to the accused or to whoever made the deposit.
+The accused or any person acting in his behalf may deposit in cash with the nearest collector of internal revenue or provincial, city, or municipal treasurer the amount of bail fixed by the court, or recommended by the prosecutor who investigated or filed the case. Upon submission of a proper certificate of deposit and a written undertaking showing compliance with the requirements of §2 of this Rule, the accused shall be discharged from custody. The money deposited shall be considered as bail and applied to the payment of fine and costs while the excess, if any, shall be returned to the accused or to whoever made the deposit.
 
-**Section 15. Recognizance.**
+**§15. Recognizance.**
 
 Whenever allowed by law or these Rules, the court may release a person in custody on his own recognizance or that of a responsible person.
 
-**Section 16. Bail, when not required; reduced bail or recognizance.**
+**§16. Bail, when not required; reduced bail or recognizance.**
 
 No bail shall be required when the law or these Rules so provide. When a person has been in custody for a period equal to or more than the possible maximum imprisonment prescribed for the offense charged, he shall be released immediately, without prejudice to the continuation of the trial or the proceedings on appeal. If the maximum penalty to which the accused may be sentenced is destierro, he shall be released after thirty (30) days of preventive imprisonment. A person in custody for a period equal to or more than the minimum of the principal penalty prescribed for the offense charged, without application of the Indeterminate Sentence Law or any modifying circumstance, shall be released on a reduced bail or on his own recognizance, at the discretion of the court.
 
-**Section 17. Bail, where filed.**
+**§17. Bail, where filed.**
 
  - (a) Bail in the amount fixed may be filed with the court where the case is pending, or in the absence or unavailability of the judge thereof, with any regional trial judge, metropolitan trial judge, municipal trial judge, or municipal circuit trial judge in the province, city, or municipality. If the accused is arrested in a province, city, or municipality other than where the case is pending, bail may also be filed with any regional trial court of said place, or if no judge thereof is available, with any metropolitan trial judge, municipal trial judge, or municipal circuit trial judge therein.
 
@@ -441,19 +441,19 @@ No bail shall be required when the law or these Rules so provide. When a person 
 
  - (c) Any person in custody who is not yet charged in court may apply for bail with any court in the province, city, or municipality where he is held.
 
-**Section 18. Notice of application to prosecutor.**
+**§18. Notice of application to prosecutor.**
 
-In the application for bail under section 8 of this Rule, the court must give reasonable notice of the hearing to the prosecutor or require him to submit his recommendation.
+In the application for bail under §8 of this Rule, the court must give reasonable notice of the hearing to the prosecutor or require him to submit his recommendation.
 
-**Section 19. Release on bail.**
+**§19. Release on bail.**
 
-The accused must be discharged upon approval of the bail by the judge with whom it was filed in accordance with section 17 of this Rule. When bail is filed with a court other than where the case is pending, the judge who accepted the bail shall forward it, together with the order of release and other supporting papers, to the court where the case is pending, which may, for good reason, require a different one to be filed.
+The accused must be discharged upon approval of the bail by the judge with whom it was filed in accordance with §17 of this Rule. When bail is filed with a court other than where the case is pending, the judge who accepted the bail shall forward it, together with the order of release and other supporting papers, to the court where the case is pending, which may, for good reason, require a different one to be filed.
 
-**Section 20. Increase or reduction of bail.**
+**§20. Increase or reduction of bail.**
 
 After the accused is admitted to bail, the court may, upon good cause, either increase or reduce its amount. When increased, the accused may be committed to custody if he does not give bail in the increased amount within a reasonable period. An accused held to answer a criminal charge, who is released without bail upon filing of the complaint or information, may, at any subsequent stage of the proceedings and whenever a strong showing of guilt appears to the court, be required to give bail in the amount fixed, or in lieu thereof, committed to custody.
 
-**Section 21. Forfeiture of bail.**
+**§21. Forfeiture of bail.**
 
 When the presence of the accused is required by the court or these Rules, his bondsmen shall be notified to produce him before the court on a given date and time. If the accused fails to appear in person as required, his bail shall be declared forfeited and the bondsmen given thirty (30) days within which to produce their principal and to show cause why no judgment should be rendered against them for the amount of their bail. Within the said period, the bondsmen must:
 
@@ -461,29 +461,29 @@ When the presence of the accused is required by the court or these Rules, his bo
 
  - (b) explain why the accused did not appear before the court when first required to do so. Failing in these two requisites, a judgment shall be rendered against the bondsmen, jointly and severally, for the amount of the bail. The court shall not reduce or otherwise mitigate the liability of the bondsmen, unless the accused has been surrendered or is acquitted.
 
-**Section 22. Cancellation of bail.**
+**§22. Cancellation of bail.**
 
 Upon application of the bondsmen, with due notice to the prosecutor, the bail may be cancelled upon surrender of the accused or proof of his death. The bail shall be deemed automatically cancelled upon acquittal of the accused, dismissal of the case, or execution of the judgment of conviction. In all instances, the cancellation shall be without prejudice to any liability on the bail.
 
-**Section 23. Arrest of accused out on bail.**
+**§23. Arrest of accused out on bail.**
 
 For the purpose of surrendering the accused, the bondsmen may arrest him or, upon written authority endorsed on a certified copy of the undertaking, cause him to be arrested by a police officer or any other person of suitable age and discretion. An accused released on bail may be re-arrested without the necessity of a warrant if he attempts to depart from the Philippines without permission of the court where the case is pending.
 
-**Section 24. No bail after final judgment; exception.**
+**§24. No bail after final judgment; exception.**
 
 No bail shall be allowed after a judgment of conviction has become final. If before such finality, the accused applies for probation, he may be allowed temporary liberty under his bail. When no bail was filed or the accused is incapable of filing one, the court may allow his release on recognizance to the custody of a responsible member of the community. In no case shall bail be allowed after the accused has commenced to serve sentence.
 
-**Section 25. Court supervision of detainees.**
+**§25. Court supervision of detainees.**
 
  The court shall exercise supervision over all persons in custody for the purpose of eliminating unnecessary detention. The executive judges of the Regional Trial Courts shall conduct monthly personal inspections of provincial, city, and municipal jails and the prisoners within their respective jurisdictions. They shall ascertain the number of detainees, inquire on their proper accommodation and health and examine the condition of the jail facilities. They shall order the segregation of sexes and of minors from adults, ensure the observance of the right of detainees to confer privately with counsel, and strive to eliminate conditions inimical to the detainees. In cities and municipalities to be specified by the Supreme Court, the municipal trial judges or municipal circuit trial judges shall conduct monthly personal inspections of the municipal jails in their respective municipalities and submit a report to the executive judge of the Regional Trial Court having jurisdiction therein. A monthly report of such visitation shall be submitted by the executive judges to the Court Administrator which shall state the total number of detainees, the names of those held for more than thirty (30) days, the duration of detention, the crime charged, the status of the case, the cause for detention, and other pertinent information.
 
-**Section 26. Bail not a bar to objections on illegal arrest, lack of or irregular preliminary investigation.**
+**§26. Bail not a bar to objections on illegal arrest, lack of or irregular preliminary investigation.**
 
 An application for or admission to bail shall not bar the accused from challenging the validity of his arrest or the legality of the warrant issued therefor, or from assailing the regularity or questioning the absence of a preliminary investigation of the charge against him, provided that he raises them before entering his plea. The court shall resolve the matter as early as practicable but not later than the start of the trial of the case.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 115 RIGHTS OF ACCUSED</p>
 
-**Section 1. Rights of accused at the trial.**
+**§1. Rights of accused at the trial.**
 
 In all criminal prosecutions, the accused shall be entitled to the following rights:
 
@@ -507,7 +507,7 @@ In all criminal prosecutions, the accused shall be entitled to the following rig
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 116 ARRAIGNMENT AND PLEA </p>
 
-**Section 1. Arraignment and plea; how made.**
+**§1. Arraignment and plea; how made.**
 
  - (a) The accused must be arraigned before the court where the complaint or information was filed or assigned for trial. The arraignment shall be made in open court by the judge or clerk by furnishing the accused with a copy of the complaint or information, reading the same in the language or dialect known to him, and asking him whether he pleads guilty or not guilty. The prosecution may call at the trial witnesses other than those named in the complaint or information.
 
@@ -524,43 +524,43 @@ In all criminal prosecutions, the accused shall be entitled to the following rig
  - (g) Unless a shorter period is provided by special law or Supreme Court circular, the arraignment shall be held within thirty (30) days from the date the court acquires jurisdiction over the person of the accused. The time of the pendency of a motion to quash or for a bill of particulars or other causes justifying suspension of the arraignment shall be excluded in computing the period.
 
 
-**Section 2. Plea of guilty to a lesser offense.**
+**§2. Plea of guilty to a lesser offense.**
 
 At arraignment, the accused, with the consent of the offended party and the prosecutor, may be allowed by the trial court to plead guilty to a lesser offense which is necessarily included in the offense charged. After arraignment but before trial, the accused may still be allowed to plead guilty to said lesser offense after withdrawing his plea of not guilty. No amendment of the complaint or information is necessary.
 
-**Section 3. Plea of guilty to capital offense; reception of evidence.**
+**§3. Plea of guilty to capital offense; reception of evidence.**
 
 When the accused pleads guilty to a capital offense, the court shall conduct a searching inquiry into the voluntariness and full comprehension of the consequences of his plea and shall require the prosecution to prove his guilt and the precise degree of culpability. The accused may present evidence in his behalf.
 
-**Section 4. Plea of guilty to non-capital offense; reception of evidence, discretionary.**
+**§4. Plea of guilty to non-capital offense; reception of evidence, discretionary.**
 
  When the accused pleads guilty to a non-capital offense, the court may receive evidence from the parties to determine the penalty to be imposed.
 
-**Section 5. Withdrawal of improvident plea of guilty.**
+**§5. Withdrawal of improvident plea of guilty.**
 
 At any time before the judgment of conviction becomes final, the court may permit an improvident plea of guilty to be withdrawn and be substituted by a plea of not guilty.
 
-**Section 6. Duty of court to inform accused of his right to counsel.**
+**§6. Duty of court to inform accused of his right to counsel.**
 
 Before arraignment, the court shall inform the accused of his right to counsel and ask him if he desires to have one. Unless the accused is allowed to defend himself in person or has employed counsel of his choice, the court must assign a counsel **de oficio** to defend him.
 
-**Section 7. Appointment of counsel **de oficio**.**
+**§7. Appointment of counsel **de oficio**.**
 
 The court, considering the gravity of the offense and the difficulty of the questions that may arise, shall appoint as counsel **de oficio** such members of the bar in good standing who, by reason of their experience and ability, can competently defend the accused. But in localities where such members of the bar are not available, the court may appoint any person, resident of the province and of good repute for probity and ability, to defend the accused.
 
-**Section 8. Time for counsel **de oficio** to prepare for arraignment.**
+**§8. Time for counsel **de oficio** to prepare for arraignment.**
 
 Whenever a counsel **de oficio** is appointed by the court to defend the accused at the arraignment, he shall be given a reasonable time to consult with the accused as to his plea before proceeding with the arraignment.
 
-**Section 9. Bill of particular.**
+**§9. Bill of particular.**
 
 The accused may, before arraignment, move for a bill of particulars to enable him properly to plead and prepare for trial. The motion shall specify the alleged defects of the complaint or information and the details desired.
 
-**Section 10. Production or inspection of material evidence in possession of prosecution.**
+**§10. Production or inspection of material evidence in possession of prosecution.**
 
 Upon motion of the accused showing good cause and with notice to the parties, the court, in order to prevent surprise, suppression, or alteration, may order the prosecution to produce and permit the inspection and copying or photographing of any written statement given by the complainant and other witnesses in any investigation of the offense conducted by the prosecution or other investigating officers, as well as any designated documents, papers, books, accounts, letters, photographs, objects, or tangible things not otherwise privileged, which constitute or contain evidence material to any matter involved in the case and which are in possession or under the control of the prosecution, police, or other law investigating agencies.
 
-**Section 11. Suspension of arraignment.**
+**§11. Suspension of arraignment.**
 
 Upon motion by the proper party, the arraignment shall be suspended in the following cases:
 
@@ -572,15 +572,15 @@ Upon motion by the proper party, the arraignment shall be suspended in the follo
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 117 MOTION TO QUASH </p>
 
-**Section 1. Time to move to quash.**
+**§1. Time to move to quash.**
 
 At any time before entering his plea, the accused may move to quash the complaint or information.
 
-**Section 2. Form and contents.**
+**§2. Form and contents.**
 
 The motion to quash shall be in writing, signed by the accused or his counsel and shall distinctly specify its factual and legal grounds. The court shall consider no ground other than those stated in the motion, except lack of jurisdiction over the offense charged.
 
-**Section 3. Grounds.**
+**§3. Grounds.**
 
 The accused may move to quash the complaint or information on any of following grounds:
 
@@ -602,21 +602,21 @@ The accused may move to quash the complaint or information on any of following g
 
  - (i) That the accused has been previously convicted or acquitted of the offense charged, or the case against him was dismissed or otherwise terminated without his express consent.
 
-**Section 4. Amendment of complaint or information.**
+**§4. Amendment of complaint or information.**
 
 If the motion to quash is based on an alleged defect of the complaint or information which can be cured by amendment, the court shall order that an amendment be made.
 
 If it is based on the ground that the facts charged do not constitute an offense, the prosecution shall be given by the court an opportunity to correct the defect by amendment. The motion shall be granted if the prosecution fails to make the amendment, or the complaint or information still suffers from the same defect despite the amendment.
 
-**Section 5. Effect of sustaining the motion to quash.**
+**§5. Effect of sustaining the motion to quash.**
 
-If the motion to quash is sustained, the court may order that another complaint or information be filed except as provided in section 6 of this Rule. If the order is made, the accused, if in custody, shall not be discharged unless admitted to bail. If no order is made or if having been made, no new information is filed within the time specified in the order or within such further time as the court may allow for good cause, the accused, if in custody, shall be discharged unless he is also in custody for another charge.
+If the motion to quash is sustained, the court may order that another complaint or information be filed except as provided in §6 of this Rule. If the order is made, the accused, if in custody, shall not be discharged unless admitted to bail. If no order is made or if having been made, no new information is filed within the time specified in the order or within such further time as the court may allow for good cause, the accused, if in custody, shall be discharged unless he is also in custody for another charge.
 
-**Section 6. Order sustaining the motion to quash not a bar to another prosecution; exception.**
+**§6. Order sustaining the motion to quash not a bar to another prosecution; exception.**
 
-An order sustaining the motion to quash is not a bar to another prosecution for the same offense unless the motion was based on the grounds specified in section 3 (g) and (i) of this Rule.
+An order sustaining the motion to quash is not a bar to another prosecution for the same offense unless the motion was based on the grounds specified in §3 (g) and (i) of this Rule.
 
-**Section 7. Former conviction or acquittal; double jeopardy.**
+**§7. Former conviction or acquittal; double jeopardy.**
 
 When an accused has been convicted or acquitted, or the case against him dismissed or otherwise terminated without his express consent by a court of competent jurisdiction, upon a valid complaint or information or other formal charge sufficient in form and substance to sustain a conviction and after the accused had pleaded to the charge, the conviction or acquittal of the accused or the dismissal of the case shall be a bar to another prosecution for the offense charged, or for any attempt to commit the same or frustration thereof, or for any offense which necessarily includes or is necessarily included in the offense charged in the former complaint or information. However, the conviction of the accused shall not be a bar to another prosecution for an offense which necessarily includes the offense charged in the former complaint or information under any of the following instances:
 
@@ -624,19 +624,19 @@ When an accused has been convicted or acquitted, or the case against him dismiss
 
  - (b) the facts constituting the graver charge became known or were discovered only after a plea was entered in the former complaint or information; or
 
- - (c) the plea of guilty to the lesser offense was made without the consent of the prosecutor and of the offended party except as provided in section 1(f) of Rule 116. In any of the foregoing cases, where the accused satisfies or serves in whole or in part the judgment, he shall be credited with the same in the event of conviction for the graver offense.
+ - (c) the plea of guilty to the lesser offense was made without the consent of the prosecutor and of the offended party except as provided in §1(f) of Rule 116. In any of the foregoing cases, where the accused satisfies or serves in whole or in part the judgment, he shall be credited with the same in the event of conviction for the graver offense.
 
-**Section 8. Provisional dismissal.**
+**§8. Provisional dismissal.**
 
  A case shall not be provisionally dismissed except with the express consent of the accused and with notice to the offended party. The provisional dismissal of offenses punishable by imprison­ment not exceeding six (6) years or a fine of any amount, or both, shall become permanent one (1) year after issuance of the order without the case having been revived. With respect to offenses punishable by imprisonment of more than six (6) years, their provisional dismissal shall become permanent two (2) years after issuance of the order without the case having been revived.
 
-**Section 9. Failure to move to quash or to allege any ground therefor.**
+**§9. Failure to move to quash or to allege any ground therefor.**
 
-The failure of the accused to assert any ground of a motion to quash before he pleads to the complaint or information, either because he did not file a motion to quash or failed to allege the same in said motion, shall be deemed a waiver of any objections except those based on the grounds provided for in paragraphs (a), (b), (g), and (i) of section 3 of this Rule.
+The failure of the accused to assert any ground of a motion to quash before he pleads to the complaint or information, either because he did not file a motion to quash or failed to allege the same in said motion, shall be deemed a waiver of any objections except those based on the grounds provided for in paragraphs (a), (b), (g), and (i) of §3 of this Rule.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 118 PRE-TRIAL </p>
 
-**Section 1. Pre-trial; mandatory in criminal cases.**
+**§1. Pre-trial; mandatory in criminal cases.**
 
  In all criminal cases cognizable by the Sandiganbayan, Regional Trial Court, Metropolitan Trial Court, Municipal Trial Court in Cities, Municipal Trial Court and Municipal Circuit Trial Court, the court shall, after arraignment and within thirty (30) days from the date the court acquires jurisdiction over the person of the accused, unless a shorter period is provided for in special laws or circulars of the Supreme Court, order a pre-trial conference to consider the following:
 
@@ -652,32 +652,32 @@ The failure of the accused to assert any ground of a motion to quash before he p
 
  - (f) such matters as will promote a fair and expeditious trial of the criminal and civil aspects of the case.
 
-**Section 2. Pre-trial agreement.**
+**§2. Pre-trial agreement.**
 
-All agreements or admissions made or entered during the pre-trial conference shall be reduced in writing and signed by the accused and counsel, otherwise, they cannot be used against the accused. The agreements covering the matters referred to in section 1 of this Rule shall be approved by the court.
+All agreements or admissions made or entered during the pre-trial conference shall be reduced in writing and signed by the accused and counsel, otherwise, they cannot be used against the accused. The agreements covering the matters referred to in §1 of this Rule shall be approved by the court.
 
-**Section 3. Non-appearance at pre-trial conference.**
+**§3. Non-appearance at pre-trial conference.**
 
 If the counsel for the accused or the prosecutor does not appear at the pre-trial conference and does not offer an acceptable excuse for his lack of cooperation, the court may impose proper sanctions or penalties.
 
-**Section 4. Pre-trial order.**
+**§4. Pre-trial order.**
 
  After the pre-trial conference, the court shall issue an order reciting the actions taken, the facts stipulated, and evidence marked. Such order shall bind the parties, limit the trial to matters not disposed of, and control the course of the action during the trial, unless modified by the court to prevent manifest injustice.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 119 TRIAL</p>
 
-**Section 1. Time to prepare for trial.**
+**§1. Time to prepare for trial.**
 
 After a plea of not guilty is entered, the accused shall have at least fifteen (15) days to prepare for trial. The trial shall commence within thirty (30) days from receipt of the pre-trial order.
 
 
-**Section 2. Continuous trial until terminated; postponements.**
+**§2. Continuous trial until terminated; postponements.**
 
 Trial once commenced shall continue from day to day as far as practicable until terminated. It may be postponed for a reasonable period of time for good cause.The court shall, after consultation with the prosecutor and defense counsel, set the case for continuous trial on a weekly or other short-term trial calendar at the earliest possible time so as to ensure speedy trial. In no case shall the entire trial period exceed one hundred eighty (180) days from the first day of trial, except as otherwise authorized by the Supreme Court.
 
-The time limitations provided under this section and the preceding section shall not apply where special laws or circulars of the Supreme Court provide for a shorter period of trial.
+The time limitations provided under this §and the preceding §shall not apply where special laws or circulars of the Supreme Court provide for a shorter period of trial.
 
-**Section 3. Exclusions.**
+**§3. Exclusions.**
 
  The following periods of delay shall be excluded in computing the time within which trial must commence:
 
@@ -707,24 +707,24 @@ The time limitations provided under this section and the preceding section shall
 
  - (f) Any period of delay resulting from a continuance granted by any court *motu proprio*, or on motion of either the accused or his counsel, or the prosecution, if the court granted the continuance on the basis of its findings set forth in the order that the ends of justice served by taking such action outweigh the best interest of the public and the accused in a speedy trial.
 
-**Section 4. Factors for granting continuance.**
+**§4. Factors for granting continuance.**
 
-The following factors, among others, shall be considered by a court in determining whether to grant a continuance under section 3(f) of this Rule.
+The following factors, among others, shall be considered by a court in determining whether to grant a continuance under §3(f) of this Rule.
 
  - (a) Whether or not the failure to grant a continuance in the proceeding would likely make a continuation of such proceeding impossible or result in a miscarriage of justice; and
 
- - (b) Whether or not the case taken as a whole is so novel, unusual and complex, due to the number of accused or the nature of the prosecution, or that it is unreasonable to expect adequate preparation within the periods of time established therein. In addition, no continuance under section 3(f) of this Rule shall be granted because of congestion of the court's calendar or lack of diligent preparation or failure to obtain available witnesses on the part of the prosecutor.
+ - (b) Whether or not the case taken as a whole is so novel, unusual and complex, due to the number of accused or the nature of the prosecution, or that it is unreasonable to expect adequate preparation within the periods of time established therein. In addition, no continuance under §3(f) of this Rule shall be granted because of congestion of the court's calendar or lack of diligent preparation or failure to obtain available witnesses on the part of the prosecutor.
 
 
-**Section 5. Time limit following an order for new trial.**
+**§5. Time limit following an order for new trial.**
 
  If the accused is to be tried again pursuant to an order for a new trial, the trial shall commence within thirty (30) days from notice of the order, provided that if the period becomes impractical due to unavailability of witnesses and other factors, the court may extend it but not to exceed one hundred eighty (180) days from notice of said order for a new trial.
 
-**Section 6. Extended time limit.**
+**§6. Extended time limit.**
 
- Notwithstanding the provisions of section 1(g), Rule 116 and the preceding section 1, for the first twelve-calendar-month period following its effectivity on September 15, 1998, the time limit with respect to the period from arraignment to trial imposed by said provision shall be one hundred eighty (180) days. For the second twelve-month period, the time limit shall be one hundred twenty (120) days, and for the third twelve-month period, the time limit shall be eighty (80) days.
+ Notwithstanding the provisions of §1(g), Rule 116 and the preceding §1, for the first twelve-calendar-month period following its effectivity on September 15, 1998, the time limit with respect to the period from arraignment to trial imposed by said provision shall be one hundred eighty (180) days. For the second twelve-month period, the time limit shall be one hundred twenty (120) days, and for the third twelve-month period, the time limit shall be eighty (80) days.
 
-**Section 7. Public attorney's duties where accused is imprisoned.**
+**§7. Public attorney's duties where accused is imprisoned.**
 
 If the public attorney assigned to defend a person charged with a crime knows that the latter is preventively detained, either because he is charged with a bailable crime but has no means to post bail, or, is charged with a non-bailable crime, or, is serving a term of imprisonment in any penal institution, it shall be his duty to do the following:
 
@@ -736,7 +736,7 @@ If the public attorney assigned to defend a person charged with a crime knows th
 
  - (d) When the custodian of the prisoner receives from the public attorney a properly supported request for the availability of the prisoner for purposes of trial, the prisoner shall be made available accordingly.
 
-**Section 8. Sanctions.**
+**§8. Sanctions.**
 
  In any case in which private counsel for the accused, the public attorney, or the prosecutor:
 
@@ -752,17 +752,17 @@ If the public attorney assigned to defend a person charged with a crime knows th
 
     - 2. By imposing on any appointed counsel **de oficio**, public attorney, or prosecutor a fine not exceeding five thousand pesos (P5,000.00); and
 
-    - 3. By denying any defense counsel or prosecutor the right to practice before the court trying the case for a period not exceeding thirty (30) days. The punishment provided for by this section shall be without prejudice to any appropriate criminal action or other sanction authorized under these rules.
+    - 3. By denying any defense counsel or prosecutor the right to practice before the court trying the case for a period not exceeding thirty (30) days. The punishment provided for by this §shall be without prejudice to any appropriate criminal action or other sanction authorized under these rules.
 
-**Section 9. Remedy where accused is not brought to trial within the time limit.**
+**§9. Remedy where accused is not brought to trial within the time limit.**
 
-If the accused is not brought to trial within the time limit required by **Section 1(g), Rule 116 and Section 1, as extended by Section 6 of this rule, the information may be dismissed on motion of the accused on the ground of denial of his right to speedy trial. The accused shall have the burden of proving the motion but the prosecution shall have the burden of going forward with the evidence to establish the exclusion of time under section 3 of this Rule. The dismissal shall be subject to the rules on double jeopardy. Failure of the accused to move for dismissal prior to trial shall constitute a waiver of the right to dismiss under this section.
+If the accused is not brought to trial within the time limit required by **§1(g), Rule 116 and §1, as extended by §6 of this rule, the information may be dismissed on motion of the accused on the ground of denial of his right to speedy trial. The accused shall have the burden of proving the motion but the prosecution shall have the burden of going forward with the evidence to establish the exclusion of time under §3 of this Rule. The dismissal shall be subject to the rules on double jeopardy. Failure of the accused to move for dismissal prior to trial shall constitute a waiver of the right to dismiss under this section.
 
-Section 10. Law on speedy trial not a bar to provision on speedy trial in the Constitution.**
+§10. Law on speedy trial not a bar to provision on speedy trial in the Constitution.**
 
-No provision of law on speedy trial and no rule implementing the same shall be interpreted as a bar to any charge of denial of the right to speedy trial guaranteed by section 14(2), article III, of the 1987 Constitution.
+No provision of law on speedy trial and no rule implementing the same shall be interpreted as a bar to any charge of denial of the right to speedy trial guaranteed by §14(2), article III, of the 1987 Constitution.
 
-**Section 11. Order of trial.**
+**§11. Order of trial.**
 
  The trial shall proceed in the following order:
 
@@ -776,7 +776,7 @@ No provision of law on speedy trial and no rule implementing the same shall be i
 
  - (e) When the accused admits the act or omission charged in the complaint or information but interposes a lawful defense, the order of trial may be modified.
 
-**Section 12. Application for examination of witness for accused before trial.**
+**§12. Application for examination of witness for accused before trial.**
 
  When the accused has been held to answer for an offense, he may, upon motion with notice to the other parties, have witnesses conditionally examined in his behalf. The motion shall state:
 
@@ -788,23 +788,23 @@ No provision of law on speedy trial and no rule implementing the same shall be i
 
  - (c) that the witness is sick or infirm as to afford reasonable ground for believing that he will not be able to attend the trial, or resides more than one hundred (100) kilometers from the place of trial and has no means to attend the same, or that other similar circumstances exist that would make him unavailable or prevent him from attending the trial. The motion shall be supported by an affidavit of the accused and such other evidence as the court may require.
 
-**Section 13. Examination of defense witness; how made.**
+**§13. Examination of defense witness; how made.**
 
  If the court is satisfied that the examination of a witness for the accused is necessary, an order shall be made directing that the witness be examined at a specific date, time and place and that a copy of the order be served on the prosecutor at least three (3) days before the scheduled examination. The examination shall be taken before a judge, or, if not practicable, a member of the Bar in good standing so designated by the judge in the order, or if the order be made by a court of superior jurisdiction, before an inferior court to be designated therein. The examination shall proceed notwithstanding the absence of the prosecutor provided he was duly notified of the hearing. A written record of the testimony shall be taken.
 
-**Section 14. Bail to secure appearance of material witness.**
+**§14. Bail to secure appearance of material witness.**
 
  When the court is satisfied, upon proof or oath, that a material witness will not testify when required, it may, upon motion of either party, order the witness to post bail in such sum as may be deemed proper. Upon refusal to post bail, the court shall commit him to prison until he complies, or is legally discharged after his testimony has been taken.
 
-**Section 15. Examination of witness for the prosecution.**
+**§15. Examination of witness for the prosecution.**
 
 When it satisfactorily appears that a witness for the prosecution is too sick or infirm to appear at the trial as directed by the court, or has to leave the Philippines with no definite date of returning, he may forthwith be conditionally examined before the court where the case is pending. Such examination, in the presence of the accused, or in his absence after reasonable notice to attend the examination has been served on him, shall be conducted in the same manner as an examination of the trial. Failure or refusal of the accused to attend the examination after notice shall be considered a waiver. The statement taken may be admitted in behalf of or against the accused.
 
-**Section 16. Trial of several accused.**
+**§16. Trial of several accused.**
 
 When two or more accused are jointly charged with an offense, they shall be tried jointly unless the court, in its discretion and upon motion of the prosecutor or any accused, orders separate trial for one or more accused.
 
-**Section 17. Discharge of accused to be state witness.**
+**§17. Discharge of accused to be state witness.**
 
 When two or more persons are jointly charged with the commission of any offense, upon motion of the prosecution before resting its case, the court may direct one or more of the accused to be discharged with their consent so that they may be witnesses for the state when, after requiring the prosecution to present evidence and the sworn statement of each proposed state witness at a hearing in support of the discharge, the court is satisfied that:
 
@@ -818,27 +818,27 @@ When two or more persons are jointly charged with the commission of any offense,
 
  - (e) Said accused has not at any time been convicted of any offense involving moral turpitude. Evidence adduced in support of the discharge shall automatically form part of the trial. If the court denies the motion for discharge of the accused as state witness, his sworn statement shall be inadmissible in evidence.
 
-**Section 18. Discharge of accused operates as acquittal.**
+**§18. Discharge of accused operates as acquittal.**
 
-The order indicated in the preceding section shall amount to an acquittal of the discharged accused and shall be a bar to future prosecution for the same offense, unless the accused fails or refuses to testify against his co-accused in accordance with his sworn statement constituting the basis for his discharge.
+The order indicated in the preceding §shall amount to an acquittal of the discharged accused and shall be a bar to future prosecution for the same offense, unless the accused fails or refuses to testify against his co-accused in accordance with his sworn statement constituting the basis for his discharge.
 
-**Section 19. When mistake has been made in charging the proper offense.**
+**§19. When mistake has been made in charging the proper offense.**
 
 When it becomes manifest at any time before judgment that a mistake has been made in charging the proper offense and the accused cannot be convicted of the offense charged or any other offense necessarily included therein, the accused shall not be discharged if there appears good cause to detain him. In such case, the court shall commit the accused to answer for the proper offense and dismiss the original case upon the filing of the proper information.
 
-**Section 20. Appointment of acting prosecutor.**
+**§20. Appointment of acting prosecutor.**
 
-When a prosecutor, his assistant or deputy is disqualified to act due to any of the grounds stated in section 1 of Rule 137 or for any other reason, the judge or the prosecutor shall communicate with the Secretary of Justice in order that the latter may appoint an acting prosecutor.
+When a prosecutor, his assistant or deputy is disqualified to act due to any of the grounds stated in §1 of Rule 137 or for any other reason, the judge or the prosecutor shall communicate with the Secretary of Justice in order that the latter may appoint an acting prosecutor.
 
-**Section 21. Exclusion of the public.**
+**§21. Exclusion of the public.**
 
 The judge may, *motu proprio*, exclude the public from the courtroom if the evidence to be produced during the trial is offensive to decency or public morals. He may also, on motion of the accused, exclude the public from the trial except court personnel and the counsel of the parties.
 
-**Section 22. Consolidation of trials of related offenses.**
+**§22. Consolidation of trials of related offenses.**
 
 Charges for offenses founded on the same facts or forming part of a series of offenses of similar character may be tried jointly at the discretion of the court.
 
-**Section 23. Demurrer to evidence.**
+**§23. Demurrer to evidence.**
 
 After the prosecution rests its case, the court may dismiss the action on the ground of insufficiency of evidence
 
@@ -852,17 +852,17 @@ If the court denies the demurrer to evidence filed with leave of court, the accu
 
 The motion for leave of court to file demurrer to evidence shall specifically state its grounds and shall be filed within a non-extendible period of five (5) days after the prosecution rests its case. The prosecution may oppose the motion within a non-extendible period of five (5) days from its receipt. If leave of court is granted, the accused shall file the demurrer to evidence within a non-extendible period of ten (10) days from notice. The prosecution may oppose the demurrer to evidence within a similar period from its receipt. The order denying the motion for leave of court to file demurrer to evidence or the demurrer itself shall not be reviewable by appeal or by certiorari before judgment.
 
-**Section 24. Reopening.**
+**§24. Reopening.**
 
 At any time before finality of the judgment of conviction, the judge may, *motu proprio* or upon motion, with hearing in either case, reopen the proceedings to avoid a miscarriage of justice. The proceedings shall be terminated within thirty (30) days from the order granting it.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 120 JUDGMENT</p>
 
-**Section 1. Judgment; definition and form.**
+**§1. Judgment; definition and form.**
 
 Judgment is the adjudication by the court that the accused is guilty or not guilty of the offense charged and the imposition on him of the proper penalty and civil liability, if any. It must be written in the official language, personally and directly prepared by the judge and signed by him and shall contain clearly and distinctly a statement of the facts and the law upon which it is based.
 
-**Section 2. Contents of the judgment.**
+**§2. Contents of the judgment.**
 
 If the judgment is of conviction, it shall state
 
@@ -876,19 +876,19 @@ If the judgment is of conviction, it shall state
 
  - (4) the civil liability or damages caused by his wrongful act or omission to be recovered from the accused by the offended party, if there is any, unless the enforcement of the civil liability by a separate civil action has been reserved or waived. In case the judgment is of acquittal, it shall state whether the evidence of the prosecution absolutely failed to prove the guilt of the accused or merely failed to prove his guilt beyond reasonable doubt. In either case, the judgment shall determine if the act or omission from which the civil liability might arise did not exist.
 
-**Section 3. Judgment for two or more offenses.**
+**§3. Judgment for two or more offenses.**
 
 When two or more offenses are charged in a single complaint or information but the accused fails to object to it before trial, the court may convict him of as many offenses as are charged and proved, and impose on him the penalty for each offense, setting out separately the findings of fact and law in each offense.
 
-**Section 4. Judgment in case of variance between allegation and proof.**
+**§4. Judgment in case of variance between allegation and proof.**
 
 When there is variance between the offense charge in the complaint or information and that proved, and the offense as charged is included in or necessarily includes the offense proved, the accused shall be convicted of the offense proved which is included in the offense charged, or of the offense charged which is included in the offense proved.
 
-**Section 5. When an offense includes or is included in another.**
+**§5. When an offense includes or is included in another.**
 
 An offense charged necessarily includes the offense proved when some of the essential elements or ingredients of the former, as alleged in the complaint or information, constitute the latter. And an offense charged is necessarily included in the offense proved, when the essential ingredients of the former constitute or form part of those constituting the latter.
 
-**Section 6. Promulgation of judgment.**
+**§6. Promulgation of judgment.**
 
 ###### <span style="color:blue;">(In the original text, these subdivisions are inline. For ease of reading, they have been made into a list here.)</span>
 
@@ -908,25 +908,25 @@ An offense charged necessarily includes the offense proved when some of the esse
 
  - If the judgment is for conviction and the failure of the accused to appear was without justifiable cause, he shall lose the remedies available in these rules against the judgment and the court shall order his arrest. Within fifteen (15) days from promulgation of judgment, however, the accused may surrender and file a motion for leave of court to avail of these remedies. He shall state the reasons for his absence at the scheduled promulgation and if he proves that his absence was for a justifiable cause, he shall be allowed to avail of said remedies within fifteen (15) days from notice.
 
-**Section 7. Modification of judgment.**
+**§7. Modification of judgment.**
 
 A judgment of conviction may, upon motion of the accused, be modified or set aside before it becomes final or before appeal is perfected. Except where the death penalty is imposed, a judgment becomes final after the lapse of the period for perfecting an appeal, or when the sentence has been partially or totally satisfied or served, or when the accused has waived in writing his right to appeal, or has applied for probation.
 
-**Section 8. Entry of judgment.**
+**§8. Entry of judgment.**
 
 After a judgment has become final, it shall be entered in accordance with Rule 36.
 
-**Section 9. Existing provisions governing suspension of sentence, probation and parole not affected by this Rule.**
+**§9. Existing provisions governing suspension of sentence, probation and parole not affected by this Rule.**
 
 Nothing in this Rule shall affect any existing provisions in the laws governing suspension of sentence, probation or parole.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 121 NEW TRIAL OR RECONSIDERATION</p>
 
-**Section 1. New trial or reconsideration.**
+**§1. New trial or reconsideration.**
 
 At any time before a judgment of conviction becomes final, the court may, on motion of the accused or at its own instance but with the consent of the accused, grant a new trial or reconsideration.
 
-**Section 2. Grounds for a new trial.**
+**§2. Grounds for a new trial.**
 
 The court shall grant a new trial on any of the following grounds:
 
@@ -934,19 +934,19 @@ The court shall grant a new trial on any of the following grounds:
 
  - (b) That new and material evidence has been discovered which the accused could not with reasonable diligence have discovered and produced at the trial and which if introduced and admitted would probably change the judgment.
 
-**Section 3. Ground for reconsideration.**
+**§3. Ground for reconsideration.**
 
 The court shall grant reconsideration on the ground of errors of law or fact in the judgment, which requires no further proceedings.
 
-**Section 4. Form of motion and notice to the prosecutor.**
+**§4. Form of motion and notice to the prosecutor.**
 
 The motion for new trial or reconsideration shall be in writing and shall state the grounds on which it is based. If based on a newly-discovered evidence, the motion must be supported by affidavits of witnesses by whom such evidence is expected to be given or by duly authenticated copies of documents which are proposed to be introduced in evidence. Notice of the motion for new trial or reconsideration shall be given to the prosecutor.
 
-**Section 5. Hearing on motion.**
+**§5. Hearing on motion.**
 
 Where a motion for new trial calls for resolution of any question of fact, the court may hear evidence thereon by affidavits or otherwise.
 
-**Section 6. Effects of granting a new trial or reconsideration.**
+**§6. Effects of granting a new trial or reconsideration.**
 
  The effects of granting a new trial or reconsideration are the following:
 
@@ -958,11 +958,11 @@ Where a motion for new trial calls for resolution of any question of fact, the c
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 122 APPEAL </p>
 
-**Section 1. Who may appeal.**
+**§1. Who may appeal.**
 
 Any party may appeal from a judgment or final order, unless the accused will be placed in double jeopardy.
 
-**Section 2. Where to appeal.**
+**§2. Where to appeal.**
 
 The appeal may be taken as follows:
 
@@ -972,7 +972,7 @@ The appeal may be taken as follows:
 
  - (c) To the Supreme Court, in cases decided by the Court of Appeals.
 
-**Section 3. How appeal taken.**
+**§3. How appeal taken.**
 
  - (a) The appeal to the Regional Trial Court, or to the Court of Appeals in cases decided by the Regional Trial Court in the exercise of its original jurisdiction, shall be taken by filing a notice of appeal with the court which rendered the judgment or final order appealed from and by serving a copy thereof upon the adverse party.
 
@@ -980,31 +980,31 @@ The appeal may be taken as follows:
 
  - (c) The appeal to the Supreme Court in cases where the penalty imposed by the Regional Trial Court is reclusion perpetua or life imprisonment, or where a lesser penalty is imposed but for offenses committed on the same occasion or which arose out of the same occurrence that gave rise to the more serious offense for which the penalty of death, reclusion perpetua, or life imprisonment is imposed, shall be by filing a notice of appeal in accordance with paragraph (a) of this section.
 
- - (d) No notice of appeal is necessary in cases where the death penalty is imposed by the Regional Trial Court. The same shall be automatically reviewed by the Supreme Court as provided in section 10 of this Rule.
+ - (d) No notice of appeal is necessary in cases where the death penalty is imposed by the Regional Trial Court. The same shall be automatically reviewed by the Supreme Court as provided in §10 of this Rule.
 
- - (e) Except as provided in the last paragraph of section 13, Rule 124, all other appeals to the Supreme Court shall be by petition for review on certiorari under Rule 45.
+ - (e) Except as provided in the last paragraph of §13, Rule 124, all other appeals to the Supreme Court shall be by petition for review on certiorari under Rule 45.
 
-**Section 4. Service of notice of appeal.**
+**§4. Service of notice of appeal.**
 
 If personal service of the copy of the notice of appeal can not be made upon the adverse party or his counsel, service may be done by registered mail or by substituted service pursuant to sections 7 and 8 of Rule 13.
 
-**Section 5. Waiver of notice.**
+**§5. Waiver of notice.**
 
 The appellee may waive his right to a notice that an appeal has been taken. The appellate court may, in its discretion, entertain an appeal notwithstanding failure to give such notice if the interests of justice so require.
 
-**Section 6. When appeal, to be taken.**
+**§6. When appeal, to be taken.**
 
 An appeal must be taken within fifteen (15) days from promulgation of the judgment or from notice of the final order appealed from. This period for perfecting an appeal shall be suspended from the time a motion for new trial or reconsideration is filed until notice of the order overruling the motion has been served upon the accused or his counsel at which time the balance of the period begins to run.
 
-**Section 7. Transcribing and filing notes of stenographic reporter upon appeal.**
+**§7. Transcribing and filing notes of stenographic reporter upon appeal.**
 
 When notice of appeal is filed by the accused, the trial court shall direct the stenographic reporter to transcribe his notes of the proceedings. When filed by the People of the Philippines, the trial court shall direct the stenographic reporter to transcribe such portion of his notes of the proceedings as the court, upon motion, shall specify in writing. The stenographic reporter shall certify to the correctness of the notes and the transcript thereof, which shall consist of the original and four copies, and shall file said original and four copies with the clerk without unnecessary delay. If death penalty is imposed, the stenographic reporter shall, within thirty (30) days from promulgation of the sentence, file with the clerk the original and four copies of the duly certified transcript of his notes of the proceedings. No extension of time for filing of said transcript of stenographic notes shall be granted except by the Supreme Court and only upon justifiable grounds.
 
-**Section 8. Transmission of papers to appellate court upon appeal.**
+**§8. Transmission of papers to appellate court upon appeal.**
 
 Within five (5) days from the filing of the notice of appeal, the clerk of the court with whom the notice of appeal was filed must transmit to the clerk of court of the appellate court the complete record of the case, together with said notice. The original and three copies of the transcript of stenographic notes, together with the records, shall also be transmitted to the clerk of the appellate court without undue delay. The other copy of the transcript shall remain in the lower court.
 
-**Section 9. Appeal to the Regional Trial Courts.**
+**§9. Appeal to the Regional Trial Courts.**
 
  - (a) Within five (5) days from perfection of the appeal, the clerk of court shall transmit the original record to the appropriate Regional Trial Court.
 
@@ -1012,11 +1012,11 @@ Within five (5) days from the filing of the notice of appeal, the clerk of the c
 
  - (c) Within fifteen (15) days from receipt of said notice, the parties may submit memoranda or briefs, or may be required by the Regional Trial Court to do so. After the submission of such memoranda or briefs, or upon the expiration of the period to file the same, the Regional Trial Court shall decide the case on the basis of the entire record of the case and of such memoranda or briefs as may have been filed.
 
-**Section 10. Transmission of records in case of death penalty.**
+**§10. Transmission of records in case of death penalty.**
 
  In all cases where the death penalty is imposed by the trial court, the records shall be forwarded to the Supreme Court for automatic review and judgment within five (5) days after the fifteenth (15) day following the promulgation of the judgment or notice of denial of a motion for new trial or reconsideration. The transcript shall also be forwarded within ten (10) days after the filing thereof by the stenographic reporter.
 
-**Section 11. Effect of appeal by any of several accused.**
+**§11. Effect of appeal by any of several accused.**
 
  - (a) An appeal taken by one or more of several accused shall not affect those who did not appeal, except insofar as the judgment of the appellate court is favorable and applicable to the latter.
 
@@ -1024,27 +1024,27 @@ Within five (5) days from the filing of the notice of appeal, the clerk of the c
 
  - (c) Upon perfection of the appeal, the execution of the judgment or final order appealed from shall be stayed as to the appealing party,
 
-**Section 12. Withdrawal of appeal.**
+**§12. Withdrawal of appeal.**
 
-Notwithstanding perfection of the appeal, the Regional Trial Court, Metropolitan Trial Court, Municipal Trial Court in Cities, Municipal Trial Court, or Municipal Circuit Trial Court, as the case may be, may allow the appellant to withdraw his appeal before the record has been forwarded by the clerk of court to the proper appellate court as provided in section 8, in which case the judgment shall become final. The Regional Trial Court may also, in its discretion, allow the appellant from the judgment of a Metropolitan Trial Court, Municipal Trial Court in Cities, Municipal Trial Court, or Municipal Circuit Trial Court to withdraw his appeal, provided a motion to that effect is filed before rendition of the judgment in the case on appeal, in which case the judgment of the court of origin shall become final and the case shall be remanded to the latter court for execution of the judgment.
+Notwithstanding perfection of the appeal, the Regional Trial Court, Metropolitan Trial Court, Municipal Trial Court in Cities, Municipal Trial Court, or Municipal Circuit Trial Court, as the case may be, may allow the appellant to withdraw his appeal before the record has been forwarded by the clerk of court to the proper appellate court as provided in §8, in which case the judgment shall become final. The Regional Trial Court may also, in its discretion, allow the appellant from the judgment of a Metropolitan Trial Court, Municipal Trial Court in Cities, Municipal Trial Court, or Municipal Circuit Trial Court to withdraw his appeal, provided a motion to that effect is filed before rendition of the judgment in the case on appeal, in which case the judgment of the court of origin shall become final and the case shall be remanded to the latter court for execution of the judgment.
 
-**Section 13. Appointment of counsel **de oficio** for accused on appeal.**
+**§13. Appointment of counsel **de oficio** for accused on appeal.**
 
 It shall be the duty of the clerk of the trial court, upon filing of a notice of appeal, to ascertain from the appellant, if confined in prison, whether he desires the Regional Trial Court, Court of Appeals or the Supreme Court to appoint a counsel **de oficio** to defend him and to transmit with the record on a form to be prepared by the clerk of court of the appellate court, a certificate of compliance with this duty and of the response of the appellant to his inquiry.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 123 PROCEDURE IN THE MUNICIPAL TRIAL COURTS</p>
 
-**Section 1. Uniform Procedure.**
+**§1. Uniform Procedure.**
 
 The procedure to be observed in the Metropolitan Trial Courts, Municipal Trial Courts and Municipal Circuit Trial Courts shall be the same as in the Regional Trial Courts, except where a particular provision applies only to either of said courts and in criminal cases governed by the Revised Rule on Summary Procedure.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 124 PROCEDURE IN THE COURT OF APPEALS </p>
 
-**Section 1. Title of the case.**
+**§1. Title of the case.**
 
 In all criminal cases appealed to the Court of Appeals, the party appealing the case shall be called the "appellant" and the adverse party the "appellee," but the title of the case shall remain as it was in the court of origin.
 
-**Section 2. Appointment of counsel **de oficio** for the accused.**
+**§2. Appointment of counsel **de oficio** for the accused.**
 
 If it appears from the record of the case as transmitted that
 
@@ -1056,43 +1056,43 @@ If it appears from the record of the case as transmitted that
 
  - (c) has signed the notice of appeal himself, the clerk of court of the Court of Appeals shall designate a counsel **de oficio**. An appellant who is not confined in prison may, upon request, be assigned a counsel **de oficio** within ten (10) days from receipt of the notice to file brief and he establishes his right thereto.
 
-**Section 3. When brief for appellant to be filed.**
+**§3. When brief for appellant to be filed.**
 
 Within thirty (30) days from receipt by the appellant or his counsel of the notice from the clerk of court of the Court of Appeals that the evidence, oral and documentary, is already attached to the record, the appellant shall file seven (7) copies of his brief with the clerk of court which shall be accompanied by proof of service of two (2) copies thereof upon the appellee.
 
-**Section 4. When brief for appellee to be filed; reply brief of the appellant.**
+**§4. When brief for appellee to be filed; reply brief of the appellant.**
 
 Within thirty (30) days from receipt of the brief of the appellant, the appellee shall file seven (7) copies of the brief of the appellee with the clerk of court which shall be accompanied by proof of service of two (2) copies thereof upon the appellant. Within twenty (20) days from receipt of the Brief of the appellee, the appellant may file a reply brief traversing matters raised in the former but not covered in the brief of the appellant.
 
-**Section 5. Extension of time for filing briefs.**
+**§5. Extension of time for filing briefs.**
 
 Extension of time for the filing of briefs will not be allowed except for good and sufficient cause and only if the motion for extension is filed before the expiration of the time sought to be extended.
 
-**Section 6. Form of briefs.**
+**§6. Form of briefs.**
 
 Briefs shall either be printed, encoded or typewritten in double space on legal size, good quality unglazed paper, 330 mm. in length by 216 mm. in width.
 
-**Section 7. Contents of brief.**
+**§7. Contents of brief.**
 
 The briefs in criminal cases shall have the same contents as provided in sections 13 and 14 of Rule 44. A certified true copy of the decision or final order appealed from shall be appended to the brief of the appellant.
 
-**Section 8. Dismissal of appeal for abandonment or failure to prosecute.**
+**§8. Dismissal of appeal for abandonment or failure to prosecute.**
 
 The Court of Appeals may, upon motion of the appellee or *motu proprio* and with notice to the appellant in either case, dismiss the appeal if the appellant fails to file his brief within the time prescribed by this Rule, except where the appellant is represented by a counsel **de oficio**. The Court of Appeals may also, upon motion of the appellee or *motu proprio*, dismiss the appeal if the appellant escapes from prison or confinement, jumps bail or flees to a foreign country during the pendency of the appeal.
 
-**Section 9. Prompt disposition of appeals.**
+**§9. Prompt disposition of appeals.**
 
 Appeals of accused who are under detention shall be given precedence in their disposition over other appeals. The Court of Appeals shall hear and decide the appeal at the earliest practicable time with due regard to the rights of the parties. The accused need not be present in court during the hearing of the appeal.
 
-**Section 10. Judgment not to be reversed or modified except for substantial error.**
+**§10. Judgment not to be reversed or modified except for substantial error.**
 
 No judgment shall be reversed or modified unless the Court of Appeals, after an examination of the record and of the evidence adduced by the parties, is of the opinion that error was committed which injuriously affected the substantial rights of the appellant.
 
-**Section 11. Scope of judgment.**
+**§11. Scope of judgment.**
 
 The Court of Appeals may reverse, affirm, or modify the judgment and increase or reduce the penalty imposed by the trial court, remand the case to the Regional Trial Court for new trial or retrial, or dismiss the case.
 
-**Section 12. Power to receive evidence.**
+**§12. Power to receive evidence.**
 
 The Court of Appeals shall have the power to try cases and conduct hearings, receive evidence and perform any and all acts necessary to resolve factual issues raised in cases
 
@@ -1104,51 +1104,51 @@ The Court of Appeals shall have the power to try cases and conduct hearings, rec
 
  - (c) where the court grants a new trial based only on the ground of newly-discovered evidence.
 
-**Section 13. Quorum of the court; certification or appeal of cases to Supreme Court.**
+**§13. Quorum of the court; certification or appeal of cases to Supreme Court.**
 
 Three (3) Justices of the Court of Appeals shall constitute a quorum for the sessions of a division. The unanimous vote of the three (3) Justices of a division shall be necessary for the pronouncement of a judgment or final resolution, which shall be reached in consultation before the writing of the opinion by a member of the division. In the event that the three (3) Justices can not reach a unanimous vote, the Presiding Justice shall direct the raffle committee of the Court to designate two (2) additional Justices to sit temporarily with them, forming a special division of five (5) members and the concurrence of a majority of such division shall be necessary for the pronouncement of a judgment or final resolution. The designation of such additional Justices shall be made strictly by raffle and rotation among all other Justices of the Court of Appeals. Whenever the Court of Appeals finds that the penalty of death, reclusion perpetua, or life imprisonment should be imposed in a case, the court, after discussion of the evidence and the law involved, shall render judgment imposing the penalty of death, reclusion perpetua, or life imprisonment as the circumstances warrant. However, it shall refrain from entering the judgment and forthwith certify the case and elevate the entire record thereof to the Supreme Court for review.
 
-**Section 14. Motion for new trial.**
+**§14. Motion for new trial.**
 
-At any time after the appeal from the lower court has been perfected and before the judgment of the Court of Appeals convicting the appellant becomes final, the latter may move for a new trial on the ground of newly-discovered evidence material to his defense. The motion shall conform with the provisions of section 4, Rule 121.
+At any time after the appeal from the lower court has been perfected and before the judgment of the Court of Appeals convicting the appellant becomes final, the latter may move for a new trial on the ground of newly-discovered evidence material to his defense. The motion shall conform with the provisions of §4, Rule 121.
 
-**Section 15. Where new trial conducted.**
+**§15. Where new trial conducted.**
 
-When a new trial is granted, the Court of Appeals may conduct the hearing and receive evidence as provided in section 12 of this Rule or refer the trial to the court of origin.
+When a new trial is granted, the Court of Appeals may conduct the hearing and receive evidence as provided in §12 of this Rule or refer the trial to the court of origin.
 
-**Section 16. Reconsideration.**
+**§16. Reconsideration.**
 
 A motion for reconsideration shall be filed within fifteen (15) days from notice of the decision or final order of the Court of Appeals, with copies thereof served upon the adverse party, setting forth the grounds in support thereof. The mittimus shall be stayed during the pendency of the motion for reconsideration. No party shall be allowed a second motion for reconsideration of a judgment or final order.
 
-**Section 17. Judgment transmitted and filed in trial court.**
+**§17. Judgment transmitted and filed in trial court.**
 
 When the entry of judgment of the Court of Appeals is issued, a certified true copy of the judgment shall be attached to the original record which shall be remanded to the clerk of the court from which the appeal was taken.
 
-**Section 18. Application of certain rules in civil procedure to criminal cases.**
+**§18. Application of certain rules in civil procedure to criminal cases.**
 
 The provisions of Rules 42, 44 to 46 and 48 to 56 relating to procedure in the Court of Appeals and in the Supreme Court in original and appealed civil cases shall be applied to criminal cases insofar as they are applicable and not inconsistent with the provisions of this Rule.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 125 PROCEDURE IN THE SUPREME COURT </p>
 
-**Section 1. Uniform procedure.**
+**§1. Uniform procedure.**
 
 Unless otherwise provided by the Constitution or by law, the procedure in the Supreme Court in original and in appealed cases shall be the same as in the Court of Appeals.
 
-**Section 2. Review of decisions of the Court of Appeals.**
+**§2. Review of decisions of the Court of Appeals.**
 
 The procedure for the review by the Supreme Court of decisions in criminal cases rendered by the Court of Appeals shall be the same as in civil cases.
 
-**Section 3. Decision if opinion is equally divided.**
+**§3. Decision if opinion is equally divided.**
 
 When the Supreme Court en banc is equally divided in opinion or the necessary majority cannot be had on whether to acquit the appellant, the case shall again be deliberated upon and if no decision is reached after re-deliberation, the judgment of conviction of the lower court shall be reversed and the accused acquitted.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 126 SEARCH AND SEIZURE</p>
 
-**Section 1. Search warrant defined.**
+**§1. Search warrant defined.**
 
 A search warrant is an order in writing issued in the name of the People of the Philippines, signed by a judge and directed to a peace officer, commanding him to search for personal property described therein and bring it before the court.
 
-**Section 2. Court where application for search warrant shall be filed.**
+**§2. Court where application for search warrant shall be filed.**
 
 An application for search warrant shall be filed with the following:
 
@@ -1156,7 +1156,7 @@ An application for search warrant shall be filed with the following:
 
  - (b) For compelling reasons stated in the application, any court within the judicial region where the crime was committed if the place of the commission of the crime is known, or any court within the judicial region where the warrant shall be enforced. However, if the criminal action has already been filed, the application shall only be made in the court where the criminal action is pending.
 
-**Section 3. Personal property to be seized.**
+**§3. Personal property to be seized.**
 
 A search warrant may be issued for the search and seizure of personal property:
 
@@ -1166,61 +1166,61 @@ A search warrant may be issued for the search and seizure of personal property:
 
  - (c) Used or intended to be used as the means of committing an offense.
 
-**Section 4. Requisites for issuing search warrant.**
+**§4. Requisites for issuing search warrant.**
 
 A search warrant shall not issue except upon probable cause in connection with one specific offense to be determined personally by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched and the things to be seized which may be anywhere in the Philippines.
 
-**Section 5. Examination of complainant; record.**
+**§5. Examination of complainant; record.**
 
 The judge must, before issuing the warrant, personally examine in the form of searching questions and answers, in writing and under oath, the complainant and the witnesses he may produce on facts personally known to them and attach to the record their sworn statements, together with the affidavits submitted.
 
-**Section 6. Issuance and form of search warrant.**
+**§6. Issuance and form of search warrant.**
 
 If the judge is satisfied of the existence of facts upon which the application is based or that there is probable cause to believe that they exist, he shall issue the warrant, which must be substantially in the form prescribed by these Rules.
 
-**Section 7. Right to break door or window to effect search.**
+**§7. Right to break door or window to effect search.**
 
 The officer, if refused admittance to the place of directed search after giving notice of his purpose and authority, may break open any outer or inner door or window of a house or any part of a house or anything therein to execute the warrant or liberate himself or any person lawfully aiding him when unlawfully detained therein.
 
-**Section 8. Search of house, room, or premises to be made in presence of two witnesses.**
+**§8. Search of house, room, or premises to be made in presence of two witnesses.**
 
 No search of a house, room, or any other premises shall be made except in the presence of the lawful occupant thereof or any member of his family or in the absence of the latter, two witnesses of sufficient age and discretion residing in the same locality.
 
-**Section 9. Time of making search.**
+**§9. Time of making search.**
 
 The warrant must direct that it be served in the day time, unless the affidavit asserts that the property is on the person or in the place ordered to be searched, in which case a direction may be inserted that it be served at any time of the day or night.
 
-**Section 10. Validity of search warrant.**
+**§10. Validity of search warrant.**
 
 A search warrant shall be valid for ten (10) days from its date. Thereafter, it shall be void.
 
-**Section 11. Receipt for the property seized.**
+**§11. Receipt for the property seized.**
 
 The officer seizing property under the warrant must give a detailed receipt for the same to the lawful occupant of the premises in whose presence the search and seizure were made, or in the absence of such occupant, must, in the presence of at least two witnesses of sufficient age and discretion residing in the same locality, leave a receipt in the place in which he found the seized property.
 
-**Section 12. Delivery of property and inventory thereof to court; return and proceedings thereon.**
+**§12. Delivery of property and inventory thereof to court; return and proceedings thereon.**
 
  - (a) The officer must forthwith deliver the property seized to the judge who issued the warrant, together with a true inventory thereof duly verified under oath.
 
- - (b) Ten (10) days after issuance .of the search warrant, the issuing judge shall ascertain if the return has been made, and if none, shall summon the person to whom the warrant was issued and require him to explain why no return was made. If the return has been made, the judge shall ascertain whether section 11 of this Rule has been complied with and shall require that the property seized be delivered to him. The judge shall see to it that subsection (a) hereof has been complied with.
+ - (b) Ten (10) days after issuance .of the search warrant, the issuing judge shall ascertain if the return has been made, and if none, shall summon the person to whom the warrant was issued and require him to explain why no return was made. If the return has been made, the judge shall ascertain whether §11 of this Rule has been complied with and shall require that the property seized be delivered to him. The judge shall see to it that sub§(a) hereof has been complied with.
 
- - (c) The return on the search warrant shall be filed and kept by the custodian of the log book on search warrants who shall enter therein the date of the return, the result, and other actions of the judge. A violation of this section shall constitute contempt of court.
+ - (c) The return on the search warrant shall be filed and kept by the custodian of the log book on search warrants who shall enter therein the date of the return, the result, and other actions of the judge. A violation of this §shall constitute contempt of court.
 
-**Section 13. Search incident to lawful arrest.**
+**§13. Search incident to lawful arrest.**
 
 A person lawfully arrested may be searched for dangerous weapons or anything which may have been used or constitute proof in the commission of an offense without a search warrant.
 
-**Section 14. Motion to quash a search warrant or to suppress evidence; where to file.**
+**§14. Motion to quash a search warrant or to suppress evidence; where to file.**
 
 A motion to quash a search warrant and/or to suppress evidence obtained thereby may be filed in and acted upon only by the court where the action has been instituted. If no criminal action has been instituted, the motion may be filed in and resolved by the court that issued the search warrant. However, if such court failed to resolve the motion and a criminal case is subsequently filed in another court, the motion shall be resolved by the latter court.
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 127 PROVISIONAL REMEDIES IN CRIMINAL CASES </p>
 
-**Section 1. Availability of provisional remedies.**
+**§1. Availability of provisional remedies.**
 
 The provisional remedies in civil actions, insofar as they are applicable, may be availed of in connection with the civil action deemed instituted with the criminal action.
 
-**Section 2. Attachment.**
+**§2. Attachment.**
 
 When the civil action is properly instituted in the criminal action as provided in Rule 111, the offended party may have the property of the accused attached as security for the satisfaction of any judgment that may be recovered from the accused in the following cases:
 
