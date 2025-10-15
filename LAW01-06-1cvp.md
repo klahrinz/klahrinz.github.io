@@ -3,35 +3,28 @@ layout: page
 title: Civil Procedure
 permalink: cvp
 ---
- <!-- There's a comment here so it doesn't include the title in the top bar. 
+<!-- There's a comment here so it doesn't include the title in the top bar. 
 
 Templates:
 For case-law section-level headings:
- <ins> * <span style=" color:rgba(50, 100, 65, 1);"> </span> * </ins> 
+<ins> * <span style=" color:rgba(50, 100, 65, 1);"> </span> * </ins> 
 
- <ins> * <span style=" color:rgba(50, 100, 65, 1);"> PLF v. DEF, G.R. No. ###### (YYYY Mmm DD) (Decision/Resolution – Nth Division/En Banc, Ponente) </span> * </ins> 
+<ins> * <span style=" color:rgba(50, 100, 65, 1);"> PLF v. DEF, G.R. No. ###### (YYYY Mmm DD) (Decision/Resolution – Nth Division/En Banc, Ponente) </span> * </ins> 
 
 For non-Title, non-Subtitle, non-regular headers:
 Heading for RPC Book
- <p style="text-align:center; font-size: 20px; font-weight: bold;">  </p> 
+<p style="text-align:center; font-size: 20px; font-weight: bold;">  </p> 
 
 Non-Regular Heading 1/RPC Title/RPC Chapter/RPC Section
- <p style="text-align:center; font-size: 18px; font-weight: bold;">  </p> 
+<p style="text-align:center; font-size: 18px; font-weight: bold;">  </p> 
 
 Non-Regular Heading 2 / Rules / RPC Articles
- <p style="text-align:center; font-size: 16px; font-weight: bold;">  </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;">  </p> 
 
 Fromat notes:
 // issue 1 [Resolved]
 something very wrong:
-line 1:
-
-line 2:
-
-print 1 is a gray [¶1]
-but print 2 is just the line of code
-
-F-R in VS Code doesnt work
+some F-R in VS Code doesnt work
 The finding anything in line 2 includes code from line 1.
 
 Solution:
@@ -43,18 +36,19 @@ R "
 --> 
 
 # CIVIL PROCEDURE
+[Jump to Case Law on Civil Procedure](#CaseLawCVP)
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 1 GENERAL PROVISIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 1 GENERAL PROVISIONS </p> 
 
 **§1. Title of the Rules.**
 
 These Rules shall be known and cited as the Rules of Court.
- <br> 
+<br> 
 
 **§2. In what courts applicable.**
 
 These Rules shall apply in all the courts, except as otherwise provided by the Supreme Court.
- <br> 
+<br> 
 
 **§3. Cases governed.**
 
@@ -66,17 +60,17 @@ A civil action may either be ordinary or special. Both are governed by the rules
 - (b) A criminal action is one by which the State prosecutes a person for an act or omission punishable by law.
 
 - (c) A special proceeding is a remedy by which a party seek s to establish a status, a right, or a particular fact.
- <br> 
+<br> 
 
 **§4. In what cases not applicable.**
 
 These Rules shall not apply to election cases, land registration, cadastral, naturalization and insolvency proceedings, and other cases not herein provided for, except by analogy or in a suppletory character and whenever practicable and convenient.
 
- <p style="text-align:center; font-size: 18px; font-weight: bold;"> CIVIL ACTIONS </p> 
+<p style="text-align:center; font-size: 18px; font-weight: bold;"> CIVIL ACTIONS </p> 
 
- <p style="text-align:center; font-size: 18px; font-weight: bold;"> ORDINARY CIVIL ACTIONS </p> 
+<p style="text-align:center; font-size: 18px; font-weight: bold;"> ORDINARY CIVIL ACTIONS </p> 
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 2 CAUSE OF ACTION </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 2 CAUSE OF ACTION </p> 
 
 **§1. Ordinary civil actions, basis of.**
 
@@ -110,7 +104,7 @@ A party may in one pleading assert, in the alternative or otherwise, as many cau
 
 Misjoinder of causes of action is not a ground for dismissal of an action. A misjoined cause of action may, on motion of a party or on the initiative of the court, be severed and proceeded with separately.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 3 PARTIES TO CIVIL ACTIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 3 PARTIES TO CIVIL ACTIONS </p> 
 
 **§1. Who may be parties; plaintiff and defendant.**
 
@@ -216,7 +210,7 @@ Any adverse party may contest the grant of such authority at any time before jud
 
 In any action involving the validity of any treaty, law, ordinance, executive order, presidential decree, rules or regulations, the court, in its discretion, may require the appearance of the Solicitor General who may be heard in person or through a representative duly designated by him.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 4 VENUE OF ACTIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 4 VENUE OF ACTIONS </p> 
 
 **§1. Venue of real actions.**
 
@@ -240,25 +234,7 @@ This Rule shall not apply ­
 
 - (b) Where the parties have validly agreed in writing before the filing of the action on the exclusive venue thereof.
 
- <ins> * <span style=" color:rgba(50, 100, 65, 1);"> Hernando v. Golden Sun Finance Corporation, G.R. No. 259295 (2025 May 07) (Decision – Third Division, Inting) </span> * </ins> 
-
-- An action involving the nullification of agreements relating to real properties that includes a prayer for the recovery of possession or title to the property is a real action.
-
-- An action for the annulment or nullification of a deed of sale that includes a prayer for the:
-    - (a) plaintiff to be judicially declared as the owner, or 
-    - (b) recovery or transfer of title to or possession of real property
-- is a real action.
-
-- An action for the:
-    - (a) nullification of agreements for a loan with real property mortgage, or
-    - (b) for the sale of real property
-- without an allegation by the plaintiff that the possession or title to the real property had been transferred to the defendant is a personal action.
-
-- The language of the agreement must be so clear and categorical as to leave no doubt on the parties' intention to limit the venue of their actions.
-
-- [In addition,] To bind the parties, the venue stipulation must have been intelligently and deliberately intended by them to exclude their case from the reglementary rules on venue.
-
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 5 UNIFORM PROCEDURE IN TRIAL COURTS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 5 UNIFORM PROCEDURE IN TRIAL COURTS </p> 
 
 **§1. Uniform procedure.**
 
@@ -274,9 +250,9 @@ The term "Municipal Trial Courts" as used in these Rules shall include Metropoli
 
 ###### <span style="color:Blue"> In the works of the author, they will always be referred to as First Level Courts (FLCs). </span> 
 
- <p style="text-align:center; font-size: 18px; font-weight: bold;"> PROCEDURE IN REGIONAL TRIAL COURTS </p> 
+<p style="text-align:center; font-size: 18px; font-weight: bold;"> PROCEDURE IN REGIONAL TRIAL COURTS </p> 
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 6 KINDS OF PLEADINGS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 6 KINDS OF PLEADINGS </p> 
 
 **§1. Pleadings defined.**
 
@@ -348,7 +324,7 @@ When the presence of parties other than those to the original action is required
 
 A third (fourth, etc.)-party defendant may allege in his or her answer his or her defenses, counterclaims or cross-claims, including such defenses that the third (fourth, etc.)-party plaintiff may have against the original plaintiff’s claim. In proper cases, he [or she] may also assert a counterclaim against the original plaintiff in respect of the latter’s claim against the third-party plaintiff.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 7 PARTS AND CONTENTS OF PLEADING </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 7 PARTS AND CONTENTS OF PLEADING </p> 
 
 **§1. Caption.**
 
@@ -385,7 +361,7 @@ When one or more paragraphs in the answer are addressed to one of several causes
 
     - 4) The denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on belief or a lack of information.
 
-- (c) If the court determines, on motion or motu proprio and after notice and hearing, that this rule has been violated, it may impose an appropriate sanction or refer such violation to the proper office for disciplinary action, on any attorney, law firm, or party that violated the rule, or is responsible for the violation. Absent exceptional circumstances, a law firm shall be held jointly and severally liable for a violation committed by its partner, associate, or employee. The sanction may include, but not limited to, non-monetary directives or sanctions; an order to pay a penalty in court; or, if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of part or all of the reasonable attorney's fees and other expenses directly resulting from the violation, including attorney's fees for the filing of motion for sanction. The lawyer or law firm cannot pass on the monetary penalty to the client.
+- (c) If the court determines, on motion or *motu proprio* and after notice and hearing, that this rule has been violated, it may impose an appropriate sanction or refer such violation to the proper office for disciplinary action, on any attorney, law firm, or party that violated the rule, or is responsible for the violation. Absent exceptional circumstances, a law firm shall be held jointly and severally liable for a violation committed by its partner, associate, or employee. The sanction may include, but not limited to, non-monetary directives or sanctions; an order to pay a penalty in court; or, if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of part or all of the reasonable attorney's fees and other expenses directly resulting from the violation, including attorney's fees for the filing of motion for sanction. The lawyer or law firm cannot pass on the monetary penalty to the client.
 
 **§4. Verification.**
 
@@ -419,7 +395,7 @@ Failure to comply with the foregoing requirements shall not be curable by mere a
 
 **§6. Contents.**
 
-Every pleading stating a party's claims or defenses shall, in addition to those mandated by **§2, Rule 7, state the following:
+Every pleading stating a party's claims or defenses shall, in addition to those mandated by Section 2, Rule 7, state the following:
 
 - (a) Names of witnesses who will be presented to prove a party's claim or defense;
 
@@ -427,9 +403,9 @@ Every pleading stating a party's claims or defenses shall, in addition to those 
 
 - (c) Documentary and object evidence in support of the allegations contained in the pleading.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 8 MANNER OF MAKING ALLEGATIONS IN PLEADINGS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 8 MANNER OF MAKING ALLEGATIONS IN PLEADINGS </p> 
 
-*§1. In general.**
+**§1. In general.**
 
 Every pleading shall contain in a methodical and logical form, a plain, concise and direct statement of the ultimate facts, including the evidence on which the party pleading relies for his claim or defense, as the case may be.
 
@@ -469,7 +445,7 @@ In pleading an official document or official act, it is sufficient to aver that 
 
 **§10. Specific denial.**
 
-– A defendant must specify each material allegation of fact the truth of which he or she does not admit and, whenever practicable, shall set forth the substance of the matters upon which he or she relies to support his or her denial. Where a defendant desires to deny only a part of an averment, he or she shall specify so much of it as is true and material and shall deny only the remainder. Where a defendant is without knowledge or information sufficient to form a belief as to the truth of a material averment made [to] the complaint, he or she shall so state, and this shall have the effect of a denial.
+A defendant must specify each material allegation of fact the truth of which he or she does not admit and, whenever practicable, shall set forth the substance of the matters upon which he or she relies to support his or her denial. Where a defendant desires to deny only a part of an averment, he or she shall specify so much of it as is true and material and shall deny only the remainder. Where a defendant is without knowledge or information sufficient to form a belief as to the truth of a material averment made to the complaint, he or she shall so state, and this shall have the effect of a denial.
 
 **§11. Allegations not specifically denied deemed admitted.**
 
@@ -477,7 +453,7 @@ Material averments in a pleading asserting a claim or claims, other than those a
 
 **§12. Affirmative defenses.**
 
-- (a) A defendant shall raise his affirmative defenses in his answer, which shall be limited to the reasons set forth under **§5(b), Rule 6, and the following grounds:
+- (a) A defendant shall raise his affirmative defenses in his answer, which shall be limited to the reasons set forth under Section 5(b), Rule 6, and the following grounds:
 
     - 1) That the court has no jurisdiction over the person of the defending party;
 
@@ -491,9 +467,9 @@ Material averments in a pleading asserting a claim or claims, other than those a
 
 - (b) Failure to raise the affirmative defenses at the earliest opportunity shall constitute a waiver thereof.
 
-- (c) The court shall motu proprio resolve the above affirmative defenses within thirty (30) calendar days from the filing of the answer.
+- (c) The court shall *motu proprio* resolve the above affirmative defenses within thirty (30) calendar days from the filing of the answer.
 
-- (d) As to the other affirmative defenses under the first paragraph of **§5(b), Rule 6, the court may conduct a summary hearing within fifteen (15) calendar days from the filing of the answer. Such affirmative defenses shall be resolved by the court within thirty (30) calendar days from the termination of the summary hearing.**
+- (d) As to the other affirmative defenses under the first paragraph of Section 5(b), Rule 6, the court may conduct a summary hearing within fifteen (15) calendar days from the filing of the answer. Such affirmative defenses shall be resolved by the court within thirty (30) calendar days from the termination of the summary hearing.
 
 - (e) Affirmative defenses, if denied, shall not be the subject of a motion for reconsideration or petition for *certiorari*, prohibition or *mandamus*, but may be among the matters to be raised on appeal after a judgment on the merits.
 
@@ -501,7 +477,7 @@ Material averments in a pleading asserting a claim or claims, other than those a
 
 Upon motion made by a party before responding to a pleading or, if no responsive pleading is permitted by these Rules, upon motion made by a party within twenty (20) calendar days after the service of the pleading upon him or her, or upon the court's own initiative at any time, the court may order any pleading to be stricken out or that any sham or false, redundant, immaterial, impertinent, or scandalous matter be stricken out therefrom.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 9 EFFECT OF FAILURE TO PLEAD </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 9 EFFECT OF FAILURE TO PLEAD </p> 
 
 **§1. Defenses and objections not pleaded.**
 
@@ -525,7 +501,7 @@ If the defending party fails to answer within the time allowed therefor, the cou
 
 - (e) Where no defaults allowed. – If the defending party in action for annulment or declaration of nullity of marriage or for legal separation fails to answer, the court shall order the Solicitor General or his or her deputized public prosecutor, to investigate whether or not a collusion between the parties exists, and if there is no collusion, to intervene for the State in order to see to it that the evidence submitted is not fabricated.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 10 AMENDED AND SUPPLEMENTAL PLEADINGS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 10 AMENDED AND SUPPLEMENTAL PLEADINGS </p> 
 
 **§1. Amendments in general.**
 
@@ -537,7 +513,7 @@ A party may amend his pleading once as a matter of right at any time before a re
 
 **§3. Amendments by leave of court.**
 
-Except as provided in the next preceding Section, substantial amendments may be made only upon leave of court. But such leave shall be refused if it appears to the court that the motion was made with intent to delay or confer jurisdiction on the court, or the pleading stated no cause of action from the beginning which could be amended. Orders of the court upon the matters provided in this §shall be made upon motion filed in court, and after notice to the adverse party, and an opportunity to be heard.
+Except as provided in the next preceding Section, substantial amendments may be made only upon leave of court. But such leave shall be refused if it appears to the court that the motion was made with intent to delay or confer jurisdiction on the court, or the pleading stated no cause of action from the beginning which could be amended. Orders of the court upon the matters provided in this section shall be made upon motion filed in court, and after notice to the adverse party, and an opportunity to be heard.
 
 **§4. Formal amendments.**
 
@@ -559,7 +535,7 @@ When any pleading is amended, a new copy of the entire pleading, incorporating t
 
 An amended pleading supersedes the pleading that it amends. However, admissions in superseded pleadings may be offered in evidence against the pleader, and claims or defenses alleged therein not incorporated in the amended pleading shall be deemed waived.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 11 WHEN TO FILE RESPONSIVE PLEADINGS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 11 WHEN TO FILE RESPONSIVE PLEADINGS </p> 
 
 **§1. Answer to the complaint.**
 
@@ -587,7 +563,7 @@ The time to answer a third (fourth, etc)-party complaint shall be governed by th
 
 **§6. Reply.**
 
-A reply, if allowed under **§10, Rule 6 hereof, may be filed within fifteen (15) calendar days from service of the pleading responded to.**
+A reply, if allowed under Section 10, Rule 6 hereof, may be filed within fifteen (15) calendar days from service of the pleading responded to.
 
 **§7. Answer to supplemental complaint.**
 
@@ -611,7 +587,7 @@ A defendant may, for meritorious reasons, be granted an additional period of not
 
 A motion for extension to file any pleading, other than an answer, is prohibited and considered a mere scrap of paper. The court, however, may allow any other pleading to be filed after the time fixed by these Rules.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 12 BILL OF PARTICULARS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 12 BILL OF PARTICULARS </p> 
 
 **§1. When applied for; purpose.**
 
@@ -637,7 +613,7 @@ After service of the bill of particulars or of a more definite pleading, or afte
 
 A bill of particulars becomes part of the pleading for which it is intended.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 13 FILING AND SERVICE OF PLEADINGS, JUDGMENTS AND OTHER PAPERS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 13 FILING AND SERVICE OF PLEADINGS, JUDGMENTS AND OTHER PAPERS </p> 
 
 **§1. Coverage.**
 
@@ -651,7 +627,7 @@ Service is the act of providing a party with a copy of the pleading or any other
 
 Where several counsels appear for one party, such party shall be entitled to only one copy of any pleading or paper to be served upon the lead counsel if one is designated, or upon any one of them if there is no designation of a lead counsel.
 
-Section. 3. Manner of filing.
+**§3. Manner of filing.**
 
 The filing of pleadings and other court submissions shall be made by:
 
@@ -741,7 +717,7 @@ The filing of a pleading or any other court submission shall be proved by its ex
 
 - (c) If the pleading or any other court submission was filed through an accredited courier service, the filing shall be proven by an affidavit of service of the person who brought the pleading or other document to the service provider, together with the courier's official receipt and document tracking number.
 
-- (d) If the pleading or any other court submission was filed by electronic mail, the same shall be proven by an affidavit of electronic filing of the filing party accompanied by a paper copy of the pleading or other document transmitted or a written or stamped acknowledgment of its filing by the clerk of court. If the paper copy sent by electronic mail was filed by registered mail, paragraph (b) of this §applies.
+- (d) If the pleading or any other court submission was filed by electronic mail, the same shall be proven by an affidavit of electronic filing of the filing party accompanied by a paper copy of the pleading or other document transmitted or a written or stamped acknowledgment of its filing by the clerk of court. If the paper copy sent by electronic mail was filed by registered mail, paragraph (b) of this section applies.
 
 - (e) If the pleading or any other court submission was filed through other authorized electronic means, the same shall be proven by an affidavit of electronic filing of the filing party accompanied by a copy of the electronic acknowledgment of its filing by the court.
 
@@ -749,7 +725,7 @@ The filing of a pleading or any other court submission shall be proved by its ex
 
 Proof of personal service shall consist of a written admission of the party served, or the official return of the server, or the affidavit of the party serving, containing a statement of the date, place, and manner of service. If the service is made by:
 
-- (a) Ordinary mail. – Proof shall consist of an affidavit of the person mailing stating the facts showing compliance with **§7 of this Rule.**
+- (a) Ordinary mail. – Proof shall consist of an affidavit of the person mailing stating the facts showing compliance with Section 7 of this Rule.
 
 - (b) Registered mail. – Proof shall be made by the affidavit mentioned above and the registry receipt issued by the mailing office. The registry return card shall be filed immediately upon its receipt by the sender, or in lieu thereof, the unclaimed letter together with the certified or sworn copy of the notice given by the postmaster to the addressee.
 
@@ -761,17 +737,249 @@ Proof of personal service shall consist of a written admission of the party serv
 
 The court may electronically serve orders and other documents to all the parties in the case which shall have the same effect and validity as provided herein. A paper copy of the order or other document electronically served shall be retained and attached to the record of the case.
 
-**§19. Notice of lis pendens.**
+**§19. Notice of *lis pendens*.**
 
 In an action affecting the title or the right of possession of real property, the plaintiff and the defendant, when affirmative relief is claimed in his answer, may record in the office of the registry of deeds of the province in which the property is situated a notice of the pendency of the action. Said notice shall contain the names of the parties and the object of the action or defense, and a description of the property in that province affected thereby. Only from the time of filing such notice for record shall a purchaser, or encumbrancer of the property affected thereby, be deemed to have constructive notice of the pendency of the action, and only of its pendency against the parties designated by their real names.
 
-The notice of lis pendens hereinabove mentioned may be cancelled only upon order of the court, after proper showing that the notice is for the purpose of molesting the adverse party, or that it is not necessary to protect the rights of the party who caused it to be recorded.
+The notice of *lis pendens* hereinabove mentioned may be cancelled only upon order of the court, after proper showing that the notice is for the purpose of molesting the adverse party, or that it is not necessary to protect the rights of the party who caused it to be recorded.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 14 SUMMONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 13-A INTERIM RULE ON THE ELECTRONIC FILING AND SERVICE OF PLEADINGS, JUDGMENTS, AND OTHER PAPERS IN CIVIL CASES </p> 
+
+###### <span style="color:blue;"> Introduced by AM 19-10-20-SC through a Notice referencing a Resolution dated November 26, 2024. Access the PDF <a href="https://elibrary.judiciary.gov.ph/assets/dtSearch/document_repository/sc/admin_matter/adminmatter_pdf/[%20A.M.%20No.%2019-10-20-SC.%20November%2026,%202024%20].pdf">here</a>. </span>
+
+**§1. Coverage.**
+
+This Rule shall govern the electronic filing of all pleadings, motions, and other papers as well as their service, except those for which a different mode of service is prescribed. This Rule shall be applicable exclusively in civil cases before the first- and second-level courts, with no suppletory effect on other types of cases.
+
+**§2. Filing and service, defined.**
+
+Filing is the act of submitting a pleading or other paper to the court.
+
+Service is the act of providing a party with a copy of the pleading or any other paper. If a party has appeared by counsel, service upon such party shall be made upon their counsel, unless service upon the party and the party's counsel is ordered by the court. When one counsel appears for several parties, such counsel shall be entitled to only one copy of any paper served by the opposite side.
+
+When several counsels appear for one party, such party shall be entitled to only one copy of any pleading or paper to be served upon the lead counsel, if one is designated, or upon any one of them if there is no designation of a lead counsel. The date and time of receipt of the pleading or other paper by the lead counsel of record shall be the reckoning date and time for purposes of counting reglementary periods.
+
+**§3. Manner of filing of complaints and other initiatory pleadings.**
+
+The filing of complaints and other initiatory pleadings shall be done by:
+
+ - a. Submitting personally the original paper, plainly indicated as such, to the court;
+
+ - b. Sending the paper by registered mail; or, 
+
+ - c. Sending the paper by accredited courier. 
+
+In the case of Section 3.a., the clerk of court shall endorse the date and hour of filing of the complaint or initiatory pleading. In the case of Section 3.b. or 3.c., the date of mailing of the complaint or initiatory pleading and payments or deposits, as shown by the post office stamp on the envelope or the registry receipt, shall be considered as the date of filing, payment, or deposit in court. The envelope shall be attached to the record of the case.
+
+After the complaint or initiatory pleading has been filed through any of the three modes provided in the first paragraph of this Section, the filing party shall subsequently email the complaint or initiatory pleading in digital file format to the court. Digital copies of the additional accompanying documents of the complaint or initiatory pleading, such as annexes, appendices, or exhibits, shall likewise be emailed. The electronic transmittal of the complaint or initiatory pleading and the accompanying documents must be made within 24 hours from the completeness of the primary mode of the complaint or initiatory pleading's filing.
+
+The term "digital file format," when used to refer to pleadings, papers, and other documents, shall mean the portable document format.
+
+No court shall act upon any complaint or initiatory pleading unless the latter's filing is accompanied by the electronic transmittal required in the third paragraph of this Section. If the electronic transmittal is not completed before the period, the complaint or initiatory pleading shall be deemed not filed, regardless of the completeness of the primary mode of its filing.
+
+**§4. Manner of filing and service of pleadings subsequent to the complaint or initiatory pleading, written motion, notice, appearance, demand, offer of judgment, or similar papers.**
+
+ - a. The filing and service of non-initiatory pleadings, written motion, notice, appearance, demand, offer of judgment, or similar papers shall only be made by transmitting them in digital file format through email. The date of the electronic mailing shall be considered as the date of filing and service.
+
+ - b. Digital copies of the additional accompanying documents of non-initiatory pleadings, written motion, notice, appearance, demand, offer of judgment, or similar papers-such as annexes, appendices, or exhibits-shall likewise be filed and served through email.
+
+ - c. Non-initiatory pleadings, written motion, notice, appearance, demand, offer of judgment, and other similar papers not emailed to the court shall be deemed not filed, and those not emailed to the party or their counsel shall be deemed not served.
+
+**§5. Papers required to be filed and served.**
+
+Every pleading subsequent to the complaint, written motion, notice, appearance, demand, offer of judgment, or similar papers shall be filed with the court. These papers as well as every judgment, resolution, order, and notice issued by the court, shall likewise be served upon the parties affected, except for summons, which shall continue to be governed by Rule 14.
+
+**§6. Presumptive service.**
+
+There shall be a presumptive notice of a court setting to a party if such notice appears on the records to have been successfully emailed to the party.
+
+**§7. Email address of record.**
+
+ - a. *Notice*. A notice of appearance shall be filed in all cases containing the valid and professional email address of all counsels, their law firms, if any, and the parties they represent.
+
+ - b. *Valid email address*. An email address is deemed valid when it is in the [local-part]@[domain] syntax and is capable of receiving emails from other senders, especially those outside the address' own domain. The email addresses, as filed in the notice of appearance, shall serve as the email addresses of record of the parties and their individual counsels and law firms.
+
+ - c. *Mandatory submission of counsels' email address*. The submission of email addresses of the counsels, and their law firms, if any, shall be mandatory. The counsels of record are required to use their professional email accounts as their email addresses of record. To preserve the confidentiality, privacy, and security of communications, the use by lawyers of personal and/or nonprofessional email accounts as their email addresses of record is prohibited.
+
+ - d. *Optional submission of parties' email address; exception*. The submission of email addresses of the parties shall be optional but highly encouraged, unless they are not represented by counsel, in which case, submission is mandatory.
+
+ - e. *Electronic carbon copies*. Transmittal of all documents, filing or service by email shall include, through electronic carbon copy (CC:), all the email addresses of record of all counsels and their law firms, if any, and optionally, all parties.
+
+ - f. *Effect of non-use of email address of record*. All electronic transmittals must be made with any of the email addresses of record of the counsels of record, or that of their law firms, if any, or the e-mail address of record of the filing party. If an electronic transmittal is made with an email address not of record, the entire transmittal shall be deemed as not received until such time that the transmittal is made using a valid email address of record.
+
+ - g. *Obligation to monitor e-mail address of record*. Counsel and parties, the latter when not represented by a lawyer, have the obligation to regularly and diligently monitor the in boxes of their email addresses of record, including that of their law firms, if any, with the courts. No court shall accept as an excuse for any purpose that counsel or parties have not checked the inboxes of their email addresses of record. Any lawyer who neglects to check regularly and diligently the inbox of their email address of record shall be subjected to disciplinary action.
+
+ - h. *Change of electronic mail address*. A party or counsel who changes their email address for a compelling or justified reason while the action is pending must promptly file a notice of change of email address with the court within five calendar days from such change and serve the notice on all other parties. A lawyer who fails to comply with this rule, to the detriment of the cause of the client, shall be subjected to disciplinary action.
+
+**§8. Transmittal to official court email address.**
+
+Digital files must be transmitted by the filing party or counsel to the official email address of the court where the case is pending. A directory of the official email addresses of the lower courts maintained by the Supreme Court of the Philippines is available at https://sc.judiciary.gov.ph/court-locator/.
+
+**§9. Electronic file format.**
+
+ - a. The digital file of the primary pleading or other paper must be separated from the electronic copies in digital file format of any accompanying additional documents, each of which must be contained in their own digital files.
+
+ - b. The digital file may be electronically generated from a word processing or portable document format creation program, or be scanned images of the original document in paper compiled in a digital file, or a combination of both methods. However, in all cases, the contents must be completely legible. If the digital copy is wholly or partially generated from scanned images of the original document on paper, the filing party or counsel shall ensure that the digital copy is an exact and complete copy of the original document in paper. In case of discrepancies between the images of scanned text and any machine readable text generated using optical character recognition or similar technologies, the former shall be the controlling text. The filing party or counsel shall retain the original document for inspection by the court or other parties when necessary.
+
+ - c. The size of each digital file must be reasonable. The party or their counsel responsible for filing is also responsible for ensuring that the receiving court's official email address will not reject or block a transmittal email due to the file size of an attachment. Likewise, other parties or counsel, as recipients, are responsible for ensuring that they will be able to receive a transmittal email.
+
+ - d. The form and substance of the contents of the digital files filed in court shall be controlling. If the court determines, on motion or *motu proprio* and after notice and hearing, that there are material discrepancies between the paper copy and the electronic copy of a paper filed with the court, the court may impose an appropriate sanction or refer such finding to the proper office for disciplinary action against the lawyer, law firm, or party responsible for the filing.
+
+ - e. The digital file of a pleading or other paper shall have the same filename as its designation, in accordance with Rule 7, Section 2. At the option of the one filing, the designation of the pleading or paper may be shortened for the filename, but must still contain sufficient information to ascertain the nature of the relief sought.
+
+ - f. The digital file of each accompanying additional document, if any, shall have the same filename as the document's title, which must further be appended with the designation of the pleading or paper to which it is attached or annexed. Finally, all filenames must be appended with the docket number/s of the easels being filed. All information shall be separated with a hyphen (-). Any special characters that cannot be used in a filename by reason of technical limitations may be omitted entirely, or substituted with an underscore ( _ ), at the option of the one filing.
+
+   - *Example:*
+
+        - 
+        
+            - > The digital file for the Complaint for Unlawful Detainer for Civil Case No. 123456 should have the filename "Complaint for Unlawful Detainer- Civil Case No. 123456.pdf'
+
+            - > The digital file of Annex A of the Complaint for Unlawful Detainer for Civil Case No. 123456 should have a filename "Annex A- Complaint for Unlawful Detainer- Civil Case No. 123456.pdf'
+
+ - g. Electronic copies of pleadings and other papers transmitted to the court in the following cases: not in digital file format; transmitted as digital files with password protection or other encryption; with embedded executable code or scripts; in archive files; or as corrupted files, shall be deemed as not filed. Copies of additional accompanying documents transmitted to the court not in digital file format; as digital files with password protection or other encryption; with embedded executable code or scripts; in archive files; or as corrupted files, shall be excluded from the records or *rollo* of the easels for which they have been submitted, even if the digital file of the primary pleading or other paper has been correctly filed. The filing of digital copies not in accordance with the format and manner as stated here shall subject the filing lawyer, law firm, or party to disciplinary action or any appropriate sanction to be imposed by the court.
+
+**§10. Transmittal email format.**
+
+ - a. *Subject*. The subject of the transmittal email shall contain the docket number/s, case title/s, and the designation of the pleading or paper being transmitted, which shall indicate its nature.
+
+   - Subject: [Docket Number/s and Case Title] - Designation of the Pleading or Paper]
+
+        - *Example:*
+
+            - > Subject: Civil Case No. 123456, Maria dela Cruz v. Juan dela Cruz - Complaint for Unlawful Detainer
+
+ - b. *Body*. The body of the email shall follow the prescribed format and must contain sufficient information to enable the court to ascertain the following:
+
+   - (1) the party or parties filing the pleading or other paper;
+
+   - (2) the nature of the pleading or paper;
+
+   - (3) the party or parties against whom relief, if any, is sought; and
+
+   - (4) the nature of the relief sought:
+
+      - (i) Primary manner of filing (i.e., electronic transmittal, or personal filing, registered mail, or accredited courier)
+
+      - (ii) Filing date, which should be in the MM/DD/YYYY format (based on the primary manner of filing)
+
+      - (iii) Case data, namely:
+
+###### <span style="color:blue;">(In the original text, these subdivisions are inline. For ease of reading, they have been made into a list here.)</span>
+
+- 
+    - 
+
+        - 
+
+            - (1) docket number/s;
+
+            - (2) case title/s; (3) name of the filing party;
+
+            - (4) contact number/s of the filer;
+
+            - (5) other email address of the filer, if any; and
+
+            - (6) a list of the document titles of the attachments to the transmittal email.
+
+   - *Example:*
+
+        - 
+        
+            - > Primary manner of filing: Electronic transmittal<br>  
+            Filing date: 03/01/2024<br>  
+            Docket number: Civil Case No. 123456<br>  
+            Case Title: Maria dela Cruz v. Juan dela Cruz<br>  
+            Name of Filing Party: Juan dela Cruz<br>  
+            Contact Numbers: (02) 888-9900 (landline), 0900-1122334 (mobile)<br>  
+            Other e-mail address/es, if any: [filer's other e-mail address/es]<br>  
+            Title/s of Attachment/s:<br>  
+             1. Answer  
+             2. Acknowledgment Receipt
+
+ - c. Attachments.
+
+   - (i) A transmittal email shall contain only digital copies pertaining to one case. For the purposes of electronic submission, consolidated cases with more than one docket number shall be considered as one case. All files must be enclosed as individual attachments to the transmittal email.
+
+   - (ii) All digital files must be transmitted as direct attachments to the transmittal email, and not as external links to cloud storage, filesharing sites, or similar thereto. Digital copies must not be contained in archive files, such as ZIP (.zip) or RAR (.rar), and must not require additional extraction or conversion into portable document format. Failure to file any document as a direct attachment shall result in the document being deemed not filed.
+
+   - (iii) In case the total file size of the documents exceeds the maximum size allowed for attachments by the email service provider being used by the one filing, the filer shall transmit the electronic documents in several batches, but each email must indicated in the subject the batch number of the email and the total batches of emails sent, following the prescribed format in this Rule. It is the responsibility of the one filing to ensure that the receiving court's official email service provider will not reject or block a transmittal email due to its size. The time and date of the final transmittal email, as indicated in the sequence, shall be considered as the time and date of filing of the pleading or other paper.
+
+   - *Example:*
+        
+        - > Subject: Civil Case No. 123456, Maria dela Cruz v. Juan dela Cruz - Answer (batch 1 of 3)
+
+        - > Subject: Civil Case No. 123456, Maria dela Cruz v. Juan dela Cruz - Answer (batch 2 of 3)
+
+        - > Subject Civil Case No. 123456, Maria dela Cruz v. Juan dela Cruz - Answer (batch 3 of 3)
+
+ - d. Retention requirement. In all instances, the filing party or counsel must retain a copy of each transmittal email, in any form prescribed by pertinent rules on evidence, while the case is pending for the inspection of the court or other parties when necessary.
+
+**§11. Service of Judgments, Final Orders, or Resolutions. Judgments, final orders, or resolutions shall be served electronically by emailing digital copies to the email addresses of record of the parties and their counsels.**
+
+The date and time of delivery appearing in the internet message header of the email sent by the court shall be the date and time of receipt of the judgment, final order, or resolution. Under exceptional circumstances, the court, upon motion and hearing, may allow the inspection of headers of the court's transmittal email by a counsel or party. Motions for inspection filed on frivolous grounds shall subject the filing counsel to disciplinary action.
+
+In case the electronic service to a counsel, or a party not represented by counsel results in an email delivery failure message, the court shall attempt retransmittal to the unserved counsel twice, with a five-day interval between each attempt. If, after the second attempt, the email continues to be rejected by the receiving server, the date and time of the first successful service to the party shall be considered the date and time of receipt of counsel or party. The court shall indicate the facts and circumstances warranting the re-transmittal in the body of each re-transmittal email and shall copy all email addresses of record of the parties and their counsel as notice of the re-transmittal; provided, that if a counsel provides more than one email address of record, the first successful service to one email address shall be considered as service to all email addresses of record of that counsel.
+
+In case the electronic service to a party, represented by counsel, results in an email delivery failure message, the court shall attempt re-transmittal to the unserved party twice, with a five-day interval between each attempt. Nevertheless, the date and time of first successful service to counsel shall be controlling. The court shall indicate the facts and circumstances warranting the re-transmittal in the body of each re-transmittal e-mail and shall copy all email addresses of record of the parties and their counsel as notice of the re transmittal.
+
+When a party summoned by publication fails to appear in the action, judgments, final orders, or resolutions against them shall be served upon them also by means of publication at the expense of the prevailing party.
+
+**§12. Conventional service or filing of orders, pleadings, and other papers.**
+
+Upon motion of the filing party or counsel, a court may expressly waive the requirement of electronic transmittal of the following submissions:
+
+ - (i) annexes, appendices, exhibits, or other accompanying documents to pleadings or other court submissions not readily amenable to digitization in the prescribed digital file format; and
+
+ - (ii) sealed and confidential documents or records.
+
+These submissions may be filed either personally, by registered mail, or by accredited courier in the manner provided in Sections 3.a., 3.b., or 3.c.
+
+These submissions may likewise be served personally, by registered mail, or by accredited courier. Personal service of court submissions is made through the following modes: personal delivery of a copy to the party or to the party's counsel, or to their authorized representative named in the appropriate pleading or motion; or by leaving it in their office with their clerk, or with a person having charge thereof. If no person is found in their office, or their office is not known, or they have no office, then the copy may be delivered between the hours of 8:00 a.m. and 6:00 p.m. at the party's or counsel's residence, if known, with a person of sufficient age and discretion residing in the said residence.
+
+Service by registered mail shall be made by depositing the copy in the post office, in a sealed envelope, plainly addressed to the party or to the party's counsel at their office, if known, otherwise at their residence, if known. Postage must be fully prepaid and with instructions to the postmaster to return the mail to the sender after 10 calendar days if undelivered. If no registry service is available in the locality of either the sender or the addressee, service may be done by ordinary mail.
+
+Service by accredited courier shall be made by availing the services of a courier service duly accredited by the Supreme Court for the express delivery and/or messengerial delivery of letters or written messages and other mailable matters.
+
+The court shall ensure that all orders expressly waiving the electronic transmittal requirement for particular filings are included in the electronic case record or *rollo*.
+
+**§13. Completeness of service.**
+
+Electronic service 1s complete at the time of the electronic transmission of the document. Electronic service is not effective or complete if the party serving the document learns that it did not reach the addressee or the person to be served.
+
+In cases where the court has expressly waived the requirement of electronic transmittal under Section 12, personal service is complete upon delivery. Service by registered mail is complete upon actual receipt by the addressee or after five calendar days from the date they received the first notice of the postmaster, whichever date is earlier. Service by accredited courier is complete upon actual receipt by the addressee, or after at least two attempts to deliver by the courier service, or upon the expiration of five calendar days after the first attempt to deliver, whichever is earlier.
+
+**§14. Proof of filing.**
+
+The filing of a pleading or any other paper shall be proved by its existence in the electronic case record or *rollo*.
+
+ - a. If the complaint or initiatory pleading is not in the record but is claimed to have been filed personally, the filing shall be proven by the written or stamped acknowledgment of its filing by the clerk of court on a copy of the pleading or paper.
+
+ - b. If the complaint or initiatory pleading was filed by registered mail, the filing shall be proven by the registry receipt and by the affidavit of the person who mailed it. Such mail must contain a full statement of the date and place of deposit in the post office, in a sealed envelope addressed to the court, with postage fully prepaid, and with instructions to the postmaster to return the mail to the sender after 10 calendar days if not delivered.
+
+ - c. If the complaint or initiatory pleading was filed through an accredited courier service, the filing shall be proven by an affidavit of service of the person who brought the pleading or other paper to the service provider, together with the courier's official receipt and document tracking number.
+
+ - d. If the non-initiatory pleading or any other paper was filed by email, the same shall be proven by an affidavit of electronic filing of the filing party, accompanied by a paper copy of the pleading or other document transmitted, or electronic acknowledgment of the submission's filing by the clerk of court.
+
+ - e. The clerk of court or branch clerk of court shall have the primary responsibility of ensuring that all pleadings and other court submissions electronically transmitted to their court are properly accounted for and are included in the case record or *rollo*. A digital copy of the transmittal email clearly showing the sender and the date and time of receipt of the email by the receiving court shall be included as the cover sheet of the filing and shall form part of the case record or *rollo*.
+
+**§15. Proof of service.**
+
+Proof of service shall consist of the metadata in the email header showing the date of sending and receipt of the email in digital filing. When necessary, the court may require the filing of an affidavit of service executed by the person who sent the email, together with a printed proof of transmittal.
+
+In cases where the court has expressly waived the requirement of electronic transmittal under Section 12, proof of personal service shall consist of a written admission of the party served, or the official return of the server, or the affidavit of the party serving, containing a statement of the date, place, and manner of service.
+
+**§16. Notice of *lis pendens*.**
+
+In an action affecting the title or the right of possession of real property, the plaintiff and the defendant, when affirmative relief is claimed in their answer, may record a notice of pendency of action in the office of the registry of deeds of the province where the property is situated. The notice of !is pendens shall contain the names of the parties and the object of the action or defense, and a description of the property in the affected province. Only from the time of filing such notice for record shall a purchaser, or encumbrancer of the affected property, be deemed to have constructive notice of the pendency of the action and only of its pendency against the parties designated by their real names.
+
+The notice of *lis pendens* may be cancelled only upon order of the court, after proper showing that the notice is for the purpose of molesting the adverse party, or that it is not necessary to protect the rights of the party that recorded it.
+
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 14 SUMMONS </p>
 
 **§1. Clerk to issue summons.**
 
-Unless the complaint is on its face dismissible under **§1, Rule 9, the court shall, within five (5) calendar days from receipt of the initiatory pleading and proof of payment of the requisite legal fees, direct the clerk of court to issue the corresponding summons to the defendants.**
+Unless the complaint is on its face dismissible under Section 1, Rule 9, the court shall, within five (5) calendar days from receipt of the initiatory pleading and proof of payment of the requisite legal fees, direct the clerk of court to issue the corresponding summons to the defendants.
 
 **§2. Contents.**
 
@@ -805,7 +1013,7 @@ Failure to comply with the order shall cause the dismissal of the initiatory ple
 
 Summons shall remain valid until duly served, unless it is recalled by the court. In case of loss or destruction of summons, the court may, upon motion, issue an alias summons.
 
-There is failure of service after unsuccessful attempts to personally serve the summons on the defendant in his address indicated in the complaint. Substituted service should be in the manner provided under **§6 of this Rule.**
+There is failure of service after unsuccessful attempts to personally serve the summons on the defendant in his address indicated in the complaint. Substituted service should be in the manner provided under Section 6 of this Rule.
 
 **§5. Service in person on defendant.**
 
@@ -851,7 +1059,7 @@ If such service cannot be made upon any of the foregoing persons, it shall be ma
 
 In case the domestic juridical entity is under receivership or liquidation, service of summons shall be made on the receiver or liquidator, as the case may be.
 
-Should there be a refusal on the part of the persons above-mentioned to receive summons despite at least three (3) attempts on two (2) separate dates, service may be made electronically, if allowed by the court, as provided under **§6 of this rule.**
+Should there be a refusal on the part of the persons above-mentioned to receive summons despite at least three (3) attempts on two (2) separate dates, service may be made electronically, if allowed by the court, as provided under Section 6 of this rule.
 
 **§13. Duty of counsel of record.**
 
@@ -885,7 +1093,7 @@ Any order granting such leave shall specify a reasonable time, which shall not b
 
 **§17. Extraterritorial service.**
 
-When the defendant does not reside and is not found in the Philippines, and the action affects the personal status of the plaintiff or relates to, or the subject of which is, property within the Philippines, in which the defendant has or claims a lien or interest, actual or contingent, or in which the relief demanded consists, wholly or in part, in excluding the defendant from any interest therein, or the property of the defendant has been attached within the Philippines, service may, by leave of court, be effected out of the Philippines by personal service as under **§6; or as provided for in international conventions to which the Philippines is a party; or by publication in a newspaper of general circulation in such places and for such time as the court may order, in which case a copy of the summons and order of the court shall be sent by registered mail to the last known address of the defendant, or in any other manner the court may deem sufficient. Any order granting such leave shall specify a reasonable time, which shall not be less than sixty (60) calendar days after notice, within which the defendant must answer.**
+When the defendant does not reside and is not found in the Philippines, and the action affects the personal status of the plaintiff or relates to, or the subject of which is, property within the Philippines, in which the defendant has or claims a lien or interest, actual or contingent, or in which the relief demanded consists, wholly or in part, in excluding the defendant from any interest therein, or the property of the defendant has been attached within the Philippines, service may, by leave of court, be effected out of the Philippines by personal service as under Section 6; or as provided for in international conventions to which the Philippines is a party; or by publication in a newspaper of general circulation in such places and for such time as the court may order, in which case a copy of the summons and order of the court shall be sent by registered mail to the last known address of the defendant, or in any other manner the court may deem sufficient. Any order granting such leave shall specify a reasonable time, which shall not be less than sixty (60) calendar days after notice, within which the defendant must answer.
 
 **§18. Residents temporarily out of the Philippines.**
 
@@ -921,7 +1129,7 @@ If the service has been made by publication, service may be proved by the affida
 
 The defendant's voluntary appearance in the action shall be equivalent to service of summons. The inclusion in a motion to dismiss of other grounds aside from lack of jurisdiction over the person of the defendant shall be deemed a voluntary appearance.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 15 MOTIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 15 MOTIONS </p> 
 
 **§1. Motion defined.**
 
@@ -937,11 +1145,11 @@ When a motion is based on facts not appearing on record, the court may hear the 
 
 **§3. Contents.**
 
-[No amendment]
+A motion is an application for relief other than by a pleading.
 
-[**§4. Hearing of motion. – Deleted]*
+[*§4. Hearing of motion. – Deleted*]
 
-*§4. Non-litigious motions.**
+**§4. Non-litigious motions.**
 
 Motions which the court may act upon without prejudicing the rights of adverse parties are non-litigious motions. These motions include:
 
@@ -1001,13 +1209,13 @@ These motions shall not be set for hearing and shall be resolved by the court wi
 
 The motion shall be resolved by the court within fifteen (15) calendar days from its receipt of the opposition thereto, or upon expiration of the period to file such opposition.
 
-*Section. 6. Notice of hearing on litigious motions; discretionary.*
+**§6. Notice of hearing on litigious motions; discretionary.**
 
 The court may, in the exercise of its discretion, and if deemed necessary for its resolution, call a hearing on the motion. The notice of hearing shall be addressed to all parties concerned, and shall specify the time and date of the hearing.
 
 **§7. Proof of service necessary.**
 
-No written motion shall be acted upon by the court without proof of service thereof, pursuant to **§5(b) hereof.**
+No written motion shall be acted upon by the court without proof of service thereof, pursuant to Section 5(b) hereof.
 
 **§8. Motion day.**
 
@@ -1015,7 +1223,7 @@ Except for motions requiring immediate action, where the court decides to conduc
 
 **§9. Omnibus motion.**
 
-Subject to the provisions of **§1 of Rule 9, a motion attacking a pleading, order, judgment, or proceeding shall include all objections then available, and all objections not so included shall be deemed waived.**
+Subject to the provisions of Section 1 of Rule 9, a motion attacking a pleading, order, judgment, or proceeding shall include all objections then available, and all objections not so included shall be deemed waived.
 
 **§10. Motion for leave.**
 
@@ -1025,7 +1233,7 @@ A motion for leave to file a pleading or motion shall be accompanied by the plea
 
 The Rules applicable to pleadings shall apply to written motions so far as concerns caption, designation, signature, and other matters of form.
 
-Section. 12. Prohibited motions.
+**§12. Prohibited motions.**
 
 The following motions shall not be allowed:
 
@@ -1043,21 +1251,21 @@ The following motions shall not be allowed:
 
 - (d) Motion to suspend proceedings without a temporary restraining order or injunction issued by a higher court;
 
-- (e) Motion for extension of time to file pleadings, affidavits or any other papers, except a motion for extension to file an answer as provided by **§11, Rule 11; and
+- (e) Motion for extension of time to file pleadings, affidavits or any other papers, except a motion for extension to file an answer as provided by Section 11, Rule 11; and
 
 - (f) Motion for postponement intended for delay, except if it is based on acts of God, force majeure or physical inability of the witness to appear and testify. If the motion is granted based on such exceptions, the moving party shall be warned that the presentation of its evidence must still be terminated on the dates previously agreed upon.**
 
-A motion for postponement, whether written or oral, shall, at all times, be accompanied by the original official receipt from the office of the clerk of court evidencing payment of the postponement fee under **§21(b), Rule 141, to be submitted either at the time of the filing of said motion or not later than the next hearing date. The clerk of court shall not accept the motion unless accompanied by the original receipt.**
+A motion for postponement, whether written or oral, shall, at all times, be accompanied by the original official receipt from the office of the clerk of court evidencing payment of the postponement fee under Section 21(b), Rule 141, to be submitted either at the time of the filing of said motion or not later than the next hearing date. The clerk of court shall not accept the motion unless accompanied by the original receipt.
 
-Section. 13. Dismissal with prejudice.
+**§13. Dismissal with prejudice.**
 
 Subject to the right of appeal, an order granting a motion to dismiss or an affirmative defense that the cause of action is barred by a prior judgment or by the statute of limitations; that the claim or demand set forth in the plaintiffs pleading has been paid, waived, abandoned or otherwise extinguished; or that the claim on which the action is founded is unenforceable under the provisions of the statute of frauds, shall bar the refiling of the same action or claim.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 16 MOTION TO DISMISS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 16 MOTION TO DISMISS </p> 
 
 [Provisions either deleted or transposed]
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 17 DISMISSAL OF ACTIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 17 DISMISSAL OF ACTIONS </p> 
 
 **§1. Dismissal upon notice by plaintiff.**
 
@@ -1075,13 +1283,13 @@ If, for no justifiable cause, the plaintiff fails to appear on the date of the p
 
 The provisions of this Rule shall apply to the dismissal of any counterclaim, cross-claim, or third-party complaint. A voluntary dismissal by the claimant by notice as in [S]ection 1 of this Rule, shall be made before a responsive pleading or a motion for summary judgment is served or, if there is none, before the introduction of evidence at the trial or hearing.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 18 PRE-TRIAL </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 18 PRE-TRIAL </p> 
 
 **§1. When conducted.**
 
 After the last responsive pleading has been served and filed, the branch clerk of court shall issue, within five (5) calendar days from filing, a notice of pre-trial which shall be set not later than sixty (60) calendar days from the filing of the last responsive pleading.
 
-Section. 2. Nature and Purpose.
+**§2. Nature and Purpose.**
 
 The pre-trial is mandatory and should be terminated promptly. The court shall consider:
 
@@ -1120,7 +1328,7 @@ The failure without just cause of a party and/or counsel to bring the evidence r
 
 The branch clerk of court shall prepare the minutes of the pre-trial, which shall have the following format: (See prescribed form)
 
-Section. 3. Notice of Pre-trial.
+**§3. Notice of Pre-trial.**
 
 The notice of pre-trial shall include the dates respectively set for:
 
@@ -1132,7 +1340,7 @@ The notice of pre-trial shall include the dates respectively set for:
 
 The notice of pre-trial shall be served on counsel, or on the party who has no counsel. The counsel served with such notice is charged with the duty of notifying the party represented by him or her.
 
-Non-appearance at any of the foregoing settings shall be deemed non-compliance at the Pre-Trial and shall merit the same sanctions under **§5 hereof.**
+Non-appearance at any of the foregoing settings shall be deemed non-compliance at the Pre-Trial and shall merit the same sanctions under Section 5 hereof.
 
 **§4. Appearance of Parties.**
 
@@ -1140,7 +1348,7 @@ It shall be the duty of the parties and their counsel to appear at the pre-trial
 
 A representative may appear on behalf of a party, but shall be fully authorized in writing to enter into an amicable settlement to submit to alternative modes of dispute resolution, and to enter into stipulations or admissions of facts and documents.
 
-Section. 5. Effect of failure to appear.
+**§5. Effect of failure to appear.**
 
 When duly notified, the failure of the plaintiff and counsel to appear without valid cause when so required, pursuant to the next preceding Section, shall cause the dismissal of the action. The dismissal shall be with prejudice, unless otherwise ordered by the court. A similar failure on the part of the defendant and counsel shall be cause to allow he plaintiff to present his or her evidence ex-parte within ten (10) calendar days from termination of pre-trial, and the court to render judgment on the basis of the evidence offered.
 
@@ -1208,13 +1416,13 @@ If judicial dispute resolution fails, trial before the original court shall proc
 
 All proceedings during the court-annexed mediation and the judicial dispute resolution shall be confidential.
 
-Section. 10. Judgment after pre-trial.
+**§10. Judgment after pre-trial.**
 
-Should there be no more controverted facts, or no more genuine issue as to any material fact, or an absence of any issue, or should the answer fail to tender an issue, the court shall, without prejudice to a party moving for judgment on the pleadings under Rule 34 or summary judgment under Rule 35, motu proprio include in the pre-trial order that the case be submitted for summary judgment or judgment on the pleadings, without need of position papers or memoranda. In such cases, judgment shall be rendered within ninety (90) calendar days from termination of the pre-trial.
+Should there be no more controverted facts, or no more genuine issue as to any material fact, or an absence of any issue, or should the answer fail to tender an issue, the court shall, without prejudice to a party moving for judgment on the pleadings under Rule 34 or summary judgment under Rule 35, *motu proprio* include in the pre-trial order that the case be submitted for summary judgment or judgment on the pleadings, without need of position papers or memoranda. In such cases, judgment shall be rendered within ninety (90) calendar days from termination of the pre-trial.
 
 The order of the court to submit the case for judgment pursuant to this Rule shall not be the subject to appeal or *certiorari*.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 19 INTERVENTION </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 19 INTERVENTION </p> 
 
 **§1. Who may intervene.**
 
@@ -1232,7 +1440,7 @@ The intervenor shall file a complaint-in-intervention if he or she asserts a cla
 
 The answer to the complaint-in-intervention shall be filed within fifteen (15) calendar days from notice of the order admitting the same, unless a different period is fixed by the court.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 20 CALENDAR OF CASES </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 20 CALENDAR OF CASES </p> 
 
 **§1. Calendar of cases.**
 
@@ -1242,7 +1450,7 @@ The clerk of court, under the direct supervision of the judge, shall keep a cale
 
 The assignment of cases to the different branches of a court shall be done exclusively by raffle. The assignment shall be done in open session of which adequate notice shall be given so as to afford interested parties the opportunity to be present.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 21 SUBPOENA </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 21 SUBPOENA </p> 
 
 **§1. Subpoena and subpoena duces tecum.**
 
@@ -1300,7 +1508,7 @@ Failure by any person without adequate cause to obey a subpoena served upon him 
 
 The provisions of Sections 8 and 9 of this Rule shall not apply to a witness who resides more than one hundred (100) kilometers from his or her residence to the place where he or she is to testify by the ordinary course of travel, or to a detention prisoner if no permission of the court in which his or her case is pending was obtained.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 22 COMPUTATION OF TIME </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 22 COMPUTATION OF TIME </p> 
 
 **§1. How to compute time.**
 
@@ -1312,7 +1520,7 @@ Should an act be done which effectively interrupts the running of the period, th
 
 The day of the act that caused the interruption shall be excluded in the computation of the period.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 23 DEPOSITIONS PENDING ACTIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 23 DEPOSITIONS PENDING ACTIONS </p> 
 
 **§1. Depositions pending action, when may be taken.**
 
@@ -1344,7 +1552,7 @@ Substitution of parties does not affect the right to use depositions previously 
 
 **§6. Objections to admissibility.**
 
-Subject to the provisions of **§29 of this Rule, objections may be made at the trial or hearing to receiving in evidence any deposition or part thereof for any reason which would require the exclusion of the evidence if the witness were then present and testifying.**
+Subject to the provisions of Section 29 of this Rule, objections may be made at the trial or hearing to receiving in evidence any deposition or part thereof for any reason which would require the exclusion of the evidence if the witness were then present and testifying.
 
 **§7. Effect of taking depositions.**
 
@@ -1360,11 +1568,11 @@ At the trial or hearing, any party may rebut any relevant evidence contained in 
 
 **§10. Persons before whom depositions may be taken within the Philippines.**
 
-Within the Philippines, depositions may be taken before any judge, notary public, or the person referred to in **§14 hereof.**
+Within the Philippines, depositions may be taken before any judge, notary public, or the person referred to in Section 14 hereof.
 
 **§11. Persons before whom depositions may be taken in foreign countries.**
 
-In a foreign state or country, depositions may be taken (a) on notice before a secretary of embassy or legation, consul general, consul, vice-consul, or consular agent of the Republic of the Philippines; (b) before such person or officer as may be appointed by commission or under letters rogatory; or (c) the person referred to in **§14 hereof.**
+In a foreign state or country, depositions may be taken (a) on notice before a secretary of embassy or legation, consul general, consul, vice-consul, or consular agent of the Republic of the Philippines; (b) before such person or officer as may be appointed by commission or under letters rogatory; or (c) the person referred to in Section 14 hereof.
 
 **§12. Commission or letters rogatory.**
 
@@ -1414,7 +1622,7 @@ At any time during the taking of the deposition, on motion or petition of any pa
 
 **§19. Submission to witness; changes; signing.**
 
-When the testimony is fully transcribed, the deposition shall be submitted to the witness for examination and shall be read to or by him or her, unless such examination and reading are waived by the witness and by the parties. Any changes in form or substance which the witness desires to make shall be entered upon the deposition by the officer with a statement of the reasons given by the witness for making them. The deposition shall Page 30 of 43 then be signed by the witness, unless the parties by stipulation waive the signing or the witness is ill or cannot be found or refuses to sign. If the deposition is not signed by the witness, the officer shall sign it and state on the record the fact of the waiver or of the illness or absence of the witness or the fact of the refusal to sign together with the reason given therefor, if any, and the deposition may then be used as fully as though signed, unless on a motion to suppress under **§29(f) of this Rule, the court holds that the reasons given for the refusal to sign require rejection of the deposition in whole or in part.**
+When the testimony is fully transcribed, the deposition shall be submitted to the witness for examination and shall be read to or by him or her, unless such examination and reading are waived by the witness and by the parties. Any changes in form or substance which the witness desires to make shall be entered upon the deposition by the officer with a statement of the reasons given by the witness for making them. The deposition shall Page 30 of 43 then be signed by the witness, unless the parties by stipulation waive the signing or the witness is ill or cannot be found or refuses to sign. If the deposition is not signed by the witness, the officer shall sign it and state on the record the fact of the waiver or of the illness or absence of the witness or the fact of the refusal to sign together with the reason given therefor, if any, and the deposition may then be used as fully as though signed, unless on a motion to suppress under Section 29(f) of this Rule, the court holds that the reasons given for the refusal to sign require rejection of the deposition in whole or in part.
 
 **§20. Certification and filing by officer.**
 
@@ -1422,7 +1630,7 @@ The officer shall certify on the deposition that the witness was duly sworn to b
 
 **§21. Notice of filing.**
 
-– The officer taking the deposition shall give prompt notice of its filing to all the parties.
+The officer taking the deposition shall give prompt notice of its filing to all the parties.
 
 **§22. Furnishing copies.**
 
@@ -1452,7 +1660,7 @@ When a deposition upon interrogatories is filed, the officer taking it shall pro
 
 After the service of the interrogatories and prior to the taking of the testimony of the deponent, the court in which the action is pending, on motion promptly made by a party or a deponent, and for good cause shown, may make any order specified in [S]ections 15, 16 and 18 of this Rule which is appropriate and just or an order that the deposition shall not be taken before the officer designated in the notice or that it shall not be taken except upon oral examination.
 
-**§29. Effect of errors and irregularities in depositions. *
+**§29. Effect of errors and irregularities in depositions.**
 
 - (a) As to notice. – All errors and irregularities in the notice for taking a deposition are waived unless written objection is promptly served upon the party giving the notice.
 
@@ -1466,9 +1674,9 @@ After the service of the interrogatories and prior to the taking of the testimon
 
 - (f) As to manner of preparation. – Errors and irregularities in the manner in which the testimony is transcribed or the deposition is prepared, signed, certified, sealed, indorsed, transmitted, filed, or otherwise dealt with by the officer under Sections 17, 19, 20 and 26 of this Rules are waived unless a motion to suppress the deposition or some part thereof is made with reasonable promptness after such defect is, or with due diligence might have been, ascertained.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 24 DEPOSITIONS BEFORE ACTION OR PENDING APPEAL </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 24 DEPOSITIONS BEFORE ACTION OR PENDING APPEAL </p> 
 
-*§1. Depositions before action; petition.**
+**§1. Depositions before action; petition.**
 
 A person who desires to perpetuate his or her own testimony or that of another person regarding any matter that may be cognizable in any court of the Philippines, may file a verified petition in the court of the place of the residence of any expected adverse party.
 
@@ -1496,7 +1704,7 @@ If a deposition to perpetuate testimony is taken under this Rule, or if, althoug
 
 If an appeal has been taken from a judgment of a court, including the Court of Appeals in proper cases, or before the taking of an appeal if the time therefor has not expired, the court in which the judgment was rendered may allow the taking of depositions of witnesses to perpetuate their testimony for use in the event of further proceedings in the said court. In such case the party who desires to perpetuate the testimony may make a motion in the said court for leave to take the depositions, upon the same notice and service thereof as if the action was pending therein. The motion shall state (a) the names and addresses of the persons to be examined and the substance of the testimony which he or she expects to elicit from each; and (b) the reason for perpetuating their testimony. If the court finds that the perpetuation of the testimony is proper to avoid a failure or delay of justice, it may make an order allowing the depositions to be taken, and thereupon the depositions may be taken and used in the same manner and under the same conditions as are prescribed in these Rules for depositions taken in pending actions.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 25 INTERROGATORIES TO PARTIES </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 25 INTERROGATORIES TO PARTIES </p> 
 
 **§1. Interrogatories to parties; service thereof.**
 
@@ -1516,13 +1724,13 @@ No party may, without leave of court, serve more than one set of interrogatories
 
 **§5. Scope and use of interrogatories.**
 
-Interrogatories may relate to any matters that can be inquired into under **§2 of Rule 23, and the answers may be used for the same purposes provided in §4 of the same Rule.**
+Interrogatories may relate to any matters that can be inquired into under Section 2 of Rule 23, and the answers may be used for the same purposes provided in Section 4 of the same Rule.
 
 **§6. Effect of failure to serve written interrogatories.**
 
 Unless thereafter allowed by the court for good cause shown and to prevent a failure of justice, a party not served with written interrogatories may not be compelled by the adverse party to give testimony in open court, or to give a deposition pending appeal.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 26 ADMISSION BY ADVERSE PARTY </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 26 ADMISSION BY ADVERSE PARTY </p> 
 
 **§1. Request for admission.**
 
@@ -1546,7 +1754,7 @@ The court may allow the party making an admission under this Rule, whether expre
 
 Unless otherwise allowed by the court for good cause shown and to prevent a failure of justice, a party who fails to file and serve a request for admission on the adverse party of material and relevant facts at issue which are, or ought to be, within the personal knowledge of the latter, shall not be permitted to present evidence on such facts.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 27 PRODUCTION OR INSPECTION OF DOCUMENTS OR THINGS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 27 PRODUCTION OR INSPECTION OF DOCUMENTS OR THINGS </p> 
 
 **§1. Motion for production or inspection; order.**
 
@@ -1556,7 +1764,7 @@ Upon motion of any party showing good cause therefor, the court in which an acti
 
 - (b) order any party to permit entry upon designated land or other property in his or her possession or control for the purpose of inspecting, measuring, surveying, or photographing the property or any designated relevant object or operation thereon. The order shall specify the time, place and manner of making the inspection and taking copies and photographs, and may prescribe such terms and conditions as are just. 
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 28 PHYSICAL AND MENTAL EXAMINATION OF PERSONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 28 PHYSICAL AND MENTAL EXAMINATION OF PERSONS </p> 
 
 **§1. When examination may be ordered.**
 
@@ -1574,7 +1782,7 @@ If requested by the party examined, the party causing the examination to be made
 
 By requesting and obtaining a report of the examination so ordered or by taking the deposition of the examiner, the party examined waives any privilege he or she may have in that action or any other involving the same controversy, regarding the testimony of every other person who has examined or may thereafter examine him or her in respect of the same mental or physical examination.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 29 REFUSAL TO COMPLY WITH MODES OF DISCOVERY </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 29 REFUSAL TO COMPLY WITH MODES OF DISCOVERY </p> 
 
 **§1. Refusal to answer.**
 
@@ -1590,7 +1798,7 @@ If a party or other witness refuses to be sworn or refuses to answer any questio
 
 **§3. Other consequences.**
 
-If any party or an officer or managing agent of a party refuses to obey an order made under **§1 of this Rule requiring him or her to answer designated questions, or an order under Rule 27 to produce any document or other thing for inspection, copying, or photographing or to permit it to be done, or to permit entry upon land or other property, or an order made under Rule 28 requiring him or her to submit to a physical or mental examination, the court may make such orders in regard to the refusal as are just, and among others the following:
+If any party or an officer or managing agent of a party refuses to obey an order made under Section 1 of this Rule requiring him or her to answer designated questions, or an order under Rule 27 to produce any document or other thing for inspection, copying, or photographing or to permit it to be done, or to permit entry upon land or other property, or an order made under Rule 28 requiring him or her to submit to a physical or mental examination, the court may make such orders in regard to the refusal as are just, and among others the following:
 
 - (a) An order that the matters regarding which the questions were asked, or the character or description of the thing or land, or the contents of the paper, or the physical or mental condition of the party, or any other designated facts shall be taken to be established for the purposes of the action in accordance with the claim of the party obtaining the order;
 
@@ -1612,7 +1820,7 @@ If a party or an officer or managing agent of a party willfully fails to appear 
 
 Expenses and attorney’s fees are not to be imposed upon the Republic of the Philippines under this Rule.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 30 TRIAL </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 30 TRIAL </p> 
 
 **§1. Schedule of trial.**
 
@@ -1620,13 +1828,13 @@ The parties shall strictly observe the scheduled hearings as agreed upon and set
 
 - (a) The schedule of the trial dates, for both plaintiff and defendant, shall be continuous and within the following periods:
 
-1) * i. The initial presentation of plaintiff s evidence shall be set not later than thirty (30) calendar days after the termination of the pre-trial conference. Plaintiff shall be allowed to present its evidence within a period of three (3) months or ninety (90) calendar days which shall include the date of the judicial dispute resolution, if necessary;
+    - i. The initial presentation of plaintiff s evidence shall be set not later than thirty (30) calendar days after the termination of the pre-trial conference. Plaintiff shall be allowed to present its evidence within a period of three (3) months or ninety (90) calendar days which shall include the date of the judicial dispute resolution, if necessary;
 
-2) * ii. The initial presentation of defendant's evidence shall be set not later than thirty (30) calendar days after the court's ruling on plaintiffs formal offer of evidence. The defendant shall be allowed to present its evidence within a period of three (3) months or ninety (90) calendar days;
+    - ii. The initial presentation of defendant's evidence shall be set not later than thirty (30) calendar days after the court's ruling on plaintiffs formal offer of evidence. The defendant shall be allowed to present its evidence within a period of three (3) months or ninety (90) calendar days;
 
-3) * iii. The period for the presentation of evidence on the third (fourth, etc.) -party claim, counterclaim or cross-claim shall be determined by the court, the total of which shall in no case exceed ninety (90) calendar days; and
+    - iii. The period for the presentation of evidence on the third (fourth, etc.) -party claim, counterclaim or cross-claim shall be determined by the court, the total of which shall in no case exceed ninety (90) calendar days; and
 
-4) * iv. If deemed necessary, the court shall set the presentation of the parties' respective rebuttal evidence, which shall be completed within a period of thirty (30) calendar days.
+    - iv. If deemed necessary, the court shall set the presentation of the parties' respective rebuttal evidence, which shall be completed within a period of thirty (30) calendar days.
 
 - (b) The trial dates may be shortened depending on the number of witnesses to be presented, provided that the presentation of evidence of all parties shall be terminated within a period of ten (10) months or three hundred (300) calendar days. If there are no third (fourth, etc.)-party claim, counterclaim or cross-claim, the presentation of evidence shall be terminated within a period of six (6) months or one hundred eighty (180) calendar days.
 
@@ -1638,21 +1846,21 @@ A court may adjourn a trial from day to day, and to any stated time, as the expe
 
 The party who caused the postponement is warned that the presentation of its evidence must still be terminated on the remaining dates previously agreed upon.
 
-[**§3. Requisites of motion to postpone trial for absence of evidence. – Deleted]*
+[*§3. Requisites of motion to postpone trial for absence of evidence. – Deleted*]
 
-*§3. Requisites of motion to postpone trial for illness of party or counsel.**
+**§3. Requisites of motion to postpone trial for illness of party or counsel.**
 
 A motion to postpone a trial on the ground of illness of a party or counsel may be granted if it appears upon affidavit or sworn certification that the presence of such party or counsel at the trial is indispensable and that the character of his or her illness is such as to render his or her non-attendance excusable.
 
 **§4. Hearing days and calendar call.**
 
-Trial shall be held from Monday to Thursday, and courts shall call the cases at exactly 8:30 a.m. and 2:00 p.m., pursuant to Administrative Circular No. 3-99. Hearing on motions shall be held on Fridays, pursuant to **§8, Rule 15.**
+Trial shall be held from Monday to Thursday, and courts shall call the cases at exactly 8:30 a.m. and 2:00 p.m., pursuant to Administrative Circular No. 3-99. Hearing on motions shall be held on Fridays, pursuant to Section 8, Rule 15.
 
 All courts shall ensure the posting of their court calendars outside their courtrooms at least one (1) day before the scheduled hearings, pursuant to OCA Circular No. 250-2015.
 
 **§5. Order of trial.**
 
-Subject to the provisions of **§2 of Rule 31, and unless the court for special reasons otherwise directs, the trial shall be limited to the issues stated in the pre-trial order and shall proceed as follows:
+Subject to the provisions of Section 2 of Rule 31, and unless the court for special reasons otherwise directs, the trial shall be limited to the issues stated in the pre-trial order and shall proceed as follows:
 
 - (a) The plaintiff shall adduce evidence in support of his or her complaint;
 
@@ -1666,7 +1874,7 @@ Subject to the provisions of **§2 of Rule 31, and unless the court for special 
 
 - (f) The parties may then respectively adduce rebutting evidence only, unless the court, for good reasons and in the furtherance of justice, permits them to adduce evidence upon their original case; and
 
-- (g) Upon admission of the evidence, the case shall be deemed submitted for decision, unless the court directs the parties to argue or to submit their respective memoranda or any further pleadings.**
+- (g) Upon admission of the evidence, the case shall be deemed submitted for decision, unless the court directs the parties to argue or to submit their respective memoranda or any further pleadings.
 
 If several defendants or third-party defendants, and so forth, having separate defenses appear by different counsel, the court shall determine the relative order of presentation of their evidence.
 
@@ -1680,9 +1888,9 @@ The parties to any action may agree, in writing, upon the facts involved in the 
 
 If the parties agree only on some of the facts in issue, the trial shall be held as to the disputed facts in such order as the court shall prescribe.
 
-[**§7. Statement of judge. – Deleted]*
+[*§7. Statement of judge. – Deleted*]
 
-*§8. Suspension of actions.**
+**§8. Suspension of actions.**
 
 The suspension of actions shall be governed by the provisions of the Civil Code and other laws.
 
@@ -1690,7 +1898,7 @@ The suspension of actions shall be governed by the provisions of the Civil Code 
 
 The judge of the court where the case is pending shall personally receive the evidence to be adduced by the parties. However, in default or ex parte hearings, and in any case where the parties agree in writing, the court may delegate the reception of evidence to its clerk of court who is a member of the bar. The clerk of court shall have no power to rule on objections to any question or to the admission of exhibits, which objections shall be resolved by the court upon submission of his or her report and the transcripts within ten (10) calendar days from termination of the hearing.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 31 CONSOLIDATION OR SEVERANCE </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 31 CONSOLIDATION OR SEVERANCE </p> 
 
 **§1. Consolidation.**
 
@@ -1700,7 +1908,7 @@ When actions involving a common question of law or fact are pending before the c
 
 The court, in furtherance of convenience or to avoid prejudice, may order a separate trial of any claim, cross-claim, counterclaim, or third-party complaint, or of any separate issue or of any number of claims, cross[-]claims, counterclaims, third-party complaints or issues.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 32 TRIAL BY COMMISSIONER </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 32 TRIAL BY COMMISSIONER </p> 
 
 **§1. Reference by consent.**
 
@@ -1760,7 +1968,7 @@ When the parties stipulate that a commissioner’s findings of fact shall be fin
 
 The court shall allow the commissioner such reasonable compensation as the circumstances of the case warrant, to be taxed as costs against the defeated party, or apportioned, as justice requires.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 33 DEMURRER TO EVIDENCE </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 33 DEMURRER TO EVIDENCE </p> 
 
 **§1. Demurrer to evidence.**
 
@@ -1772,7 +1980,7 @@ A demurrer to evidence shall be subject to the provisions of Rule 15.
 
 The order denying the demurrer to evidence shall not be subject of an appeal or petition for *certiorari*, prohibition or *mandamus* before judgment.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 34 JUDGMENT ON THE PLEADINGS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 34 JUDGMENT ON THE PLEADINGS </p> 
 
 **§1. Judgment on the pleadings.**
 
@@ -1780,11 +1988,11 @@ Where an answer fails to tender an issue, or otherwise admits the material alleg
 
 **§2. Action on motion for judgment on the pleadings.**
 
-The court may motu proprio or on motion render judgment on the pleadings if it is apparent that the answer fails to tender an issue, or otherwise admits the material allegations of the adverse party's pleadings. Otherwise, the motion shall be subject to the provisions of Rule 15 of these Rules.
+The court may *motu proprio* or on motion render judgment on the pleadings if it is apparent that the answer fails to tender an issue, or otherwise admits the material allegations of the adverse party's pleadings. Otherwise, the motion shall be subject to the provisions of Rule 15 of these Rules.
 
 Any action of the court on a motion for judgment on the pleadings shall not be subject of an appeal or petition for *certiorari*, prohibition or *mandamus*.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 35 SUMMARY JUDGMENTS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 35 SUMMARY JUDGMENTS </p> 
 
 **§1. Summary judgment for claimant.**
 
@@ -1812,7 +2020,7 @@ Supporting and opposing affidavits shall be made on personal knowledge, shall se
 
 Should it appear to its satisfaction at any time that any of the affidavits presented pursuant to this Rule are presented in bad faith, or solely for the purpose of delay, the court shall forthwith order the offending party or counsel to pay to the other party the amount of the reasonable expenses which the filing of the affidavits caused him or her to incur, including attorney's fees, it may, after hearing further adjudge the offending party or counsel guilty of contempt.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 36 JUDGMENTS, FINAL ORDERS AND ENTRY THEREOF </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 36 JUDGMENTS, FINAL ORDERS AND ENTRY THEREOF </p> 
 
 **§1. Rendition of judgments and final orders.**
 
@@ -1838,7 +2046,7 @@ When more than one claim for relief is presented in an action, the court, at any
 
 When judgment is rendered against two or more persons sued as an entity without juridical personality, the judgment shall set out their individual or proper names, if known.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 37 NEW TRIAL OR RECONSIDERATIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 37 NEW TRIAL OR RECONSIDERATIONS </p> 
 
 **§1. Grounds of and period for filing motion for new trial or reconsideration.**
 
@@ -1854,7 +2062,7 @@ Within the same period, the aggrieved party may also move for reconsideration up
 
 The motion shall be made in writing stating the ground or grounds therefor, a written notice of which shall be served by the movant on the adverse party.
 
-A motion for new trial shall be proved in the manner provided for proof of motion. A motion for the cause mentioned in paragraph (a) of the preceding §shall be supported by affidavits of merits which may be rebutted by affidavits. A motion for the cause mentioned in paragraph (b) shall be supported by affidavits of the witnesses by whom such evidence is expected to be given, or by duly authenticated documents which are proposed to be introduced in evidence.
+A motion for new trial shall be proved in the manner provided for proof of motion. A motion for the cause mentioned in paragraph (a) of the preceding section shall be supported by affidavits of merits which may be rebutted by affidavits. A motion for the cause mentioned in paragraph (b) shall be supported by affidavits of the witnesses by whom such evidence is expected to be given, or by duly authenticated documents which are proposed to be introduced in evidence.
 
 A motion for reconsideration shall point out a specifically the findings or conclusions of the judgment or final order which are not supported by the evidence or which are contrary to law making express reference to the testimonial or documentary evidence or to the provisions of law alleged to be contrary to such findings or conclusions.
 
@@ -1890,7 +2098,7 @@ When less than all of the issues are ordered retried, the court may either enter
 
 An order denying a motion for new trial or reconsideration is not appealed, the remedy being an appeal from the judgment or final order.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 38 RELIEF FROM JUDGMENTS, ORDERS, OR OTHER PROCEEDINGS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 38 RELIEF FROM JUDGMENTS, ORDERS, OR OTHER PROCEEDINGS </p> 
 
 **§1. Petition for relief from judgment, order, or other proceedings.**
 
@@ -1920,7 +2128,7 @@ After the filing of the answer or the expiration of the period therefor, the cou
 
 Where the denial of an appeal is set aside, the lower court shall be required to give due course to the appeal and to elevate the record of the appealed case as if a timely and proper appeal had been made.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 39 EXECUTION, SATISFACTION AND EFFECT OF JUDGMENTS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 39 EXECUTION, SATISFACTION AND EFFECT OF JUDGMENTS </p> 
 
 **§1. Execution upon judgments or final orders.**
 
@@ -1934,15 +2142,15 @@ The appellate court may, on motion in the same case, when the interest of justic
 
 - (a) Execution of a judgment or final order pending appeal. – On motion of the prevailing party with notice to the adverse party filed in the trial court while it has jurisdiction over the case and is in possession of either the original record or the record on appeal, as the case may be, at the time of the filing of such motion, said court may, in its discretion, order execution of a judgment or final order even before the expiration of the period to appeal.
 
-After the trial court has lost jurisdiction the motion for execution pending appeal may be filed in the appellate court.
+    - After the trial court has lost jurisdiction the motion for execution pending appeal may be filed in the appellate court.
 
-Discretionary execution may only issue upon good reasons to be stated in a special order after due hearing.
+    - Discretionary execution may only issue upon good reasons to be stated in a special order after due hearing.
 
 - (b) Execution of several, separate or partial judgments. – A several, separate or partial judgment may be executed under the same terms and conditions as execution of a judgment or final order pending appeal.
 
 **§3. Stay of discretionary execution.**
 
-Discretionary execution issued under the preceding §may be stayed upon approval by the proper court of a sufficient supersedeas bond filed by the party against whom it is directed, conditioned upon the performance of the judgment or order allowed to be executed in case it shall be finally sustained in whole or in part. The bond thus given may be proceeded against on motion with notice to the surety.
+Discretionary execution issued under the preceding section may be stayed upon approval by the proper court of a sufficient supersedeas bond filed by the party against whom it is directed, conditioned upon the performance of the judgment or order allowed to be executed in case it shall be finally sustained in whole or in part. The bond thus given may be proceeded against on motion with notice to the surety.
 
 **§4. Judgments not stayed by appeal.**
 
@@ -1996,25 +2204,25 @@ The writ of execution shall:
 
 - (a) *Immediate payment on demand*. – The officer shall enforce an execution of a judgment for money by demanding from the judgment obligor the immediate payment of the full amount stated in the writ of execution and all lawful fees. The judgment obligor shall pay in cash, certified bank check payable to the judgment obligee, or any other form of payment acceptable to the latter, the amount of the judgment debt under proper receipt directly to the judgment obligee or his authorized representative if present at the time of payment. The lawful fees shall be handed under proper receipt to the executing sheriff who shall turn over the said amount within the same day to the clerk of court of the court that issued the writ.
 
-If the judgment obligee or his authorized representative is not present to receive payment, the judgment obligor shall deliver the aforesaid payment to the executing sheriff. The latter shall turn over all the amounts coming into his possession within the same day to the clerk of court of the court that issued the writ, or if the same is not practicable, deposit said amounts to a fiduciary account in the nearest government depository bank of the Regional Trial Court of the locality.
+    - If the judgment obligee or his authorized representative is not present to receive payment, the judgment obligor shall deliver the aforesaid payment to the executing sheriff. The latter shall turn over all the amounts coming into his possession within the same day to the clerk of court of the court that issued the writ, or if the same is not practicable, deposit said amounts to a fiduciary account in the nearest government depository bank of the Regional Trial Court of the locality.
 
-The clerk of said court shall thereafter arrange for the remittance of the deposit to the account of the court that issued the writ whose clerk of court shall then deliver said payment to the judgment obligee in satisfaction of the judgment. The excess, if any, shall be delivered to the judgment obligor while the lawful fees shall be retained by the clerk of court for disposition as provided by law. In no case shall the executing sheriff demand that any payment by check be made payable to him.
+    - The clerk of said court shall thereafter arrange for the remittance of the deposit to the account of the court that issued the writ whose clerk of court shall then deliver said payment to the judgment obligee in satisfaction of the judgment. The excess, if any, shall be delivered to the judgment obligor while the lawful fees shall be retained by the clerk of court for disposition as provided by law. In no case shall the executing sheriff demand that any payment by check be made payable to him.
 
 - (b) *Satisfaction by levy*. – If the judgment obligor cannot pay all or part of the obligation in cash, certified bank check or other mode of payment acceptable to the judgment obligee, the officer shall levy upon the properties of the judgment obligor of every kind and nature whatsoever which may be disposed, of for value and not otherwise exempt from execution giving the latter the option to immediately choose which property or part thereof may be levied upon, sufficient to satisfy the judgment. If the judgment obligor does not exercise the option, the officer shall first levy on the personal properties, if any, and then on the real properties if the personal properties are insufficient to answer for the judgment.
 
-The sheriff shall sell only a sufficient portion of the personal or real property of the judgment obligor which has been levied upon.
+    - The sheriff shall sell only a sufficient portion of the personal or real property of the judgment obligor which has been levied upon.
 
-When there is more property of the judgment obligor than is sufficient to satisfy the judgment and lawful fees, he must sell only so much of the personal or real property as is sufficient to satisfy the judgment and lawful fees.
+    - When there is more property of the judgment obligor than is sufficient to satisfy the judgment and lawful fees, he must sell only so much of the personal or real property as is sufficient to satisfy the judgment and lawful fees.
 
-Real property, stocks, shares, debts, credits, and other personal property, or any interest in either real or personal property, may be levied upon in like manner and with like effect as under a writ of attachment.
+    - Real property, stocks, shares, debts, credits, and other personal property, or any interest in either real or personal property, may be levied upon in like manner and with like effect as under a writ of attachment.
 
 - (c) *Garnishment of debts and credits*. – The officer may levy on debts due the judgment obligor and other credits, including bank deposits, financial interests, royalties, commissions and other personal property not capable of manual delivery in the possession or control of third parties. Levy shall be made by serving notice upon the person owing such debts or having in his possession or control such credits to which the judgment obligor is entitled. The garnishment shall cover only such amount as will satisfy the judgment and all lawful fees.
 
-The garnishee shall make a written report to the court within five (5) days from service of the notice of garnishment stating whether or not the judgment obligor has sufficient funds or credits to satisfy the amount of the judgment. If not, the report shall state how much funds or credits the garnishee holds for the judgment obligor. The garnished amount in cash, or certified bank check issued in the name of the judgment obligee, shall be delivered directly to the judgment obligee within ten (10) working days from service of notice on said garnishee requiring such delivery, except the lawful fees which shall be paid directly to the court.
+    - The garnishee shall make a written report to the court within five (5) days from service of the notice of garnishment stating whether or not the judgment obligor has sufficient funds or credits to satisfy the amount of the judgment. If not, the report shall state how much funds or credits the garnishee holds for the judgment obligor. The garnished amount in cash, or certified bank check issued in the name of the judgment obligee, shall be delivered directly to the judgment obligee within ten (10) working days from service of notice on said garnishee requiring such delivery, except the lawful fees which shall be paid directly to the court.
 
-In the event there are two or more garnishees holding deposits or credits sufficient to satisfy the judgment, the judgment obligor, if available, shall have the right to indicate the garnishee or garnishees who shall be required to deliver the amount due, otherwise, the choice shall be made by the judgment obligee.
+    - In the event there are two or more garnishees holding deposits or credits sufficient to satisfy the judgment, the judgment obligor, if available, shall have the right to indicate the garnishee or garnishees who shall be required to deliver the amount due, otherwise, the choice shall be made by the judgment obligee.
 
-The executing sheriff shall observe the same procedure under paragraph (a) with respect to delivery of payment to the judgment obligee.
+    - The executing sheriff shall observe the same procedure under paragraph (a) with respect to delivery of payment to the judgment obligee.
 
 **§10. Execution of judgments for specific act.**
 
@@ -2066,7 +2274,7 @@ Except as otherwise expressly provided by law, the following property, and no ot
 
 - (m) Properties specially exempted by law.
 
-But no article or species of property mentioned in this §shall be exempt from execution issued upon a judgment recovered for its price or upon a judgment of foreclosure of a mortgage thereon.
+But no article or species of property mentioned in this section shall be exempt from execution issued upon a judgment recovered for its price or upon a judgment of foreclosure of a mortgage thereon.
 
 **§14. Return of writ of execution.**
 
@@ -2082,7 +2290,7 @@ Before the sale of property on execution, notice thereof must be given as follow
 
 - (c) In case of real property, by posting for twenty (20) days in the three (3) public places abovementioned a similar notice particularly describing the property and stating where the property is to be sold, and if the assessed value of the property exceeds fifty thousand (P50,000.00) pesos, by publishing a copy of the notice once a week for two (2) consecutive weeks in one newspaper selected by raffle, whether in English, Filipino, or any major regional language published, edited and circulated or, in the absence thereof, having general circulation in the province or city;
 
-- (d) In all cases, written notice of the sale shall be given to the judgment obligor, at least three (3) days before the sale, except as provided in paragraph (a) hereof where notice shall be given the same manner as personal service of pleadings and other papers as provided by §6 of Rule 13.
+- (d) In all cases, written notice of the sale shall be given to the judgment obligor, at least three (3) days before the sale, except as provided in paragraph (a) hereof where notice shall be given the same manner as personal service of pleadings and other papers as provided by Section 6 of Rule 13.
 
 The notice shall specify the place, date and exact time of the sale which should not be earlier than nine o'clock in the morning and not later than two o'clock in the afternoon. The place of the sale may be agreed upon by the parties. In the absence of such agreement, the sale of the property or personal property not capable of manual delivery shall be held in the office of the clerk of court of the Regional Trial Court or the Municipal Trial Court which issued the writ of or which was designated by the appellate court. In the case of personal property capable of manual delivery, the sale shall be held in the place where the property is located.
 
@@ -2096,7 +2304,7 @@ When the writ of execution is issued in favor of the Republic of the Philippines
 
 **§17. Penalty for selling without notice, or removing or defacing notice.**
 
-An officer selling without the notice prescribed by §15 of this Rule shall be liable to pay punitive damages in the amount of five thousand (P5,000.00) pesos to any person injured thereby, in addition to his actual damages, both to be recovered by motion in the same action; and a person willfully removing or defacing the notice posted, if done before the sale, or before the satisfaction of the judgment if it be satisfied before the sale, shall be liable to pay five thousand (P5,000.00) pesos to any person injured by reason thereof, in addition to his actual damages, to be recovered by motion in the same action.
+An officer selling without the notice prescribed by Section 15 of this Rule shall be liable to pay punitive damages in the amount of five thousand (P5,000.00) pesos to any person injured thereby, in addition to his actual damages, both to be recovered by motion in the same action; and a person willfully removing or defacing the notice posted, if done before the sale, or before the satisfaction of the judgment if it be satisfied before the sale, shall be liable to pay five thousand (P5,000.00) pesos to any person injured by reason thereof, in addition to his actual damages, to be recovered by motion in the same action.
 
 **§18. No sale if judgment and costs paid.**
 
@@ -2204,7 +2412,7 @@ A party or other person may be compelled, by an order or subpoena, to attend bef
 
 **§39. Obligor may pay execution against obligee.**
 
-After a writ of execution against property has been issued, a person indebted to the judgment obligor may pay to the sheriff holding the writ of execution the amount of his debt or so much thereof as may be necessary to satisfy the judgment, in the manner prescribed in §9 of this Rule, and the sheriff's receipt shall be a sufficient discharge for the amount so paid or directed to be credited by the judgment obligee on the execution.
+After a writ of execution against property has been issued, a person indebted to the judgment obligor may pay to the sheriff holding the writ of execution the amount of his debt or so much thereof as may be necessary to satisfy the judgment, in the manner prescribed in Section 9 of this Rule, and the sheriff's receipt shall be a sufficient discharge for the amount so paid or directed to be credited by the judgment obligee on the execution.
 
 **§40. Order for application of property and income to satisfaction of judgment.**
 
@@ -2256,24 +2464,9 @@ The effect of a judgment or final order of a tribunal of a foreign country, havi
 
 - (c) In either case, the judgment or final order may be repelled by evidence of a want of jurisdiction, want of notice to the party, collusion, fraud, or clear mistake of law or fact.
 
- <ins> * <span style=" color:rgba(50, 100, 65, 1);"> Hernando v. Golden Sun Finance Corporation, G.R. No. 259295 (2025 May 07) (Decision – Third Division, Inting) </span> * </ins> 
+<p style="text-align:center; font-size: 18px; font-weight: bold;"> APPEALS </p> 
 
-- Until a judgment has been fully satisfied, the case in which an execution has been issued is regarded as still pending. Therefore, all proceedings on the execution are proceedings in the suit.
-
-- Generally, any controversy in the execution of judgment should be referred to the court which issued the writ of execution.
-
-- If the sheriff:
-    - (a) committed an irregularity in the implementation of a writ of execution, or 
-    - (b) exceeded their authority,
-- then the proper remedy is to move for relief from the same court that issued the judgment.
-
-- After a judgment has been fully satisfied, the case is deemed terminated once and for all and the trial court is deemed to have lost jurisdiction over the proceedings. The only available remedy to the judgment debtor is to file a separate action for the annulment of the auction sale with the appropriate court.
-
-- The sheriff's failure to observe the specific order by which the property of a judgment debtor may be executed upon may render the levy and the execution sale invalid, unless the judgment debtor acceded.
-
- <p style="text-align:center; font-size: 18px; font-weight: bold;"> APPEALS </p> 
-
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 40 APPEAL FROM MUNICIPAL TRIAL COURTS TO THE REGIONAL TRIAL COURTS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 40 APPEAL FROM MUNICIPAL TRIAL COURTS TO THE REGIONAL TRIAL COURTS </p> 
 
 **§1. Where to appeal.**
 
@@ -2291,13 +2484,13 @@ The appeal is taken by filing a notice of appeal with the court that rendered th
 
 A record on appeal shall be required only in special proceedings and in other cases of multiple or separate appeals.
 
-The form and contents of the record on appeal shall be as provided in §6, Rule 41.
+The form and contents of the record on appeal shall be as provided in Section 6, Rule 41.
 
 Copies of the notice of appeal, and the record on appeal where required, shall be served on the adverse party.
 
 **§4. Perfection of appeal; effect thereof.**
 
-The perfection of the appeal and the effect thereof shall be governed by the provisions of §9, Rule 41.
+The perfection of the appeal and the effect thereof shall be governed by the provisions of Section 9, Rule 41.
 
 **§5. Appellate court docket and other lawful fees.**
 
@@ -2325,7 +2518,7 @@ If the case was tried on the merits by the lower court without jurisdiction over
 
 The other provisions of Rule 41 shall apply to appeals provided for herein insofar as they are not inconsistent with or may serve to supplement the provisions of this Rule.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 41 APPEAL FROM THE REGIONAL TRIAL COURTS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 41 APPEAL FROM THE REGIONAL TRIAL COURTS </p> 
 
 **§1. Subject of appeal.**
 
@@ -2383,7 +2576,7 @@ Upon the filing of the record on appeal for approval and if no objection is file
 
 **§8. Joint record on appeal.**
 
-Where both parties are appellants, they may file a joint record on appeal within the time fixed by §3 of this Rule, or that fixed by the court.
+Where both parties are appellants, they may file a joint record on appeal within the time fixed by Section 3 of this Rule, or that fixed by the court.
 
 **§9. Perfection of appeal; effect thereof.**
 
@@ -2425,7 +2618,7 @@ The clerk of the trial court shall transmit to the appellate court the original 
 
 Prior to the transmittal of the original record or the record on appeal to the appellate court, the trial court may motu propio or on motion dismiss the appeal for having been taken out of time.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 42 PETITION FOR REVIEW FROM THE REGIONAL TRIAL COURTS TO THE COURT OF APPEALS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 42 PETITION FOR REVIEW FROM THE REGIONAL TRIAL COURTS TO THE COURT OF APPEALS </p> 
 
 **§1. How appeal taken; time for filing.**
 
@@ -2461,9 +2654,9 @@ Whenever the Court of Appeals deems it necessary, it may order the clerk of cour
 
 - (a) Upon the timely filing of a petition for review and the payment of the corresponding docket and other lawful fees, the appeal is deemed perfected as to the petitioner.
 
-The Regional Trial Court loses jurisdiction over the case upon the perfection of the appeals filed in due time and the expiration of the time to appeal of the other parties.
+    - The Regional Trial Court loses jurisdiction over the case upon the perfection of the appeals filed in due time and the expiration of the time to appeal of the other parties.
 
-However, before the Court of Appeals gives due course to the petition, the Regional Trial Court may issue orders for the protection and preservation of the rights of the parties which do not involve any matter litigated by the appeal, approve compromises, permit appeals of indigent litigants, order execution pending appeal in accordance with §2 of Rule 39, and allow withdrawal of the appeal.
+    - However, before the Court of Appeals gives due course to the petition, the Regional Trial Court may issue orders for the protection and preservation of the rights of the parties which do not involve any matter litigated by the appeal, approve compromises, permit appeals of indigent litigants, order execution pending appeal in accordance with Section 2 of Rule 39, and allow withdrawal of the appeal.
 
 - (b) Except in civil cases decided under the Rule on Summary Procedure, the appeal shall stay the judgment or final order unless the Court of Appeals, the law, or these Rules shall provide otherwise.
 
@@ -2471,7 +2664,7 @@ However, before the Court of Appeals gives due course to the petition, the Regio
 
 If the petition is given due course, the Court of Appeals may set the case for oral argument or require the parties to submit memoranda within a period of fifteen (15) days from notice. The case shall be deemed submitted for decision upon the filing of the last pleading or memorandum required by these Rules or by the court itself.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 43 APPEALS FROM THE COURT OF TAX APPEALS AND QUASI-JUDICIAL AGENCIES TO THE COURT OF APPEALS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 43 APPEALS FROM THE COURT OF TAX APPEALS AND QUASI-JUDICIAL AGENCIES TO THE COURT OF APPEALS </p> 
 
 **§1. Scope.**
 
@@ -2497,7 +2690,7 @@ Upon the filing of the petition, the petitioner shall pay to the clerk of court 
 
 **§6. Contents of the petition.**
 
-The petition for review shall (a) state the full names of the parties to the case, without impleading the court or agencies either as petitioners or respondents; (b) contain a concise statement of the facts and issues involved and the grounds relied upon for the review; (c) be accompanied by a clearly legible duplicate original or a certified true copy of the award, judgment, final order or resolution appealed from, together with certified true copies of such material portions of the record referred to therein and other supporting papers; and (d) contain a sworn certification against forum shopping as provided in the last paragraph of §2, Rule 42. The petition shall state the specific material dates showing that it was filed within the period fixed herein.
+The petition for review shall (a) state the full names of the parties to the case, without impleading the court or agencies either as petitioners or respondents; (b) contain a concise statement of the facts and issues involved and the grounds relied upon for the review; (c) be accompanied by a clearly legible duplicate original or a certified true copy of the award, judgment, final order or resolution appealed from, together with certified true copies of such material portions of the record referred to therein and other supporting papers; and (d) contain a sworn certification against forum shopping as provided in the last paragraph of Section 2, Rule 42. The petition shall state the specific material dates showing that it was filed within the period fixed herein.
 
 **§7. Effect of failure to comply with requirements.**
 
@@ -2527,10 +2720,10 @@ The appeal shall not stay the award, judgment, final order or resolution sought 
 
 If the petition is given due course, the Court of Appeals may set the case for oral argument or require the parties to submit memoranda within a period of fifteen (15) days from notice. The case shall be deemed submitted for decision upon the filing of the last pleading or memorandum required by these Rules or by the court of Appeals.
 
- <p style="text-align:center; font-size: 18px; font-weight: bold;"> PROCEDURE IN THE COURT OF APPEALS </p> 
+<p style="text-align:center; font-size: 18px; font-weight: bold;"> PROCEDURE IN THE COURT OF APPEALS </p> 
 
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 44 ORDINARY APPEALED CASES </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 44 ORDINARY APPEALED CASES </p> 
 
 **§1. Title of cases.**
 
@@ -2620,7 +2813,7 @@ The appellee's brief shall contain, in the order herein indicated the following:
 
 Whether or not the appellant has filed a motion for new trial in the court below he may include in his assignment of errors any question of law or fact that has been raised in the court below and which is within the issues framed by the parties.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 45 APPEAL BY *CERTIORARI* TO THE SUPREME COURT </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 45 APPEAL BY *CERTIORARI* TO THE SUPREME COURT </p> 
 
 **§1. Filing of petition with Supreme Court.**
 
@@ -2636,7 +2829,7 @@ Unless he has theretofore done so, the petitioner shall pay the corresponding do
 
 **§4. Contents of petition.**
 
-The petition shall be filed in eighteen (18) copies, with the original copy intended for the court being indicated as such by the petitioner and shall (a) state the full name of the appealing party as the petitioner and the adverse party as respondent, without impleading the lower courts or judges thereof either as petitioners or respondents; (b) indicate the material dates showing when notice of the judgment or final order or resolution subject thereof was received, when a motion for new trial or reconsideration, if any, was filed and when notice of the denial thereof was received; (c) set forth concisely a statement of the matters involved, and the reasons or arguments relied on for the allowance of the petition; (d) be accompanied by a clearly legible duplicate original, or a certified true copy of the judgment or final order or resolution certified by the clerk of court of the court a quo and the requisite number of plain copies thereof, and such material portions of the record as would support the petition; and (e) contain a sworn certification against forum shopping as provided in the last paragraph of §2, Rule 42.
+The petition shall be filed in eighteen (18) copies, with the original copy intended for the court being indicated as such by the petitioner and shall (a) state the full name of the appealing party as the petitioner and the adverse party as respondent, without impleading the lower courts or judges thereof either as petitioners or respondents; (b) indicate the material dates showing when notice of the judgment or final order or resolution subject thereof was received, when a motion for new trial or reconsideration, if any, was filed and when notice of the denial thereof was received; (c) set forth concisely a statement of the matters involved, and the reasons or arguments relied on for the allowance of the petition; (d) be accompanied by a clearly legible duplicate original, or a certified true copy of the judgment or final order or resolution certified by the clerk of court of the court a quo and the requisite number of plain copies thereof, and such material portions of the record as would support the petition; and (e) contain a sworn certification against forum shopping as provided in the last paragraph of Section 2, Rule 42.
 
 **§5. Dismissal or denial of petition.**
 
@@ -2654,7 +2847,7 @@ A review is not a matter of right, but of sound judicial discretion, and will be
 
 **§7. Pleadings and documents that may be required; sanctions.**
 
-For purposes of determining whether the petition should be dismissed or denied pursuant to §5 of this Rule, or where the petition is given due course under §8 hereof, the Supreme Court may require or allow the filing of such pleadings, briefs, memoranda or documents as it may deem necessary within such periods and under such conditions as it may consider appropriate, and impose the corresponding sanctions in case of non-filing or unauthorized filing of such pleadings and documents or non-compliance with the conditions therefor.
+For purposes of determining whether the petition should be dismissed or denied pursuant to Section 5 of this Rule, or where the petition is given due course under Section 8 hereof, the Supreme Court may require or allow the filing of such pleadings, briefs, memoranda or documents as it may deem necessary within such periods and under such conditions as it may consider appropriate, and impose the corresponding sanctions in case of non-filing or unauthorized filing of such pleadings and documents or non-compliance with the conditions therefor.
 
 **§8. Due course; elevation of records.**
 
@@ -2664,7 +2857,7 @@ If the petition is given due course, the Supreme Court may require the elevation
 
 The mode of appeal prescribed in this Rule shall be applicable to both civil and criminal cases, except in criminal cases where the penalty imposed is death, reclusion perpetua or life imprisonment.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 46 ORIGINAL CASES </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 46 ORIGINAL CASES </p> 
 
 **§1. Title of cases.**
 
@@ -2706,7 +2899,7 @@ Whenever necessary to resolve factual issues, the court itself may conduct heari
 
 When no comment is filed by any of the respondents, the case may be decided on the basis of the record, without prejudice to any disciplinary action which the court may take against the disobedient party.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 47 ANNULMENT OF JUDGMENTS OF FINAL ORDERS AND RESOLUTIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 47 ANNULMENT OF JUDGMENTS OF FINAL ORDERS AND RESOLUTIONS </p> 
 
 **§1. Coverage.**
 
@@ -2758,7 +2951,7 @@ If the questioned judgment or final order or resolution had already been execute
 
 An action to annul a judgment or final order of a Municipal Trial Court shall be filed in the Regional Trial Court having jurisdiction over the former. It shall be treated as an ordinary civil action and sections 2, 3, 4, 7, 8 and 9 of this Rule shall be applicable thereto.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 48 PRELIMINARY CONFERENCE </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 48 PRELIMINARY CONFERENCE </p> 
 
 **§1. Preliminary conference.**
 
@@ -2778,9 +2971,9 @@ The proceedings at such conference shall be recorded and, upon the conclusion th
 
 **§3. Binding effect of the results of the conference.**
 
-Subject to such modifications which may be made to prevent manifest injustice, the resolution in the preceding §shall control the subsequent proceedings in the case unless, within five (5) days from notice thereof, any party shall satisfactorily show valid cause why the same should not be followed.
+Subject to such modifications which may be made to prevent manifest injustice, the resolution in the preceding section shall control the subsequent proceedings in the case unless, within five (5) days from notice thereof, any party shall satisfactorily show valid cause why the same should not be followed.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 49 ORAL ARGUMENT </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 49 ORAL ARGUMENT </p> 
 
 **§1. When allowed.**
 
@@ -2796,7 +2989,7 @@ Unless authorized by the court, only one counsel may argue for a party. The dura
 
 Motions shall not be set for hearing and, unless the court otherwise directs, no hearing or oral argument shall be allowed in support thereof. The adverse party may file objections to the motion within five (5) days from service, upon the expiration of which such motion shall be deemed submitted for resolution.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 50 DISMISSAL OF APPEAL </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 50 DISMISSAL OF APPEAL </p> 
 
 **§1. Grounds for dismissal of appeal.**
 
@@ -2806,13 +2999,13 @@ An appeal may be dismissed by the Court of Appeals, on its own motion or on that
 
 - (b) Failure to file the notice of appeal or the record on appeal within the period prescribed by these Rules;
 
-- (c) Failure of the appellant to pay the docket and other lawful fees as provided in §5, Rule 40 and §4 of Rule 41;
+- (c) Failure of the appellant to pay the docket and other lawful fees as provided in Section 5, Rule 40 and Section 4 of Rule 41;
 
-- (d) Unauthorized alterations, omissions or additions in the approved record on appeal as provided in §4 of Rule 44;
+- (d) Unauthorized alterations, omissions or additions in the approved record on appeal as provided in Section 4 of Rule 44;
 
 - (e) Failure of the appellant to serve and file the required number of copies of his brief or memorandum within the time provided by these Rules;
 
-- (f) Absence of specific assignment of errors in the appellant's brief, or of page references to the record as required in §13, paragraphs (a), (c), (d) and (f) of Rule 44;
+- (f) Absence of specific assignment of errors in the appellant's brief, or of page references to the record as required in Section 13, paragraphs (a), (c), (d) and (f) of Rule 44;
 
 - (g) Failure of the appellant to take the necessary steps for the correction or completion of the record within the time limited by the court in its order;
 
@@ -2830,19 +3023,19 @@ An appeal erroneously taken to the Court of Appeals shall not be transferred to 
 
 An appeal may be withdrawn as of right at any time before the filing of the appellee's brief. Thereafter, the withdrawal may be allowed in the discretion of the court.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 51 JUDGMENT </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 51 JUDGMENT </p> 
 
 **§1. When case deemed submitted for judgment.**
 
 A case shall be deemed submitted for judgment:
 
-- (a) * A. In ordinary appeals.
+- A. In ordinary appeals.
 
     - 1) Where no hearing on the merits of the main case is held, upon the filing of the last pleading, brief, or memorandum required by the Rules or by the court itself, or the expiration of the period for its filing.
 
     - 2) Where such a hearing is held, upon its termination or upon the filing of the last pleading or memorandum as may be required or permitted to be filed by the court, or the expiration of the period for its filing.
 
-- (b) * B. In original actions and petitions for review.
+- B. In original actions and petitions for review.
 
     - 1) Where no comment is filed, upon the expiration of the period to comment.
 
@@ -2856,7 +3049,7 @@ The judgment shall be rendered by the members of the court who participated in t
 
 **§3. Quorum and voting in the court.**
 
-The participation of all three Justices of a division shall be necessary at the deliberation and the unanimous vote of the three Justices shall be required for the pronouncement of a judgment or final resolution. If the three justices do not reach a unanimous vote, the clerk shall enter the votes of the dissenting Justices in the record. Thereafter, the Chairman of the division shall refer the case, together with the minutes of the deliberation, to the Presiding Justice who shall designate two Justices chosen by raffle from among all the other members of the court to sit temporarily with them, forming a special division of five Justices. The participation of all the five members of the special division shall be necessary for the deliberation required in §2 of this Rule and the concurrence of a majority of such division shall be required for the pronouncement of a judgment or final resolution.
+The participation of all three Justices of a division shall be necessary at the deliberation and the unanimous vote of the three Justices shall be required for the pronouncement of a judgment or final resolution. If the three justices do not reach a unanimous vote, the clerk shall enter the votes of the dissenting Justices in the record. Thereafter, the Chairman of the division shall refer the case, together with the minutes of the deliberation, to the Presiding Justice who shall designate two Justices chosen by raffle from among all the other members of the court to sit temporarily with them, forming a special division of five Justices. The participation of all the five members of the special division shall be necessary for the deliberation required in Section 2 of this Rule and the concurrence of a majority of such division shall be required for the pronouncement of a judgment or final resolution.
 
 **§4. Disposition of a case.**
 
@@ -2894,7 +3087,7 @@ In original actions in the Court of Appeals, its writ of execution shall be acco
 
 In appealed cases, where the motion for execution pending appeal is filed in the Court of Appeals at a time that it is in possession of the original record or the record on appeal, the resolution granting such motion shall be transmitted to the lower court from which the case originated, together with a certified true copy of the judgment or final order to be executed, with a directive for such court of origin to issue the proper writ for its enforcement.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 52 MOTION FOR RECONSIDERATION </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 52 MOTION FOR RECONSIDERATION </p> 
 
 **§1. Period for filing.**
 
@@ -2912,7 +3105,7 @@ In the Court of Appeals, a motion for reconsideration shall be resolved within n
 
 The pendency of a motion for reconsideration filed on time and by the proper party shall stay the execution of the judgment or final resolution sought to be reconsidered unless the court, for good reasons, shall otherwise direct.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 53 NEW TRIAL </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 53 NEW TRIAL </p> 
 
 **§1. Period for filing; ground.**
 
@@ -2930,7 +3123,7 @@ In the Court of Appeals, a motion for new trial shall be resolved within ninety 
 
 Unless the court otherwise directs, the procedure in the new trial shall be the same as that granted by a Regional Trial Court.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 54 INTERNAL BUSINESS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 54 INTERNAL BUSINESS </p> 
 
 **§1. Distribution of cases among divisions.**
 
@@ -2940,7 +3133,7 @@ All the cases of the Court of Appeals shall be allotted among the different divi
 
 A majority of the actual members of the court shall constitute a quorum for its sessions en banc. Three members shall constitute a quorum for the sessions of a division. The affirmative votes of the majority of the members present shall be necessary to pass a resolution of the court en banc. The affirmative votes of three members of a division shall be necessary for the pronouncement of a judgment or final resolution, which shall be reached in consultation before the writing of the opinion by any member of the division.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 55 PUBLICATIONS OF JUDGMENTS AND FINAL RESOLUTIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 55 PUBLICATIONS OF JUDGMENTS AND FINAL RESOLUTIONS </p> 
 
 **§1. Publication.**
 
@@ -2954,10 +3147,10 @@ The reporter shall prepare and publish with each reported judgment and final res
 
 The published decisions and final resolutions of the Supreme Court shall be called "Philippine Reports," while those of the Court of Appeals shall be known as the "Court of Appeals Reports." Each volume thereof shall contain a table of the cases reported and the cases cited in the opinions, with a complete alphabetical index of the subject matters of the volume. It shall consist of not less than seven hundred pages printed upon good paper, well bound and numbered consecutively in the order of the volumes published.
 
- <p style="text-align:center; font-size: 18px; font-weight: bold;"> PROCEDURE IN THE SUPREME COURT </p> 
+<p style="text-align:center; font-size: 18px; font-weight: bold;"> PROCEDURE IN THE SUPREME COURT </p> 
 
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 56 </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 56 </p> 
 
 ***A. ORIGINAL CASES***
 
@@ -2989,7 +3182,7 @@ The appeal shall be governed by and disposed of in accordance with the applicabl
 
 **§5. Grounds for dismissal of appeal.**
 
-The appeal may be dismissed motu proprio or on motion of the respondent on the following grounds:
+The appeal may be dismissed *motu proprio* or on motion of the respondent on the following grounds:
 
 - (a) Failure to take the appeal within the reglementary period;
 
@@ -3007,7 +3200,7 @@ The appeal may be dismissed motu proprio or on motion of the respondent on the f
 
 **§6. Disposition of improper appeal.**
 
-Except as provided in §3, Rule 122 regarding appeals in criminal cases where the penalty imposed is death, reclusion perpetua or life imprisonment, an appeal taken to the Supreme Court by notice of appeal shall be dismissed.
+Except as provided in Section 3, Rule 122 regarding appeals in criminal cases where the penalty imposed is death, reclusion perpetua or life imprisonment, an appeal taken to the Supreme Court by notice of appeal shall be dismissed.
 
 An appeal by *certiorari* taken to the Supreme Court from the Regional Trial Court submitting issues of fact may be referred to the Court of Appeals for decision or appropriate action. The determination of the Supreme Court on whether or not issues of fact are involved shall be final.
 
@@ -3015,9 +3208,9 @@ An appeal by *certiorari* taken to the Supreme Court from the Regional Trial Cou
 
 Where the court en banc is equally divided in opinion, or the necessary majority cannot be had, the case shall again be deliberated on, and if after such deliberation no decision is reached, the original action commenced in the court shall be dismissed, in appealed cases, the judgment or order appealed from shall stand affirmed; and on all incidental matters, the petition or motion shall be denied.
 
- <p style="text-align:center; font-size: 18px; font-weight: bold;"> PROVISIONAL REMEDIES </p> 
+<p style="text-align:center; font-size: 18px; font-weight: bold;"> PROVISIONAL REMEDIES </p> 
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 57 PRELIMINARY ATTACHMENT </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 57 PRELIMINARY ATTACHMENT </p> 
 
 **§1. Grounds upon which attachment may issue.**
 
@@ -3041,7 +3234,7 @@ An order of attachment may be issued either ex parte or upon motion with notice 
 
 **§3. Affidavit and bond required.**
 
-An order of attachment shall be granted only when it appears by the affidavit of the applicant, or of some other person who personally knows the facts, that a sufficient cause of action exists, that the case is one of those mentioned in §1 hereof, that there is no other sufficient security for the claim sought to be enforced by the action, and that the amount due to the applicant, or the value of the property the possession of which he is entitled to recover, is as much as the sum for which the order is granted above all legal counterclaims. The affidavit, and the bond required by the next succeeding section, must be duly filed with the court before the order issues.
+An order of attachment shall be granted only when it appears by the affidavit of the applicant, or of some other person who personally knows the facts, that a sufficient cause of action exists, that the case is one of those mentioned in Section 1 hereof, that there is no other sufficient security for the claim sought to be enforced by the action, and that the amount due to the applicant, or the value of the property the possession of which he is entitled to recover, is as much as the sum for which the order is granted above all legal counterclaims. The affidavit, and the bond required by the next succeeding section, must be duly filed with the court before the order issues.
 
 **§4. Condition of applicant's bond.**
 
@@ -3049,7 +3242,7 @@ The party applying for the order must thereafter give a bond executed to the adv
 
 **§5. Manner of attaching property.**
 
-The sheriff enforcing the writ shall without delay and with all reasonable diligence attach, to await judgment and execution in the action, only so much of the property in the Philippines of the party against whom the writ is issued, not exempt from execution, as may be sufficient to satisfy the applicant's demand, unless the former makes a deposit with the court from which the writ is issued, or gives a counter-bond executed to the applicant, in an amount equal to the bond fixed by the court in the order of attachment or to the value of the property to be attached, exclusive of costs. No levy on attachment pursuant to the writ issued under §2 hereof shall be enforced unless it is preceded, or contemporaneously accompanied, by service of summons, together with a copy of the complaint, the application for attachment the applicant's affidavit and bond, and the order and writ of attachment, on the defendant within the Philippines.
+The sheriff enforcing the writ shall without delay and with all reasonable diligence attach, to await judgment and execution in the action, only so much of the property in the Philippines of the party against whom the writ is issued, not exempt from execution, as may be sufficient to satisfy the applicant's demand, unless the former makes a deposit with the court from which the writ is issued, or gives a counter-bond executed to the applicant, in an amount equal to the bond fixed by the court in the order of attachment or to the value of the property to be attached, exclusive of costs. No levy on attachment pursuant to the writ issued under Section 2 hereof shall be enforced unless it is preceded, or contemporaneously accompanied, by service of summons, together with a copy of the complaint, the application for attachment the applicant's affidavit and bond, and the order and writ of attachment, on the defendant within the Philippines.
 
 The requirement of prior or contemporaneous service of summons shall not apply where the summons could not be served personally or by substituted service despite diligent efforts, or the defendant is a resident of the Philippines temporarily absent therefrom, or the defendant is a non-resident of the Philippines, or the action is one in rem or quasi in rem.
 
@@ -3062,7 +3255,7 @@ After enforcing the writ, the sheriff must likewise without delay make a return 
 Real and personal property shall be attached by the sheriff executing the writ in the following manner:
 
 - (a) Real property, or growing crops thereon, or any interest therein, standing upon the record of the registry of deeds of the province in the name of the party against whom attachment is issued, or not appearing at all upon such records, or belonging to the party against whom attachment is issued and held by any other person, or standing on the records of the registry of deeds in the name of any other person, by filing with the registry of deeds a copy of the order, together with a description of the property attached, and a notice that it is attached, or that such real property and any interest therein held by or standing in the name of such other person are attached, and by leaving a copy of such order, description, and notice with the occupant of the property, if any, or with such other person or his agent if found within the province. Where the property has been brought under the operation of either the Land Registration Act or the Property Registration Decree, the notice shall contain a reference to the number of the certificate of title, the volume and page in the registration book where the certificate is registered, and the registered owner or owners thereof.  
-The registrar of deeds must index attachments filed under this §in the names of the applicant, the adverse party, or the person by whom the property is held or in whose name it stands in the records. If the attachment is not claimed on the entire area of the land covered by the certificate of title, a description sufficiently accurate for the identification of the land or interest to be affected shall be included in the registration of such attachment;
+The registrar of deeds must index attachments filed under this section in the names of the applicant, the adverse party, or the person by whom the property is held or in whose name it stands in the records. If the attachment is not claimed on the entire area of the land covered by the certificate of title, a description sufficiently accurate for the identification of the land or interest to be affected shall be included in the registration of such attachment;
 
 - (b) Personal property capable of manual delivery, by taking and safely keeping it in his custody, after issuing the corresponding receipt therefor.
 
@@ -3116,7 +3309,7 @@ If judgment be recovered by the attaching party and execution issue thereon, the
 
 - (c) By collecting from all persons having in their possession credits belonging to the judgment obligor, or owing debts to the latter at the time of the attachment of such credits or debts, the amount of such credits and debts as determined by the court in the action, and stated in the judgment, and paying the proceeds of such collection over to the judgment obligee.
 
-The sheriff shall forthwith make a return in writing to the court of his proceedings under this §and furnish the parties with copies thereof.
+The sheriff shall forthwith make a return in writing to the court of his proceedings under this section and furnish the parties with copies thereof.
 
 **§16. Balance due collected upon an execution; excess delivered to judgment obligor.**
 
@@ -3142,7 +3335,7 @@ If the judgment of the appellate court be favorable to the party against whom th
 
 Nothing herein contained shall prevent the party against whom the attachment was issued from recovering in the same action the damages awarded to him from any property of the attaching party not exempt from execution should the bond or deposit given by the latter be insufficient or fail to fully satisfy the award.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 58 PRELIMINARY INJUNCTION </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 58 PRELIMINARY INJUNCTION </p> 
 
 **§1. Preliminary injunction defined; classes.**
 
@@ -3180,7 +3373,7 @@ The application in the action or proceeding is verified, and shows facts entitli
 
 No preliminary injunction shall be granted without hearing and prior notice to the party or person sought to be enjoined. If it shall appear from facts shown by affidavits or by the verified application that great or irreparable injury would result to the applicant before the matter can be heard on notice, the court to which the application for preliminary injunction was made, may issue a temporary restraining order to be effective only for a period of twenty (20) days from service on the party or person sought to be enjoined, except as herein provided. Within the said twenty-day period, the court must order said party or person to show cause, at a specified time and place, why the injunction should not be granted, determine within the same period whether or not the preliminary injunction shall be granted, and accordingly issue the corresponding order.
 
-However, and subject to the provisions of the preceding sections, if the matter is of extreme urgency and the applicant will suffer grave injustice and irreparable injury, the executive judge of a multiple-sala court or the presiding judge of a single sala court may issue ex parte a temporary restraining order effective for only seventy-two (72) hours from issuance but he shall immediately comply with the provisions of the next preceding §as to service of summons and the documents to be served therewith. Thereafter, within the aforesaid seventy-two (72) hours, the judge before whom the case is pending shall conduct a summary hearing to determine whether the temporary restraining order shall be extended until the application for preliminary injunction can be heard. In no case shall the total period of effectivity of the temporary restraining order exceed twenty (20) days, including the original seventy-two hours provided herein.
+However, and subject to the provisions of the preceding sections, if the matter is of extreme urgency and the applicant will suffer grave injustice and irreparable injury, the executive judge of a multiple-sala court or the presiding judge of a single sala court may issue ex parte a temporary restraining order effective for only seventy-two (72) hours from issuance but he shall immediately comply with the provisions of the next preceding section as to service of summons and the documents to be served therewith. Thereafter, within the aforesaid seventy-two (72) hours, the judge before whom the case is pending shall conduct a summary hearing to determine whether the temporary restraining order shall be extended until the application for preliminary injunction can be heard. In no case shall the total period of effectivity of the temporary restraining order exceed twenty (20) days, including the original seventy-two hours provided herein.
 
 In the event that the application for preliminary injunction is denied or not resolved within the said period, the temporary restraining order is deemed, automatically vacated. The effectivity of a temporary restraining order is not extendible without need of any judicial declaration to that effect and no court shall have authority to extend or renew the same on the same ground for which it was issued.
 
@@ -3198,13 +3391,13 @@ The party filing a bond in accordance with the provisions of this Rule shall for
 
 **§8. Judgment to include damages against party and sureties.**
 
-At the trial, the amount of damages to be awarded to either party, upon the bond of the adverse party, shall be claimed, ascertained, and awarded under the same procedure prescribed in §20 of Rule 57.
+At the trial, the amount of damages to be awarded to either party, upon the bond of the adverse party, shall be claimed, ascertained, and awarded under the same procedure prescribed in Section 20 of Rule 57.
 
 **§9. When final injunction granted.**
 
 If after the trial of the action it appears that the applicant is entitled to have the act or acts complained of permanently enjoined the court shall grant a final injunction perpetually restraining the party or person enjoined from the commission or continuance of the act or acts of confirming the preliminary mandatory injunction.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 59 RECEIVERSHIP </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 59 RECEIVERSHIP </p> 
 
 **§1. Appointment of receiver.**
 
@@ -3248,13 +3441,13 @@ A person who refuses or neglects, upon reasonable demand, to deliver to the rece
 
 **§8. Termination of receivership; compensation of receiver.**
 
-Whenever the court, motu proprio or on motion of either party, shall determine that the necessity for a receiver no longer exists, it shall, after due notice to all interested parties and hearing, settle the accounts of the receiver, direct the delivery of the funds and other property in his possession to the person adjudged to be entitled to receive them and order the discharge of the receiver from further duty as such. The court shall allow the receiver such reasonable compensation as the circumstances of the case warrant, to be taxed as costs against the defeated party, or apportioned, as justice requires.
+Whenever the court, *motu proprio* or on motion of either party, shall determine that the necessity for a receiver no longer exists, it shall, after due notice to all interested parties and hearing, settle the accounts of the receiver, direct the delivery of the funds and other property in his possession to the person adjudged to be entitled to receive them and order the discharge of the receiver from further duty as such. The court shall allow the receiver such reasonable compensation as the circumstances of the case warrant, to be taxed as costs against the defeated party, or apportioned, as justice requires.
 
 **§9. Judgment to include recovery against sureties.**
 
-The amount, if any, to be awarded to any party upon any bond filed in accordance with the provisions of this Rule, shall be claimed, ascertained, and granted under the same procedure prescribed in §20 of Rule 57.
+The amount, if any, to be awarded to any party upon any bond filed in accordance with the provisions of this Rule, shall be claimed, ascertained, and granted under the same procedure prescribed in Section 20 of Rule 57.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 60 REPLEVIN </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 60 REPLEVIN </p> 
 
 **§1. Application.**
 
@@ -3292,7 +3485,7 @@ If within five (5) days after the taking of the property by the sheriff, the adv
 
 **§7. Proceedings where property claimed by third person.**
 
-If the property taken is claimed by any person other than the party against whom the writ of replevin had been issued or his agent, and such person makes an affidavit of his title thereto, or right to the possession thereof, stating the grounds therefor, and serves such affidavit upon the sheriff while the latter has possession of the property and a copy thereof upon the applicant, the sheriff shall not be bound to keep the property under replevin or deliver it to the applicant unless the applicant or his agent, on demand of said sheriff, shall file a bond approved by the court to indemnify the third-party claimant in a sum not less than the value of the property under replevin as provided in §2 hereof. In case of disagreement as to such value, the court shall determine the same. No claim for damages for the taking or keeping, of the property may be enforced against the bond unless the action therefor is filed within one hundred twenty (120) days from the date of the filing of the bond.
+If the property taken is claimed by any person other than the party against whom the writ of replevin had been issued or his agent, and such person makes an affidavit of his title thereto, or right to the possession thereof, stating the grounds therefor, and serves such affidavit upon the sheriff while the latter has possession of the property and a copy thereof upon the applicant, the sheriff shall not be bound to keep the property under replevin or deliver it to the applicant unless the applicant or his agent, on demand of said sheriff, shall file a bond approved by the court to indemnify the third-party claimant in a sum not less than the value of the property under replevin as provided in Section 2 hereof. In case of disagreement as to such value, the court shall determine the same. No claim for damages for the taking or keeping, of the property may be enforced against the bond unless the action therefor is filed within one hundred twenty (120) days from the date of the filing of the bond.
 
 The sheriff shall not be liable for damages, for the taking or keeping of such property, to any such third-party claimant if such bond shall be filed. Nothing herein contained shall prevent such claimant or any third person from vindicating his claim to the property, or prevent the applicant from claiming damages against a third-party claimant who filed a frivolous or plainly spurious claim, in the same or a separate action.
 
@@ -3308,9 +3501,9 @@ After trial of the issues the court shall determine who has the right of possess
 
 **§10. Judgment to include recovery against sureties.**
 
-The amount, if any, to be awarded to any party upon any bond filed in accordance with the provisions of this Rule, shall be claimed, ascertained, and granted under the same procedure as prescribed in §20 of Rule 57.
+The amount, if any, to be awarded to any party upon any bond filed in accordance with the provisions of this Rule, shall be claimed, ascertained, and granted under the same procedure as prescribed in Section 20 of Rule 57.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 61 SUPPORT *PENDENTE LITE </p> *
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 61 SUPPORT <i>PENDENTE LITE</i> </p> 
 
 **§1. Application.**
 
@@ -3330,7 +3523,7 @@ The court shall determine provisionally the pertinent facts, and shall render su
 
 **§5. Enforcement of order.**
 
-If the adverse party fails to comply with an order granting support pendente lite, the court shall, motu proprio or upon motion; issue an order of execution against him, without prejudice to his liability for contempt.
+If the adverse party fails to comply with an order granting support pendente lite, the court shall, *motu proprio* or upon motion; issue an order of execution against him, without prejudice to his liability for contempt.
 
 When the person ordered to give support pendente lite refuses or fails to do so, any third person who furnished that support to the applicant may, after due notice and hearing in the same case obtain a writ of execution to enforce his right of reimbursement against the person ordered to provide such support.
 
@@ -3344,7 +3537,7 @@ When the judgment or final order of the court finds that the person who has been
 
 Special Civil Actions
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 62 INTERPLEADER </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 62 INTERPLEADER </p> 
 
 **§1. When interpleader proper.**
 
@@ -3376,7 +3569,7 @@ After the pleadings of the conflicting claimants have been filed, and pre-trial 
 
 The docket and other lawful fees paid by the party who filed a complaint under this Rule, as well as the costs and litigation expenses, shall constitute a lien or change upon the subject matter of the action, unless the court shall order otherwise.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 63 DECLARATORY RELIEF AND SIMILAR REMEDIES </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 63 DECLARATORY RELIEF AND SIMILAR REMEDIES </p> 
 
 **§1. Who may file petition.**
 
@@ -3398,13 +3591,13 @@ In any action involving the validity of a local government ordinance, the corres
 
 **§5. Court action discretionary.**
 
-Except in actions falling under the second paragraph of **§1 of this Rule, the court, motu proprio or upon motion, may refuse to exercise the power to declare rights and to construe instruments in any case where a decision would not terminate the uncertainty or controversy which gave rise to the action, or in any case where the declaration or construction is not necessary and proper under the circumstances.**
+Except in actions falling under the second paragraph of Section 1 of this Rule, the court, *motu proprio* or upon motion, may refuse to exercise the power to declare rights and to construe instruments in any case where a decision would not terminate the uncertainty or controversy which gave rise to the action, or in any case where the declaration or construction is not necessary and proper under the circumstances.
 
 **§6. Conversion into ordinary action.**
 
 If before the final termination of the case, a breach or violation of an instrument or a statute, executive order or regulation, ordinance, or any other governmental regulation should take place, the action may thereupon be converted into an ordinary action, and the parties shall be allowed to file such pleadings as may be necessary or proper.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 64 REVIEW OF JUDGMENTS AND FINAL ORDERS OR RESOLUTIONS OF THE COMMISSION ON ELECTIONS AND THE COMMISSION ON AUDIT </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 64 REVIEW OF JUDGMENTS AND FINAL ORDERS OR RESOLUTIONS OF THE COMMISSION ON ELECTIONS AND THE COMMISSION ON AUDIT </p> 
 
 **§1. Scope.**
 
@@ -3428,7 +3621,7 @@ The petition shall be verified and filed in eighteen (18) legible copies. The pe
 
 The petition shall be accompanied by a clearly legible duplicate original or certified true copy of the judgment, final order or resolution subject thereof, together with certified true copies of such material portions of the record as are referred to therein and other documents relevant and pertinent thereto. The requisite number of copies of the petition shall contain plain copies of all documents attached to the original copy of said petition.
 
-The petition shall state the specific material dates showing that it was filed within the period fixed herein, and shall contain a sworn certification against forum shopping as provided in the third paragraph of §3, Rule 46.
+The petition shall state the specific material dates showing that it was filed within the period fixed herein, and shall contain a sworn certification against forum shopping as provided in the third paragraph of Section 3, Rule 46.
 
 The petition shall further be accompanied by proof of service of a copy thereof on the Commission concerned and on the adverse party, and of the timely payment of docket and other lawful fees.
 
@@ -3452,25 +3645,25 @@ The filing of a petition for *certiorari* shall not stay the execution of the ju
 
 Unless the Court sets the case for oral argument, or requires the parties to submit memoranda, the case shall be deemed submitted for decision upon the filing of the comments on the petition, or of such other pleadings or papers as may be required or allowed, or the expiration of the period to do so.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 65 *CERTIORARI*, PROHIBITION AND *MANDAMUS </p> *
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 65 <i>CERTIORARI</i>, PROHIBITION AND <i>MANDAMUS</i> </p>
 
 **§1. Petition for *certiorari*.**
 
 When any tribunal, board or officer exercising judicial or quasi-judicial functions has acted without or in excess its or his jurisdiction, or with grave abuse of discretion amounting to lack or excess of jurisdiction, and there is no appeal, or any plain, speedy, and adequate remedy in the ordinary course of law, a person aggrieved thereby may file a verified petition in the proper court, alleging the facts with certainty and praying that judgment be rendered annulling or modifying the proceedings of such tribunal, board or officer, and granting such incidental reliefs as law and justice may require.
 
-The petition shall be accompanied by a certified true copy of the judgment, order or resolution subject thereof, copies of all pleadings and documents relevant and pertinent thereto, and a sworn certification of non-forum shopping as provided in the third paragraph of **§3, Rule 46.**
+The petition shall be accompanied by a certified true copy of the judgment, order or resolution subject thereof, copies of all pleadings and documents relevant and pertinent thereto, and a sworn certification of non-forum shopping as provided in the third paragraph of Section 3, Rule 46.
 
 **§2. Petition for prohibition.**
 
 When the proceedings of any tribunal, corporation, board, officer or person, whether exercising judicial, quasi-judicial or ministerial functions, are without or in excess of its or his jurisdiction, or with grave abuse of discretion amounting to lack or excess of jurisdiction, and there is no appeal or any other plain, speedy, and adequate remedy in the ordinary course of law, a person aggrieved thereby may file a verified petition in the proper court, alleging the facts with certainty and praying that judgment be rendered commanding the respondent to desist from further proceedings in the action or matter specified therein, or otherwise granting such incidental reliefs as law and justice may require.
 
-The petition shall likewise be accompanied by a certified true copy of the judgment, order or resolution subject thereof, copies of all pleadings and documents relevant and pertinent thereto, and a sworn certification of non-forum shopping as provided in the third paragraph of §3, Rule 46.
+The petition shall likewise be accompanied by a certified true copy of the judgment, order or resolution subject thereof, copies of all pleadings and documents relevant and pertinent thereto, and a sworn certification of non-forum shopping as provided in the third paragraph of Section 3, Rule 46.
 
 **§3. Petition for *mandamus*.**
 
 When any tribunal, corporation, board, officer or person unlawfully neglects the performance of an act which the law specifically enjoins as a duty resulting from an office, trust, or station, or unlawfully excludes another from the use and enjoyment of a right or office to which such other is entitled, and there is no other plain, speedy and adequate remedy in the ordinary course of law, the person aggrieved thereby may file a verified petition in the proper court, alleging the facts with certainty and praying that judgment be rendered commanding the respondent, immediately or at some other time to be specified by the court, to do the act required to be done to protect the rights of the petitioner, and to pay the damages sustained by the petitioner by reason of the wrongful acts of the respondent.
 
-The petition shall also contain a sworn certification of non-forum shopping as provided in the third paragraph of §3, Rule 46.
+The petition shall also contain a sworn certification of non-forum shopping as provided in the third paragraph of Section 3, Rule 46.
 
 **§4. When and where to file the petition.**
 
@@ -3490,7 +3683,7 @@ Unless otherwise specifically directed by the court where the petition is pendin
 
 If the petition is sufficient in form and substance to justify such process, the court shall issue an order requiring the respondent or respondents to comment on the petition within ten (10) days from receipt of a copy thereof. Such order shall be served on the respondents in such manner as the court may direct together with a copy of the petition and any annexes thereto.
 
-In petitions for *certiorari* before the Supreme Court and the Court of Appeals, the provisions of §2, Rule 56, shall be observed. Before giving due course thereto, the court may require the respondents to file their comment to, and not a motion to dismiss, the petition. Thereafter, the court may require the filing of a reply and such other responsive or other pleadings as it may deem necessary and proper.
+In petitions for *certiorari* before the Supreme Court and the Court of Appeals, the provisions of Section 2, Rule 56, shall be observed. Before giving due course thereto, the court may require the respondents to file their comment to, and not a motion to dismiss, the petition. Thereafter, the court may require the filing of a reply and such other responsive or other pleadings as it may deem necessary and proper.
 
 **§7. Expediting proceedings; injunctive relief.**
 
@@ -3504,13 +3697,13 @@ After the comment or other pleadings required by the court are filed, or the tim
 
 However, the court may dismiss the petition if it finds the same patently without merit or prosecuted manifestly for delay, or if the questions raised therein are too unsubstantial to require consideration. In such event, the court may award in favor of the respondent treble costs solidarily against the petitioner and counsel, in addition to subjecting counsel to administrative sanctions under Rules 139 and 139-B of the Rules of Court.
 
-The Court may impose motu proprio, based on res ipsa loquitur, other disciplinary sanctions or measures on erring lawyers for patently dilatory and unmeritorious petitions for *certiorari*.
+The Court may impose *motu proprio*, based on res ipsa loquitur, other disciplinary sanctions or measures on erring lawyers for patently dilatory and unmeritorious petitions for *certiorari*.
 
 **§9. Service and enforcement of order or judgment.**
 
-A certified copy of the judgment rendered in accordance with the last preceding §shall be served upon the court, quasi-judicial agency, tribunal, corporation, board, officer or person concerned in such manner as the court may direct, and disobedience thereto shall be punished as contempt. An execution may issue for any damages or costs awarded in accordance with §1 of Rule 39.
+A certified copy of the judgment rendered in accordance with the last preceding section shall be served upon the court, quasi-judicial agency, tribunal, corporation, board, officer or person concerned in such manner as the court may direct, and disobedience thereto shall be punished as contempt. An execution may issue for any damages or costs awarded in accordance with Section 1 of Rule 39.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 66 *QUO WARRANTO </p> *
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 66 <i>QUO WARRANTO</i> </p>
 
 **§1. Action by Government against individuals.**
 
@@ -3524,7 +3717,7 @@ An action for the usurpation of a public office, position or franchise may be co
 
 **§2. When Solicitor General or public prosecutor must commence action.**
 
-The Solicitor General or a public prosecutor, when directed by the President of the Philippines, or when upon complaint or otherwise he has good reason to believe that any case specified in the preceding §can be established by proof, must commence such action.
+The Solicitor General or a public prosecutor, when directed by the President of the Philippines, or when upon complaint or otherwise he has good reason to believe that any case specified in the preceding section can be established by proof, must commence such action.
 
 **§3. When Solicitor General or public prosecutor may commence action with permission of court.**
 
@@ -3560,13 +3753,13 @@ If judgment be rendered in favor of the person averred in the complaint to be en
 
 **§11. Limitations.**
 
-Nothing contained in this Rule shall be construed to authorize an action against a public officer or employee for his ouster from office unless the same be commenced within one (1) year after the cause of such ouster, or the right of the petitioner to hold such office or position, arose, nor to authorize an action for damages in accordance with the provisions of the next preceding §unless the same be commenced within one (1) year after the entry of the judgment establishing the petitioner's right to the office in question.
+Nothing contained in this Rule shall be construed to authorize an action against a public officer or employee for his ouster from office unless the same be commenced within one (1) year after the cause of such ouster, or the right of the petitioner to hold such office or position, arose, nor to authorize an action for damages in accordance with the provisions of the next preceding section unless the same be commenced within one (1) year after the entry of the judgment establishing the petitioner's right to the office in question.
 
 **§12. Judgment for costs.**
 
 In an action brought in accordance with the provisions of this Rule, the court may render judgment for costs against either the petitioner, the relator, or the respondent, or the person or persons claiming to be a corporation, or may apportion the costs, as justice requires.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 67 EXPROPRIATION </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 67 EXPROPRIATION </p> 
 
 **§1. The complaint.**
 
@@ -3620,7 +3813,7 @@ If the ownership of the property taken is uncertain, or there are conflicting cl
 
 **§10. Rights of plaintiff after judgment and payment.**
 
-Upon payment by the plaintiff to the defendant of the compensation fixed by the judgment, with legal interest thereon from the taking of the possession of the property, or after tender to him of the amount so fixed and payment of the costs, the plaintiff shall have the right to enter upon the property expropriated and to appropriate it for the public use or purpose defined in the judgment, or to retain it should he have taken immediate possession thereof under the provisions of §2 hereof. If the defendant and his counsel absent themselves from the court, or decline to receive the amount tendered, the same shall be ordered to be deposited in court and such deposit shall have the same effect as actual payment thereof to the defendant or the person ultimately adjudged entitled thereto.
+Upon payment by the plaintiff to the defendant of the compensation fixed by the judgment, with legal interest thereon from the taking of the possession of the property, or after tender to him of the amount so fixed and payment of the costs, the plaintiff shall have the right to enter upon the property expropriated and to appropriate it for the public use or purpose defined in the judgment, or to retain it should he have taken immediate possession thereof under the provisions of Section 2 hereof. If the defendant and his counsel absent themselves from the court, or decline to receive the amount tendered, the same shall be ordered to be deposited in court and such deposit shall have the same effect as actual payment thereof to the defendant or the person ultimately adjudged entitled thereto.
 
 **§11. Entry not delayed by appeal; effect of reversal.**
 
@@ -3638,7 +3831,7 @@ The judgment entered in expropriation proceedings shall state definitely, by an 
 
 The guardian or guardian ad litem of a minor or of a person judicially declared to be incompetent may, with the approval of the court first had, do and perform on behalf of his ward any act, matter, or thing respecting the expropriation for public use or purpose of property belonging to such minor or person judicially declared to be incompetent, which such minor or person judicially declared to be incompetent could do in such proceedings if he were of age or competent.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 68 FORECLOSURE OF REAL ESTATE MORTGAGE </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 68 FORECLOSURE OF REAL ESTATE MORTGAGE </p> 
 
 **§1. Complaint in action for foreclosure.**
 
@@ -3664,7 +3857,7 @@ If the debt for which the mortgage or encumbrance was held is not all due as pro
 
 **§6. Deficiency judgment.**
 
-If upon the sale of any real property as provided in the next preceding §there be a balance due to the plaintiff after applying the proceeds of the sale, the court, upon motion, shall render judgment against the defendant for any such balance for which, by the record of the case, he may be personally liable to the plaintiff, upon which execution may issue immediately if the balance is all due at the time of the rendition of the judgment; otherwise; the plaintiff shall be entitled to execution at such time as the balance remaining becomes due under the terms of the original contract, which time shall be stated in the judgment.
+If upon the sale of any real property as provided in the next preceding section there be a balance due to the plaintiff after applying the proceeds of the sale, the court, upon motion, shall render judgment against the defendant for any such balance for which, by the record of the case, he may be personally liable to the plaintiff, upon which execution may issue immediately if the balance is all due at the time of the rendition of the judgment; otherwise; the plaintiff shall be entitled to execution at such time as the balance remaining becomes due under the terms of the original contract, which time shall be stated in the judgment.
 
 **§7. Registration.**
 
@@ -3678,7 +3871,7 @@ If the property is not redeemed, the final deed of sale executed by the sheriff 
 
 The provisions of sections 31, 32 and 34 of Rule 39 shall be applicable to the judicial foreclosure of real estate mortgages under this Rule insofar as the former are not inconsistent with or may serve to supplement the provisions of the latter.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 69 PARTITION </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 69 PARTITION </p> 
 
 **§1. Complaint in action for partition of real estate.**
 
@@ -3708,7 +3901,7 @@ The commissioners shall make a full and accurate report to the court of all thei
 
 **§7. Action of the court upon commissioners report.**
 
-Upon the expiration of the period of ten (10) days referred to in the preceding §or even before the expiration of such period but after the interested parties have filed their objections to the report or their statement of agreement therewith the court may, upon hearing, accept the report and render judgment in accordance therewith, or, for cause shown recommit the same to the commissioners for further report of facts; or set aside the report and appoint new commissioners; or accept the report in part and reject it in part; and may make such order and render such judgment as shall effectuate a fair and just partition of the real estate, or of its value, if assigned or sold as above provided, between the several owners thereof.
+Upon the expiration of the period of ten (10) days referred to in the preceding section or even before the expiration of such period but after the interested parties have filed their objections to the report or their statement of agreement therewith the court may, upon hearing, accept the report and render judgment in accordance therewith, or, for cause shown recommit the same to the commissioners for further report of facts; or set aside the report and appoint new commissioners; or accept the report in part and reject it in part; and may make such order and render such judgment as shall effectuate a fair and just partition of the real estate, or of its value, if assigned or sold as above provided, between the several owners thereof.
 
 **§8. Accounting for rent and profits in action for partition.**
 
@@ -3734,7 +3927,7 @@ Nothing in this Rule contained shall be construed so as to prejudice, defeat, or
 
 The provisions of this Rule shall apply to partitions of estates composed of personal property, or of both real and personal property, in so far as the same may be applicable.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 70 FORCIBLE ENTRY AND UNLAWFUL DETAINER </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 70 FORCIBLE ENTRY AND UNLAWFUL DETAINER </p> 
 
 **§1. Who may institute proceedings, and when.**
 
@@ -3762,7 +3955,7 @@ Within ten (10) days from service of summons, the defendant shall file his answe
 
 **§7. Effect of failure to answer.**
 
-Should the defendant fail to answer the complaint within the period above provided, the court, motu proprio or on motion of the plaintiff, shall render judgment as may be warranted by the facts alleged in the complaint and limited to what is prayed for therein. The court may in its discretion reduce the amount of damages and attorney's fees claimed for being excessive or otherwise unconscionable, without prejudice to the applicability of §3 (c), Rule 9 if there are two or more defendants.
+Should the defendant fail to answer the complaint within the period above provided, the court, *motu proprio* or on motion of the plaintiff, shall render judgment as may be warranted by the facts alleged in the complaint and limited to what is prayed for therein. The court may in its discretion reduce the amount of damages and attorney's fees claimed for being excessive or otherwise unconscionable, without prejudice to the applicability of Section 3 (c), Rule 9 if there are two or more defendants.
 
 **§8. Preliminary conference; appearance of parties.**
 
@@ -3777,16 +3970,15 @@ No postponement of the preliminary conference shall be granted except for highly
 **§9. Record of preliminary conference.**
 
 Within five (5) days after the termination of the preliminary conference, the court shall issue an order stating the matters taken up therein, including but not limited to:
+- 1\. Whether the parties have arrived at an amicable settlement, and if so, the terms thereof;
 
-- 1. Whether the parties have arrived at an amicable settlement, and if so, the terms thereof;
+- 2\. The stipulations or admissions entered into by the parties;
 
-- 2. The stipulations or admissions entered into by the parties;
+- 3\. Whether, on the basis of the pleadings and the stipulations and admission made by the parties, judgment may be rendered without the need of further proceedings, in which event the judgment shall be rendered within thirty (30) days from issuance of the order;
 
-- 3. Whether, on the basis of the pleadings and the stipulations and admission made by the parties, judgment may be rendered without the need of further proceedings, in which event the judgment shall be rendered within thirty (30) days from issuance of the order;
+- 4\. A clear specification of material facts which remain converted; and
 
-- 4. A clear specification of material facts which remain converted; and
-
-- 5. Such other matters intended to expedite the disposition of the case.
+- 5\. Such other matters intended to expedite the disposition of the case.
 
 **§10. Submission of affidavits and position papers.**
 
@@ -3808,29 +4000,29 @@ Cases requiring referral for conciliation, where there is no showing of complian
 
 The following petitions, motions, or pleadings shall not be allowed:
 
-- (a) * 1. Motion to dismiss the complaint except on the ground of lack of jurisdiction over the subject matter, or failure to comply with §12;
+-  1\. Motion to dismiss the complaint except on the ground of lack of jurisdiction over the subject matter, or failure to comply with Section 12;
 
-- (b) * 2. Motion for a bill of particulars;
+-  2\. Motion for a bill of particulars;
 
-- (c) * 3. Motion for new trial, or for reconsideration of a judgment, or for reopening of trial;
+-  3\. Motion for new trial, or for reconsideration of a judgment, or for reopening of trial;
 
-- (d) * 4. Petition for relief from judgment;
+-  4\. Petition for relief from judgment;
 
-- (e) * 5. Motion for extension of time to file pleadings, affidavits or any other paper;
+-  5\. Motion for extension of time to file pleadings, affidavits or any other paper;
 
-- (f) * 6. Memoranda;
+-  6\. Memoranda;
 
-- (g) * 7. Petition for *certiorari*, *mandamus*, or prohibition against any interlocutory order issued by the court;
+-  7\. Petition for *certiorari*, *mandamus*, or prohibition against any interlocutory order issued by the court;
 
-- (h) * 8. Motion to declare the defendant in default;
+-  8\. Motion to declare the defendant in default;
 
-- (i) * 9. Dilatory motions for postponement;
+-  9\. Dilatory motions for postponement;
 
-- (j) * 10. Reply;
+- 10\. Reply;
 
-- (k) * 11. Third-party complaints;
+- 11\. Third-party complaints;
 
-- (l) * 12. Interventions.
+- 12\. Interventions.
 
 **§14. Affidavits.**
 
@@ -3874,7 +4066,7 @@ Upon motion of the plaintiff, within ten (10) days from the perfection of the ap
 
 The judgment of the Regional Trial Court against the defendant shall be immediately executory, without prejudice to a further appeal that may be taken therefrom.
 
- <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 71 CONTEMPT </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 71 CONTEMPT </p> 
 
 **§1. Direct contempt punished summarily.**
 
@@ -3892,7 +4084,7 @@ After a charge in writing has been filed, and an opportunity given to the respon
 
 - (b) Disobedience of or resistance to a lawful writ, process, order, or judgment of a court, including the act of a person who, after being dispossessed or ejected from any real property by the judgment or process of any court of competent jurisdiction, enters or attempts or induces another to enter into or upon such real property, for the purpose of executing acts of ownership or possession, or in any manner disturbs the possession given to the person adjudged to be entitled thereto;
 
-- (c) Any abuse of or any unlawful interference with the processes or proceedings of a court not constituting direct contempt under §1 of this Rule;
+- (c) Any abuse of or any unlawful interference with the processes or proceedings of a court not constituting direct contempt under Section 1 of this Rule;
 
 - (d) Any improper conduct tending, directly or indirectly, to impede, obstruct, or degrade the administration of justice;
 
@@ -3902,7 +4094,7 @@ After a charge in writing has been filed, and an opportunity given to the respon
 
 - (g) The rescue, or attempted rescue, of a person or property in the custody of an officer by virtue of an order or process of a court held by him.
 
-But nothing in this §shall be so construed as to prevent the court from issuing process to bring the respondent into court, or from holding him in custody pending such proceedings.
+But nothing in this section shall be so construed as to prevent the court from issuing process to bring the respondent into court, or from holding him in custody pending such proceedings.
 
 **§4. How proceedings commenced.**
 
@@ -3912,7 +4104,7 @@ In all other cases, charges for indirect contempt shall be commenced by a verifi
 
 **§5. Where charge to be filed.**
 
-Where the charge for indirect contempt has been committed against a Regional Trial Court or a court of equivalent or higher rank, or against an officer appointed by it, the charge may be filed with such court. Where such contempt has been committed against a lower court, the charge may be filed with the Regional Trial Court of the place in which the lower court is sitting; but the proceedings may also be instituted in such lower court subject to appeal to the Regional Trial Court of such place in the same manner as provided in §11 of this Rule.
+Where the charge for indirect contempt has been committed against a Regional Trial Court or a court of equivalent or higher rank, or against an officer appointed by it, the charge may be filed with such court. Where such contempt has been committed against a lower court, the charge may be filed with the Regional Trial Court of the place in which the lower court is sitting; but the proceedings may also be instituted in such lower court subject to appeal to the Regional Trial Court of such place in the same manner as provided in Section 11 of this Rule.
 
 **§6. Hearing; release on bail.**
 
@@ -3943,3 +4135,51 @@ The judgment or final order of a court in a case of indirect contempt may be app
 **§12. Contempt against quasi-judicial entities.**
 
 Unless otherwise provided by law, this Rule shall apply to contempt committed against persons, entities, bodies or agencies exercising quasi-judicial functions, or shall have suppletory effect to such rules as they may have adopted pursuant to authority granted to them by law to punish for contempt. The Regional Trial Court of the place wherein the contempt has been committed shall have jurisdiction over such charges as may be filed therefor.
+
+---
+
+<h1 id="CaseLawCVP"> Case Law on Civil Procedure </h1>
+
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> 
+RULE 4 VENUE OF ACTIONS </p> 
+
+**What actions are personal and real**
+
+<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295 (2025 May 07) [Decision per J. Inting, Third Division]. </span>
+
+- An action involving the nullification of agreements relating to real properties that includes a prayer for the recovery of possession or title to the property is a real action.
+
+- An action for the annulment or nullification of a deed of sale that includes a prayer for the:
+    - (a) plaintiff to be judicially declared as the owner, or 
+    - (b) recovery or transfer of title to or possession of real property
+- is a real action.
+
+- An action for the:
+    - (a) nullification of agreements for a loan with real property mortgage, or
+    - (b) for the sale of real property
+- without an allegation by the plaintiff that the possession or title to the real property had been transferred to the defendant is a personal action.
+
+**Provision on exclusivity of venue, what is required to be effective**
+
+<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295 (2025 May 07) [Decision per J. Inting, Third Division]. </span>
+
+- The language of the agreement must be so clear and categorical as to leave no doubt on the parties' intention to limit the venue of their actions.
+
+- To bind the parties, the venue stipulation must have been intelligently and deliberately intended by them to exclude their case from the reglementary rules on venue.
+
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 39 EXECUTION, SATISFACTION AND EFFECT OF JUDGMENTS </p> 
+
+<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295 (2025 May 07) [Decision per J. Inting, Third Division]. </span>
+
+- Until a judgment has been fully satisfied, the case in which an execution has been issued is regarded as still pending. Therefore, all proceedings on the execution are proceedings in the suit.
+
+- Generally, any controversy in the execution of judgment should be referred to the court which issued the writ of execution.
+
+- If the sheriff:
+    - (a) committed an irregularity in the implementation of a writ of execution, or 
+    - (b) exceeded their authority,
+- then the proper remedy is to move for relief from the same court that issued the judgment.
+
+- After a judgment has been fully satisfied, the case is deemed terminated once and for all and the trial court is deemed to have lost jurisdiction over the proceedings. The only available remedy to the judgment debtor is to file a separate action for the annulment of the auction sale with the appropriate court.
+
+- The sheriff's failure to observe the specific order by which the property of a judgment debtor may be executed upon may render the levy and the execution sale invalid, unless the judgment debtor acceded.
