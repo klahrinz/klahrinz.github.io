@@ -12,13 +12,13 @@ For case-law section-level headings:
 <ins> * <span style=" color:rgba(50, 100, 65, 1);"> PLF v. DEF, G.R. No. ###### (YYYY Mmm DD) (Decision/Resolution – Nth Division/En Banc, Ponente) </span> * </ins> 
 
 For non-Title, non-Subtitle, non-regular headers:
-Heading for RPC Book
+Heading for RPC Book/NCC Book
 <p style="text-align:center; font-size: 20px; font-weight: bold;">  </p> 
 
-Non-Regular Heading 1/RPC Title/RPC Chapter/RPC Section
+Non-Regular Heading 1/RPC Title/RPC Chapter/RPC Section/NCC Title
 <p style="text-align:center; font-size: 18px; font-weight: bold;">  </p> 
 
-Non-Regular Heading 2 / Rules / RPC Articles
+Non-Regular Heading 2/Rules/RPC Articles/NCC Chapter/NCC Section
 <p style="text-align:center; font-size: 16px; font-weight: bold;">  </p> 
 
 Fromat notes:
@@ -38,7 +38,7 @@ R "
 # CIVIL PROCEDURE
 [Jump to Case Law on Civil Procedure](#CaseLawCVP)
 
-<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 1 GENERAL PROVISIONS </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 1 GENERAL PROVISIONS </p>
 
 **§1. Title of the Rules.**
 
@@ -4145,7 +4145,7 @@ RULE 4 VENUE OF ACTIONS </p>
 
 **What actions are personal and real**
 
-<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295 (2025 May 07) [Decision per J. Inting, Third Division]. </span>
+<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295, May 07, 2025 [Decision per J. Inting, Third Division]. </span>
 
 - An action involving the nullification of agreements relating to real properties that includes a prayer for the recovery of possession or title to the property is a real action.
 
@@ -4161,7 +4161,7 @@ RULE 4 VENUE OF ACTIONS </p>
 
 **Provision on exclusivity of venue, what is required to be effective**
 
-<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295 (2025 May 07) [Decision per J. Inting, Third Division]. </span>
+<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295, May 07, 2025 [Decision per J. Inting, Third Division]. </span>
 
 - The language of the agreement must be so clear and categorical as to leave no doubt on the parties' intention to limit the venue of their actions.
 
@@ -4169,7 +4169,7 @@ RULE 4 VENUE OF ACTIONS </p>
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 39 EXECUTION, SATISFACTION AND EFFECT OF JUDGMENTS </p> 
 
-<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295 (2025 May 07) [Decision per J. Inting, Third Division]. </span>
+<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295, May 07, 2025 [Decision per J. Inting, Third Division]. </span>
 
 - Until a judgment has been fully satisfied, the case in which an execution has been issued is regarded as still pending. Therefore, all proceedings on the execution are proceedings in the suit.
 
