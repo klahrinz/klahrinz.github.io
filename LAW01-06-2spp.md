@@ -6,6 +6,8 @@ permalink: spp
 <!-- There's a comment here so it doesn't include the title in the top bar. -->
 
 # SPECIAL PROCEEDINGS
+### Bar Matter No. 803, Part II
+###### (adopted April 08, 1997)
 
 <p style="text-align:center; font-size: 20px; font-weight: bold;"> GENERAL PROVISION </p>
 

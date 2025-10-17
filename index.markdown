@@ -14,12 +14,13 @@ Test
 ## Philippine Rules of Procedure
 - <a href="PRoP/hst">History of the Rules</a><br>
 - <a href="PRoP/jrd">Jurisdiction Statutes</a><br>
-- Rules of Court and Ethics
+- Rules of Court
     - <a href=cvp>Civil Procedure</a><br>
     - <a href=spp>Special Proceedings</a><br>
     - <a href=crp>Criminal Procedure</a><br>
     - <a href=evd>Evidence</a><br>
     - <a href=lge>Legal Ethics</a><br>
+- Ethics Codes
     - <a href=cpra>Code of Professional Responsibility and Accountability</a><br>
     - <a href=jde>Judicial Ethics</a><br>
 - Special Rules

@@ -8697,6 +8697,18 @@ Repealing Clause
 
 ###### <span style="color:blue;"> The use of wilful and wilfully (British, single L) instead of willful and willfully (American, double L) in this statute is a choice of convention. It will not be "corrected". </span>
 
+---
+
+# Amendments
+
+**Art. 2.** Laws shall take effect after fifteen days following the completion of their publication in the Official Gazette, unless it is otherwise provided. This Code shall take effect one year after such publication.
+
+###### <span style="color:blue;"> Original text </span>
+
+###### <span style="color:blue;"> EO 200 s. 1987 removed the effectivity clause of the Civil Code, which said "This Code shall take effect one year after such publication." The Civil Code was enacted on June 18, 1949; EO 200 was enacted on June 18, 1987 or 38 years later. See e.g., <ins>*Lara v. Del Rosario*</ins>, G.R. No. L-6339, 94 Phil. 778, April 20, 1954 [Decision per J. Montemayor, *En Banc*] and <ins>*Cueno v. Bautista*</ins>, G.R. No. 246445, 897 Phil. 657, March 02, 2021 [Decision per J. Caguioa, *En Banc*] for how we know the date of effectivity of the Civil Code. </span>
+
+---
+
 ### Endnotes
 <!-- footnotes -->
 
@@ -8722,3 +8734,4 @@ Sec. 2. Article 2 of Republic Act No. 386, otherwise known as the "Civil Code of
 Sec. 3. This Executive Order shall take effect immediately after its publication in the Official Gazette.
 
 Done in the City of Manila, this 18th day of June, in the year of Our Lord, nineteen hundred and eighty-seven.
+

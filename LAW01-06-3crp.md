@@ -6,6 +6,8 @@ permalink: crp
 <!-- There's a comment here so it doesn't include the title in the top bar. -->
 
 # CRIMINAL PROCEEDINGS
+### Bar Matter No. 803, Part III
+###### (adopted April 08, 1997)
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;">RULE 110 PROSECUTION OF OFFENSES</p>
 

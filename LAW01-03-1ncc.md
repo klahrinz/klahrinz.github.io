@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Civil Code of the Philippines
-permalink: cvl
+permalink: cvl/ncc
 ---
 # CIVIL CODE OF THE PHILIPPINES
-###### RA 386 (app. June 18, 1949, pub. in the Official Gazette Supplement, Vol. 45, No. 6 in August 1949, eff. August 30, 1950)
-###### The New Civil Code became effective on August 30, 1950 (*see* e.g., <ins>*Lara v. Del Rosario*</ins>, G.R. No. L-6339, 94 Phil. 778, April 20, 1954 [Decision per J. Montemayor, *En Banc*] and <ins>*Cueno v. Bautista*</ins>, G.R. No. 246445, 897 Phil. 657, March 02, 2021 [Decision per J. Caguioa, *En Banc*].)
+### Republic Act No. 386
+###### (app. June 18, 1949, pub. in the Official Gazette Supplement, Vol. 45, No. 6 in August 1949, eff. August 30, 1950)
+###### <span style="color:blue;"> The New Civil Code became effective on August 30, 1950 (*see* e.g., <ins>*Lara v. Del Rosario*</ins>, G.R. No. L-6339, 94 Phil. 778, April 20, 1954 [Decision per J. Montemayor, *En Banc*] and <ins>*Cueno v. Bautista*</ins>, G.R. No. 246445, 897 Phil. 657, March 02, 2021 [Decision per J. Caguioa, *En Banc*].) </span>
 
 <p style="text-align:center; font-size: 18px; font-weight: bold;"> PRELIMINARY TITLE </p>
 
@@ -13,13 +14,9 @@ permalink: cvl
 
 **Art. 1.** This Act shall be known as the "Civil Code of the Philippines."
 
-**Art. 2.** ~~Laws shall take effect after fifteen days following the completion of their publication in the Official Gazette, unless it is otherwise provided. This Code shall take effect one year after such publication.~~
+**Art. 2** Laws shall take effect after fifteen days following the completion of their publication either in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is otherwise provided.
 
-###### <span style="color:blue;"> CC Art. 2 was amended by EO 200 s. 1987 (June 18, 1987)[^bignote]: </span>
-
-**EO 200 s. 1987 Sec. 1.** Laws shall take effect after fifteen days following the completion of their publication either in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is otherwise provided.
-
-###### <span style="color:blue;"> EO 200 s. 1987 removed the effectivity clause of the Civil Code, which said "This Code shall take effect one year after such publication." The Civil Code was enacted on June 18, 1949; EO 200 was enacted on June 18, 1987 or 38 years later. See e.g., <ins>*Lara v. Del Rosario*</ins>, G.R. No. L-6339, 94 Phil. 778, April 20, 1954 [Decision per J. Montemayor, *En Banc*] and <ins>*Cueno v. Bautista*</ins>, G.R. No. 246445, 897 Phil. 657, March 02, 2021 [Decision per J. Caguioa, *En Banc*] for how we know the date of effectivity of the Civil Code. </span>
+###### <span style="color:blue;"> EO 200 s. 1987 (June 18, 1987)[^bignote] amended Art. 2. </span>
 
 **Art. 3.** Ignorance of the law excuses no one from compliance therewith.
 
@@ -8914,6 +8911,18 @@ Repealing Clause
 - (4) All laws, Acts, parts of Acts, rules of court, executive orders, and administrative regulations which are inconsistent with this Code.
 
 ###### <span style="color:blue;"> The use of wilful and wilfully (British, single L) instead of willful and willfully (American, double L) in this statute is a choice of convention. It will not be "corrected". </span>
+
+---
+
+# Amendments
+
+**Art. 2.** Laws shall take effect after fifteen days following the completion of their publication in the Official Gazette, unless it is otherwise provided. This Code shall take effect one year after such publication.
+
+###### <span style="color:blue;"> Original text </span>
+
+###### <span style="color:blue;"> EO 200 s. 1987 removed the effectivity clause of the Civil Code, which said "This Code shall take effect one year after such publication." The Civil Code was enacted on June 18, 1949; EO 200 was enacted on June 18, 1987 or 38 years later. See e.g., <ins>*Lara v. Del Rosario*</ins>, G.R. No. L-6339, 94 Phil. 778, April 20, 1954 [Decision per J. Montemayor, *En Banc*] and <ins>*Cueno v. Bautista*</ins>, G.R. No. 246445, 897 Phil. 657, March 02, 2021 [Decision per J. Caguioa, *En Banc*] for how we know the date of effectivity of the Civil Code. </span>
+
+---
 
 ### Endnotes
 <!-- footnotes -->

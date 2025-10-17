@@ -5,6 +5,10 @@ permalink: cvp
 ---
 <!-- There's a comment here so it doesn't include the title in the top bar. 
 
+For insertion of notes on amendments and others:
+For individual provisions (e.g., articles in the NCC, sections in the RoC, etc.), the note is written at the end of the provision.
+For entire sets of provisions (e.g., sections, chapters, titles, or books in the NCC; or rules in the RoC), the note should be below the title of the set.
+
 Templates:
 For case-law section-level headings:
 <ins> * <span style=" color:rgba(50, 100, 65, 1);"> </span> * </ins> 
@@ -15,11 +19,11 @@ For non-Title, non-Subtitle, non-regular headers:
 Heading for RPC Book/NCC Book
 <p style="text-align:center; font-size: 20px; font-weight: bold;">  </p> 
 
-Non-Regular Heading 1/RPC Title/RPC Chapter/RPC Section/NCC Title
-<p style="text-align:center; font-size: 18px; font-weight: bold;">  </p> 
+Non-Regular Heading 1/RPC Title/RPC Chapter/RPC Section/NCC Title/FC Title
+<p style="text-align:center; font-size: 18px; font-weight: bold;">  </p>
 
 Non-Regular Heading 2/Rules/RPC Articles/NCC Chapter/NCC Section
-<p style="text-align:center; font-size: 16px; font-weight: bold;">  </p> 
+<p style="text-align:center; font-size: 16px; font-weight: bold;">  </p>
 
 Fromat notes:
 // issue 1 [Resolved]
@@ -36,6 +40,10 @@ R "
 --> 
 
 # CIVIL PROCEDURE
+### Bar Matter No. 803, Part I
+###### (adopted April 08, 1997)
+###### <span style="color:blue;"> Rules 01-35 were amended by A.M. No. 19-10-20-SC (in a Resolution d. October 15, 2019, eff.  May 01, 2020). Amendments will not be noted in this text. </span>
+
 [Jump to Case Law on Civil Procedure](#CaseLawCVP)
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 1 GENERAL PROVISIONS </p>
@@ -4169,17 +4177,27 @@ RULE 4 VENUE OF ACTIONS </p>
 
 <p style="text-align:center; font-size: 16px; font-weight: bold;"> RULE 39 EXECUTION, SATISFACTION AND EFFECT OF JUDGMENTS </p> 
 
+**Residual jurisdiction**
+
 <span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295, May 07, 2025 [Decision per J. Inting, Third Division]. </span>
 
 - Until a judgment has been fully satisfied, the case in which an execution has been issued is regarded as still pending. Therefore, all proceedings on the execution are proceedings in the suit.
 
 - Generally, any controversy in the execution of judgment should be referred to the court which issued the writ of execution.
 
+**Effect of irregularities of sheriff's actions**
+
+<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295, May 07, 2025 [Decision per J. Inting, Third Division]. </span>
+
 - If the sheriff:
     - (a) committed an irregularity in the implementation of a writ of execution, or 
     - (b) exceeded their authority,
 - then the proper remedy is to move for relief from the same court that issued the judgment.
 
-- After a judgment has been fully satisfied, the case is deemed terminated once and for all and the trial court is deemed to have lost jurisdiction over the proceedings. The only available remedy to the judgment debtor is to file a separate action for the annulment of the auction sale with the appropriate court.
-
 - The sheriff's failure to observe the specific order by which the property of a judgment debtor may be executed upon may render the levy and the execution sale invalid, unless the judgment debtor acceded.
+
+**Remedy for a judgment debtor after satisfaction of judgment**
+
+<span style=" color:rgba(50, 100, 65, 1);"> *Hernando v. Golden Sun Finance*, G.R. No. 259295, May 07, 2025 [Decision per J. Inting, Third Division]. </span>
+
+- After a judgment has been fully satisfied, the case is deemed terminated once and for all and the trial court is deemed to have lost jurisdiction over the proceedings. The only available remedy to the judgment debtor is to file a separate action for the annulment of the auction sale with the appropriate court.
