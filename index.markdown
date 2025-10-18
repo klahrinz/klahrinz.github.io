@@ -8,7 +8,7 @@ layout: home
 
 Test
 
-# <span style="font-variant:small-caps;">Project Lexotheca</span>
+# <span style="font-variant:small-caps;">Lexotheca Philippinica</span>
 
 ## <a href=cns> The <span style="font-variant:small-caps;">Constitution</span></a>
 ## Philippine Rules of Procedure
